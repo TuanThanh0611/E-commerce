@@ -3,19 +3,9 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-ecommerce": {
+    "Angular-Ecommerce": {
       "projectType": "application",
-      "schematics": {
-        "@schematics/angular:component": {
-          "standalone": false
-        },
-        "@schematics/angular:directive": {
-          "standalone": false
-        },
-        "@schematics/angular:pipe": {
-          "standalone": false
-        }
-      },
+      "schematics": {},
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -39,12 +29,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
-            "server": "src/main.server.ts",
-            "prerender": true,
-            "ssr": {
-              "entry": "server.ts"
-            }
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -74,10 +59,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "angular-ecommerce:build:production"
+              "buildTarget": "Angular-Ecommerce:build:production"
             },
             "development": {
-              "buildTarget": "angular-ecommerce:build:development"
+              "buildTarget": "Angular-Ecommerce:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -109,6 +94,6 @@
     }
   },
   "cli": {
-    "analytics": "cca5ff7f-1d43-491b-88f6-eaed011e6451"
+    "analytics": "a7f04652-669c-45eb-8044-fe209799a754"
   }
 }

@@ -34,7 +34,10 @@
               {
                 "glob": "**/*",
                 "input": "public"
-              }
+              },
+              {
+                "glob": "**/*",
+                "input": "src/assets/images/products"}
             ],
             "styles": [
               "src/styles.css"

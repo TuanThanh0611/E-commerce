@@ -1,0 +1,3 @@
+project,target,configuration,hash,code,status,start,end
+ecom-frontend,serve,development,13674543126162103792,1,failure,1729691816230,1729691831313
+ecom-frontend,serve,development,1731204979691302627,0,success,1729734655301,1729734730533

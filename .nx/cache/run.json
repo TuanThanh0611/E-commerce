@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx serve ecom-frontend",
+    "startTime": "2024-10-24T01:50:55.289Z",
+    "endTime": "2024-10-24T01:52:10.533Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "ecom-frontend:serve:development",
+      "target": "serve",
+      "projectName": "ecom-frontend",
+      "hash": "1731204979691302627",
+      "startTime": "2024-10-24T01:50:55.300Z",
+      "endTime": "2024-10-24T01:52:10.533Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

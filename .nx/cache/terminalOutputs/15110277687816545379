@@ -1,0 +1,883 @@
+[?25l[2m◼[22m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[32m✔[39m Building...
+[2K[1A[2K[G
+🌼   [35mdaisyUI[39m [2m4.12.10[22m
+├─ [32m✔︎[39m 1 theme added[2m		https://daisyui.com/docs/themes[22m
+╰─ [32m★[39m [0mStar daisyUI on GitHub[0m	[2mhttps://github.com/saadeghi/daisyui[22m
+[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m[36m152.70 kB[39m[37m[2m | [22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m76.88 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-HQCHPAD3.js[39m[37m      [2m | [22m[2m-[22m                  [2m | [22m  [36m6.88 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m326.69 kB[22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-72HQDVPQ.js[39m[37m      [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.55 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m153.41 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-CNDSPNZX.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-FFILDKJJ.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m[36m788 bytes[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-QGC6AQP4.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [4.212 seconds][39m
+[37m[39m
+[37mWatch mode enabled. Watching for file changes...[39m
+[37mNOTE: Raw file sizes do not reflect development server per-request transformations.[39m
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠦[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠧[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠇[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠏[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [1.494 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8003: No directive found with exportAs 'ngForm'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:3:49:[39m[22m
+[1m[31m[37m      3 │     <form (ngSubmit)="onSubmit()" #registerForm="[32mngForm[37m">[39m[22m
+[1m[31m        ╵                                                  [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:6:56:[39m[22m
+[1m[31m[37m      6 │ ...email" name="email" [32m[(ngModel)]="registerRequest.email"[37m required />[39m[22m
+[1m[31m        ╵                        [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:6:69:[39m[22m
+[1m[31m[37m      6 │ ...email" name="email" [(ngModel)]="[32mregisterRequest[37m.email" required />[39m[22m
+[1m[31m        ╵                                     [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~[39m[22m[1m[31m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:6:69:[39m[22m
+[1m[31m[37m      6 │ ...email" name="email" [(ngModel)]="[32mregisterRequest[37m.email" required />[39m[22m
+[1m[31m        ╵                                     [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:65:[39m[22m
+[1m[31m[37m      10 │ ...name="password" [32m[(ngModel)]="registerRequest.password"[37m required />[39m[22m
+[1m[31m         ╵                    [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:78:[39m[22m
+[1m[31m[37m      10 │ ...name="password" [(ngModel)]="[32mregisterRequest[37m.password" required />[39m[22m
+[1m[31m         ╵                                 [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.compo[39m[22m[1m[31mnent.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:78:[39m[22m
+[1m[31m[37m      10 │ ...name="password" [(ngModel)]="[32mregisterRequest[37m.password" required />[39m[22m
+[1m[31m         ╵                                 [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS-992008: Could not find stylesheet file './register.component.css'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:10:16:[39m[22m
+[1m[31m[37m      10 │     styleUrls: [[32m'./register.component.css'[37m][39m[22m
+[1m[31m         ╵                 [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.319 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8003: No directive found with exportAs 'ngForm'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:3:49:[39m[22m
+[1m[31m[37m      3 │     <form (ngSubmit)="onSubmit()" #registerForm="[32mngForm[37m">[39m[22m
+[1m[31m        ╵                                                  [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:6:56:[39m[22m
+[1m[31m[37m      6 │ ...email" name="email" [32m[(ngModel)]="registerRequest.email"[37m required />[39m[22m
+[1m[31m        ╵                        [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:6:69:[39m[22m
+[1m[31m[37m      6 │ ...email" name="email" [(ngModel)]="[32mregisterRequest[37m.email" required />[39m[22m
+[1m[31m        ╵                                     [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~[39m[22m[1m[31m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:6:69:[39m[22m
+[1m[31m[37m      6 │ ...email" name="email" [(ngModel)]="[32mregisterRequest[37m.email" required />[39m[22m
+[1m[31m        ╵                                     [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:65:[39m[22m
+[1m[31m[37m      10 │ ...name="password" [32m[(ngModel)]="registerRequest.password"[37m required />[39m[22m
+[1m[31m         ╵                    [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:78:[39m[22m
+[1m[31m[37m      10 │ ...name="password" [(ngModel)]="[32mregisterRequest[37m.password" required />[39m[22m
+[1m[31m         ╵                                 [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.compo[39m[22m[1m[31mnent.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:78:[39m[22m
+[1m[31m[37m      10 │ ...name="password" [(ngModel)]="[32mregisterRequest[37m.password" required />[39m[22m
+[1m[31m         ╵                                 [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.282 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8003: No directive found with exportAs 'ngForm'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:3:49:[39m[22m
+[1m[31m[37m      3 │     <form (ngSubmit)="onSubmit()" #registerForm="[32mngForm[37m">[39m[22m
+[1m[31m        ╵                                                  [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:6:56:[39m[22m
+[1m[31m[37m      6 │ ...email" name="email" [32m[(ngModel)]="registerRequest.email"[37m required />[39m[22m
+[1m[31m        ╵                        [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:6:69:[39m[22m
+[1m[31m[37m      6 │ ...email" name="email" [(ngModel)]="[32mregisterRequest[37m.email" required />[39m[22m
+[1m[31m        ╵                                     [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~[39m[22m[1m[31m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:6:69:[39m[22m
+[1m[31m[37m      6 │ ...email" name="email" [(ngModel)]="[32mregisterRequest[37m.email" required />[39m[22m
+[1m[31m        ╵                                     [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:65:[39m[22m
+[1m[31m[37m      10 │ ...name="password" [32m[(ngModel)]="registerRequest.password"[37m required />[39m[22m
+[1m[31m         ╵                    [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:78:[39m[22m
+[1m[31m[37m      10 │ ...name="password" [(ngModel)]="[32mregisterRequest[37m.password" required />[39m[22m
+[1m[31m         ╵                                 [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.compo[39m[22m[1m[31mnent.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:78:[39m[22m
+[1m[31m[37m      10 │ ...name="password" [(ngModel)]="[32mregisterRequest[37m.password" required />[39m[22m
+[1m[31m         ╵                                 [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.217 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8003: No directive found with exportAs 'ngForm'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:3:49:[39m[22m
+[1m[31m[37m      3 │     <form (ngSubmit)="onSubmit()" #registerForm="[32mngForm[37m">[39m[22m
+[1m[31m        ╵                                                  [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:6:56:[39m[22m
+[1m[31m[37m      6 │ ...email" name="email" [32m[(ngModel)]="registerRequest.email"[37m required />[39m[22m
+[1m[31m        ╵                        [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:6:69:[39m[22m
+[1m[31m[37m      6 │ ...email" name="email" [(ngModel)]="[32mregisterRequest[37m.email" required />[39m[22m
+[1m[31m        ╵                                     [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~[39m[22m[1m[31m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:6:69:[39m[22m
+[1m[31m[37m      6 │ ...email" name="email" [(ngModel)]="[32mregisterRequest[37m.email" required />[39m[22m
+[1m[31m        ╵                                     [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:65:[39m[22m
+[1m[31m[37m      10 │ ...name="password" [32m[(ngModel)]="registerRequest.password"[37m required />[39m[22m
+[1m[31m         ╵                    [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:78:[39m[22m
+[1m[31m[37m      10 │ ...name="password" [(ngModel)]="[32mregisterRequest[37m.password" required />[39m[22m
+[1m[31m         ╵                                 [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.compo[39m[22m[1m[31mnent.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'registerRequest' does not exist on type 'RegisterComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:78:[39m[22m
+[1m[31m[37m      10 │ ...name="password" [(ngModel)]="[32mregisterRequest[37m.password" required />[39m[22m
+[1m[31m         ╵                                 [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.321 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8103: The `*ngIf` directive was used in the template, but neither the `NgIf` directive nor the `CommonModule` was imported. Use Angular's built-in control flow @if or make sure that either the `NgIf` directive or the `CommonModule` is included in the `@Component.imports` array of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.html:14:18:[39m[22m
+[1m[33m[37m      14 │             <div *[32mngIf[37m="isSubmitted && formControls.email.errors" ...[39m[22m
+[1m[33m         ╵                   [32m~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.ts:9:17:[39m[22m
+[1m[33m[37m      9 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[33m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8103: The `*ngIf` directive was used in the template, but neither the `NgIf` directive nor the `CommonModule` was imported. Use Angular's built-in control flow @if or make sure that either the `NgIf` directive or the `CommonModule` is included in the `@Component.imports` array of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.html:27:18:[39m[22m
+[1m[33m[37m      27 │             <div *[32mngIf[37m="isSubmitted && formControls.password.error...[39m[22m
+[1m[33m         ╵                   [32m~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.ts:9:17:[39m[22m
+[1m[33m[37m      9 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[33m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'email' comes from an index signature, so it must be accessed with ['email'].[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:12:75:[39m[22m
+[1m[31m[37m      12 │ ...lass]="{ 'is-invalid': isSubmitted && formControls.[32memail[37m.errors }"[39m[22m
+[1m[31m         ╵                                                       [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:9:17:[39m[22m
+[1m[31m[37m      9 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'password' comes from an index signature, so it must be accessed with ['password'].[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:25:75:[39m[22m
+[1m[31m[37m      25 │ ...s]="{ 'is-invalid': isSubmitted && formControls.[32mpassword[37m.errors }"[39m[22m
+[1m[31m         ╵                                                    [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:9:17:[39m[22m
+[1m[31m[37m      9 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.285 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8103: The `*ngIf` directive was used in the template, but neither the `NgIf` directive nor the `CommonModule` was imported. Use Angular's built-in control flow @if or make sure that either the `NgIf` directive or the `CommonModule` is included in the `@Component.imports` array of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.html:12:18:[39m[22m
+[1m[33m[37m      12 │             <div *[32mngIf[37m="isSubmitted && formControls.username.error...[39m[22m
+[1m[33m         ╵                   [32m~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.ts:9:17:[39m[22m
+[1m[33m[37m      9 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[33m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8103: The `*ngIf` directive was used in the template, but neither the `NgIf` directive nor the `CommonModule` was imported. Use Angular's built-in control flow @if or make sure that either the `NgIf` directive or the `CommonModule` is included in the `@Component.imports` array of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.html:25:18:[39m[22m
+[1m[33m[37m      25 │             <div *[32mngIf[37m="isSubmitted && formControls.email.errors" ...[39m[22m
+[1m[33m         ╵                   [32m~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.ts:9:17:[39m[22m
+[1m[33m[37m      9 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[33m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8103: The `*ngIf` directive was used in the template, but neither the `NgIf` directive nor the `CommonModule` was imported. Use Angular's built-in control flow @if or make sure that eit[39m[22m[1m[33mher the `NgIf` directive or the `CommonModule` is included in the `@Component.imports` array of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.html:38:18:[39m[22m
+[1m[33m[37m      38 │             <div *[32mngIf[37m="isSubmitted && formControls.password.error...[39m[22m
+[1m[33m         ╵                   [32m~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.ts:9:17:[39m[22m
+[1m[33m[37m      9 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[33m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'formGroup' since it isn't a known property of 'form'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:3:10:[39m[22m
+[1m[31m[37m      3 │     <form [32m[formGroup]="registerForm"[37m (ngSubmit)="onSubmit()">[39m[22m
+[1m[31m        ╵           [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:9:17:[39m[22m
+[1m[31m[37m      9 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'username' comes from an index signature, so it must be accessed with ['username'].[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:75:[39m[22m
+[1m[31m[37m      10 │ ...s]="{ 'is-invalid': isSubmitted && formControls.[32musername[37m.errors }"[39m[22m
+[1m[31m         ╵                                                    [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:9:17:[39m[22m
+[1m[31m[37m      9 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'email' comes from an index signature, so it must be accessed with ['email'].[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:23:75:[39m[22m
+[1m[31m[37m      23 │ ...lass]="{ 'is-invalid': isSubmitted && formControls.[32memail[37m.errors }"[39m[22m
+[1m[31m         ╵                                                       [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:9:17:[39m[22m
+[1m[31m[37m      9 │     templateUrl: [32m'./register.c[39m[22m[1m[31momponent.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'password' comes from an index signature, so it must be accessed with ['password'].[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:36:75:[39m[22m
+[1m[31m[37m      36 │ ...s]="{ 'is-invalid': isSubmitted && formControls.[32mpassword[37m.errors }"[39m[22m
+[1m[31m         ╵                                                    [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:9:17:[39m[22m
+[1m[31m[37m      9 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.286 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8103: The `*ngIf` directive was used in the template, but neither the `NgIf` directive nor the `CommonModule` was imported. Use Angular's built-in control flow @if or make sure that either the `NgIf` directive or the `CommonModule` is included in the `@Component.imports` array of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.html:12:18:[39m[22m
+[1m[33m[37m      12 │             <div *[32mngIf[37m="isSubmitted && formControls.username.error...[39m[22m
+[1m[33m         ╵                   [32m~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[33m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[33m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8103: The `*ngIf` directive was used in the template, but neither the `NgIf` directive nor the `CommonModule` was imported. Use Angular's built-in control flow @if or make sure that either the `NgIf` directive or the `CommonModule` is included in the `@Component.imports` array of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.html:25:18:[39m[22m
+[1m[33m[37m      25 │             <div *[32mngIf[37m="isSubmitted && formControls.email.errors" ...[39m[22m
+[1m[33m         ╵                   [32m~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[33m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[33m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8103: The `*ngIf` directive was used in the template, but neither the `NgIf` directive nor the `CommonModule` was imported. Use Angular's built-in control flow @if or make sure that eit[39m[22m[1m[33mher the `NgIf` directive or the `CommonModule` is included in the `@Component.imports` array of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.html:38:18:[39m[22m
+[1m[33m[37m      38 │             <div *[32mngIf[37m="isSubmitted && formControls.password.error...[39m[22m
+[1m[33m         ╵                   [32m~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[33m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[33m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'formGroup' since it isn't a known property of 'form'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:3:10:[39m[22m
+[1m[31m[37m      3 │     <form [32m[formGroup]="registerForm"[37m (ngSubmit)="onSubmit()">[39m[22m
+[1m[31m        ╵           [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngClass' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:20:[39m[22m
+[1m[31m[37m      10 │ ...          [32m[ngClass]="{ 'is-invalid': isSubmitted && formControl[37m...[39m[22m
+[1m[31m         ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'username' comes from an index signature, so it must be accessed with ['username'].[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:10:75:[39m[22m
+[1m[31m[37m      10 │ ...s]="{ 'is-invalid': isSubmitted && formControls.[32musername[37m.errors }"[39m[22m
+[1m[31m         ╵                                                    [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.[39m[22m[1m[31mhtml'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngClass' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:23:20:[39m[22m
+[1m[31m[37m      23 │ ...          [32m[ngClass]="{ 'is-invalid': isSubmitted && formControl[37m...[39m[22m
+[1m[31m         ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'email' comes from an index signature, so it must be accessed with ['email'].[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:23:75:[39m[22m
+[1m[31m[37m      23 │ ...lass]="{ 'is-invalid': isSubmitted && formControls.[32memail[37m.errors }"[39m[22m
+[1m[31m         ╵                                                       [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngClass' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:36:20:[39m[22m
+[1m[31m[37m      36 │ ...          [32m[ngClass]="{ 'is-invalid': isSubmitted && formControl[37m...[39m[22m
+[1m[31m         ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-fronte[39m[22m[1m[31mnd/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'password' comes from an index signature, so it must be accessed with ['password'].[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.html:36:75:[39m[22m
+[1m[31m[37m      36 │ ...s]="{ 'is-invalid': isSubmitted && formControls.[32mpassword[37m.errors }"[39m[22m
+[1m[31m         ╵                                                    [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RegisterComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/register/register.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./register.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m[36m152.36 kB[39m[37m[2m | [22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m76.88 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-HQCHPAD3.js[39m[37m      [2m | [22m[2m-[22m                  [2m | [22m  [36m6.88 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m326.35 kB[22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-72HQDVPQ.js[39m[37m      [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.55 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m153.06 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-CNDSPNZX.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-FFILDKJJ.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m[36m788 bytes[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-QGC6AQP4.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.443 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m152.94 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m153.65 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.288 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m152.95 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m153.66 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.251 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m152.95 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m153.66 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.300 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m153.06 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m153.76 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.248 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+s
+q
+[?25h

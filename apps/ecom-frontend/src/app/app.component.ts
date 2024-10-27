@@ -11,7 +11,7 @@ import { FooterComponent } from './layout/footer/footer.component';
 import { Oauth2Service } from './auth/oauth2.service';
 import { isPlatformBrowser, NgClass } from '@angular/common';
 import { ToastService } from './shared/toast/toast.service';
-
+import { FormsModule } from '@angular/forms';
 @Component({
   standalone: true,
   imports: [
@@ -20,6 +20,7 @@ import { ToastService } from './shared/toast/toast.service';
     NavbarComponent,
     FooterComponent,
     NgClass,
+    FormsModule,
   ],
   selector: 'ecom-root',
   templateUrl: './app.component.html',

@@ -8,7 +8,7 @@ import { UserProductService } from '../../shared/service/user-product.service';
 import { injectQuery } from '@tanstack/angular-query-experimental';
 import { lastValueFrom } from 'rxjs';
 import { CartService } from '../../shop/cart.service';
-
+import { Router } from '@angular/router';
 @Component({
   selector: 'ecom-navbar',
   standalone: true,
@@ -17,6 +17,7 @@ import { CartService } from '../../shop/cart.service';
   styleUrl: './navbar.component.scss',
 })
 export class NavbarComponent implements OnInit {
+  constructor(private router: Router) {}
   oauth2Service = inject(Oauth2Service);
   productService = inject(UserProductService);
   cartService = inject(CartService);
@@ -30,9 +31,11 @@ export class NavbarComponent implements OnInit {
     queryFn: () => lastValueFrom(this.productService.findAllCategories()),
   }));
 
-  login(): void {
-    this.closeDropDownMenu();
-    this.oauth2Service.login();
+  signin():void {
+    this.router.navigate(['/signin']);
+  }
+  register(): void {
+    this.router.navigate(['/register']);
   }
 
   logout(): void {

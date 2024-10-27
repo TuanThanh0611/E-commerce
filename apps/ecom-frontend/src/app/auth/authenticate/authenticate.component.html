@@ -1,0 +1,14 @@
+<div class="authenticate-container">
+    <h2>Đăng Ký</h2>
+    <form (ngSubmit)="onSubmit()" #authenticateForm="ngForm">
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" [(ngModel)]="authenticateRequest.email" required />
+        </div>
+        <div class="form-group">
+            <label for="password">Mật khẩu:</label>
+            <input type="password" id="password" name="password" [(ngModel)]="authenticateRequest.password" required />
+        </div>
+        <button type="submit">Đăng nhap</button>
+    </form>
+</div>

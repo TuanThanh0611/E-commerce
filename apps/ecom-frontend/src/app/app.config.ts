@@ -38,7 +38,7 @@ export const appConfig: ApplicationConfig = {
         silentRenew: true,
         useRefreshToken: true,
         logLevel: LogLevel.Warn,
-        secureRoutes: [environment.apiUrl],
+        secureRoutes: [environment.apiUrl,'http://localhost:8080'],
         customParamsAuthRequest: {
           audience: environment.kinde.audience,
         },

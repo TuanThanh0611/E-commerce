@@ -11,8 +11,23 @@ import { CartComponent } from './shop/cart/cart.component';
 import { CartSuccessComponent } from './shop/cart-success/cart-success.component';
 import { UserOrdersComponent } from './user/user-orders/user-orders.component';
 import { AdminOrdersComponent } from './admin/admin-orders/admin-orders.component';
-
+import { RegisterComponent } from './auth/register/register.component';
+import { SigninComponent } from './auth/signin/signin.component';
+import { AuthenticateComponent } from './auth/authenticate/authenticate.component';
 export const appRoutes: Route[] = [
+  {
+    path: 'authenticate',
+    component: AuthenticateComponent
+  }
+  ,
+  {
+    path: 'register',
+    component: RegisterComponent
+  },{
+    path: 'signin',
+    component: SigninComponent
+  },
+  
   {
     path: 'admin/categories/list',
     component: AdminCategoriesComponent,
@@ -76,5 +91,6 @@ export const appRoutes: Route[] = [
   {
     path: 'users/orders',
     component: UserOrdersComponent
-  }
+  },
+  
 ];

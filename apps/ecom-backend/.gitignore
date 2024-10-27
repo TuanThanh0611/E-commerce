@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+.nx/workspace-data/d/daemon.log

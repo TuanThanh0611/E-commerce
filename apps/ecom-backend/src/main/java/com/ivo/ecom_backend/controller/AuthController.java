@@ -31,12 +31,13 @@ public class AuthController {
         apiResponse.setResult(authService.registerUser(request));
         return ResponseEntity.ok(apiResponse);
     }
-    @PostMapping("/login")
+    @PostMapping("/signin")
+    @CrossOrigin(origins = "http://localhost:4200")
     ResponseEntity<ApiResponse<AuthenticationResponse>> authenticate(@RequestBody LoginRequest request){
         var result =authService.authenticate(request);
-        return ResponseEntity.ok(ApiResponse.<AuthenticationResponse>builder().
-                result(result)
-                .build());
+        ApiResponse<AuthenticationResponse> apiResponse =new ApiResponse<>();
+        apiResponse.setResult(result);
+        return ResponseEntity.ok(apiResponse);
     }
 
 

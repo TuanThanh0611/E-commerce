@@ -1,0 +1,894 @@
+[?25l[2m◼[22m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[32m✔[39m Building...
+[2K[1A[2K[G
+🌼   [35mdaisyUI[39m [2m4.12.10[22m
+├─ [32m✔︎[39m 1 theme added[2m		https://daisyui.com/docs/themes[22m
+╰─ [32m★[39m [0mStar daisyUI on GitHub[0m	[2mhttps://github.com/saadeghi/daisyui[22m
+[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m[36m155.23 kB[39m[37m[2m | [22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m77.27 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-HQCHPAD3.js[39m[37m      [2m | [22m[2m-[22m                  [2m | [22m  [36m6.88 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m329.62 kB[22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-72HQDVPQ.js[39m[37m      [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.55 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m155.93 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-CNDSPNZX.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-FFILDKJJ.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m[36m788 bytes[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-QGC6AQP4.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [5.114 seconds][39m
+[37m[39m
+[37mWatch mode enabled. Watching for file changes...[39m
+[37mNOTE: Raw file sizes do not reflect development server per-request transformations.[39m
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠦[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠧[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠇[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠏[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m155.24 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m155.94 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [1.232 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m155.45 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m156.15 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.403 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m155.46 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m156.16 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.252 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m155.46 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m156.16 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.322 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m155.46 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m156.17 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.201 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.598 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'logout' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:23:[39m[22m
+[1m[31m[37m      43 │     this.oauth2Service.[32mlogout[37m();[39m[22m
+[1m[31m         ╵                        [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'login' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:25:[39m[22m
+[1m[31m[37m      129 │       this.oauth2Service.[32mlogin[37m();[39m[22m
+[1m[31m          ╵                          [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.302 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'authorities' does not exist on type 'ConnectedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/oauth2.service.ts:58:22:[39m[22m
+[1m[31m[37m      58 │     if (connectedUser.[32mauthorities[37m) {[39m[22m
+[1m[31m         ╵                       [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'authorities' does not exist on type 'ConnectedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/oauth2.service.ts:59:27:[39m[22m
+[1m[31m[37m      59 │       return connectedUser.[32mauthorities[37m.some((authority: string) =>[39m[22m
+[1m[31m         ╵                            [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'logout' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:23:[39m[22m
+[1m[31m[37m      43 │     this.oauth2Service.[32mlogout[37m();[39m[22m
+[1m[31m         ╵                        [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'login' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:25:[39m[22m
+[1m[31m[37m      129 │       this.oauth2Service.[32mlogin[37m();[39m[22m
+[1m[31m          ╵                          [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.562 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'hasAnyAuthorities' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/role-check.guard.ts:27:24:[39m[22m
+[1m[31m[37m      27 │           oauth2Service.[32mhasAnyAuthorities[37m(data!, authorities)[39m[22m
+[1m[31m         ╵                         [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'hasAnyAuthorities' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'logout' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:23:[39m[22m
+[1m[31m[37m      43 │     this.oauth2Service.[32mlogout[37m();[39m[22m
+[1m[31m         ╵                        [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'login' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:25:[39m[22m
+[1m[31m[37m      129 │       this.oauth2Service.[32mlogin[37m();[39m[22m
+[1m[31m          ╵                          [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.168 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'hasAnyAuthorities' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'logout' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:23:[39m[22m
+[1m[31m[37m      43 │     this.oauth2Service.[32mlogout[37m();[39m[22m
+[1m[31m         ╵                        [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'login' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:25:[39m[22m
+[1m[31m[37m      129 │       this.oauth2Service.[32mlogin[37m();[39m[22m
+[1m[31m          ╵                          [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠦[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.676 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'authorities' does not exist on type 'ConnectedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/oauth2.service.ts:64:22:[39m[22m
+[1m[31m[37m      64 │     if (connectedUser.[32mauthorities[37m) {[39m[22m
+[1m[31m         ╵                       [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'authorities' does not exist on type 'ConnectedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/oauth2.service.ts:65:27:[39m[22m
+[1m[31m[37m      65 │       return connectedUser.[32mauthorities[37m.some((authority: string) =>[39m[22m
+[1m[31m         ╵                            [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'hasAnyRoles' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/role-check.guard.ts:27:24:[39m[22m
+[1m[31m[37m      27 │           oauth2Service.[32mhasAnyRoles[37m(data!, roles)[39m[22m
+[1m[31m         ╵                         [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠦[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.610 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'hasAnyRoles' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/role-check.guard.ts:27:24:[39m[22m
+[1m[31m[37m      27 │           oauth2Service.[32mhasAnyRoles[37m(data!, roles)[39m[22m
+[1m[31m         ╵                         [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.115 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'hasAnyRoles' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/role-check.guard.ts:27:24:[39m[22m
+[1m[31m[37m      27 │           oauth2Service.[32mhasAnyRoles[37m(data!, roles)[39m[22m
+[1m[31m         ╵                         [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.548 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'authorities' does not exist on type 'ConnectedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/oauth2.service.ts:64:22:[39m[22m
+[1m[31m[37m      64 │     if (connectedUser.[32mauthorities[37m) {[39m[22m
+[1m[31m         ╵                       [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'authorities' does not exist on type 'ConnectedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/oauth2.service.ts:65:27:[39m[22m
+[1m[31m[37m      65 │       return connectedUser.[32mauthorities[37m.some((authority: string) =>[39m[22m
+[1m[31m         ╵                            [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'hasAnyRoles' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/role-check.guard.ts:27:24:[39m[22m
+[1m[31m[37m      27 │           oauth2Service.[32mhasAnyRoles[37m(data!, roles)[39m[22m
+[1m[31m         ╵                         [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.300 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'hasAnyRoles' does not exist on type 'Oauth2Service'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/role-check.guard.ts:27:24:[39m[22m
+[1m[31m[37m      27 │           oauth2Service.[32mhasAnyRoles[37m(data!, roles)[39m[22m
+[1m[31m         ╵                         [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m[36m155.46 kB[39m[37m[2m | [22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m77.27 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-HQCHPAD3.js[39m[37m      [2m | [22m[2m-[22m                  [2m | [22m  [36m6.88 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m329.85 kB[22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-72HQDVPQ.js[39m[37m      [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.55 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m156.16 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-CNDSPNZX.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-FFILDKJJ.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m[36m788 bytes[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-QGC6AQP4.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.289 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.212 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "AuthInterceptor" will always be undefined because the file "apps/ecom-frontend/src/app/auth/auth.interceptor.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/app.config.ts:12:9:[39m[22m
+[1m[33m[37m      12 │ import { [32mAuthInterceptor[37m } from './auth/auth.interceptor';[39m[22m
+[1m[33m         ╵          [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/auth.interceptor.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/app.config.ts:25:32:[39m[22m
+[1m[31m[37m      25 │ import { AuthInterceptor } from [32m'./auth/auth.interceptor'[37m;[39m[22m
+[1m[31m         ╵                                 [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.327 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'typeof AuthInterceptor' is not assignable to type 'HttpInterceptorFn'.[39m[22m
+[1m[31m  Type 'typeof AuthInterceptor' provides no match for the signature '(req: HttpRequest<unknown>, next: HttpHandlerFn): Observable<HttpEvent<unknown>>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/app.config.ts:37:10:[39m[22m
+[1m[31m[37m      37 │           [32mAuthInterceptor[37m,  // Thêm Interceptor tuỳ chỉnh[39m[22m
+[1m[31m         ╵           [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'getAccessToken' does not exist on type 'AuthService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:16:45:[39m[22m
+[1m[31m[37m      16 │         const accessToken = this.authService.[32mgetAccessToken[37m();[39m[22m
+[1m[31m         ╵                                              [32m~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'getRefreshToken' does not exist on type 'AuthService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:30:61:[39m[22m
+[1m[31m[37m      30 │ ... if (error.status === 401 && this.authService.[32mgetRefreshToken[37m()) {[39m[22m
+[1m[31m         ╵                                                  [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'refreshAccessToken' does not exist on type 'AuthService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:31:44:[39m[22m
+[1m[31m[37m      31 │ ...                return this.authService.[32mrefreshAccessToken[37m().pipe([39m[22m
+[1m[31m         ╵                                            [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'roles' does not exist on type 'ConnectedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:66:26:[39m[22m
+[1m[31m[37m      66 │         if (connectedUser.[32mr[39m[22m[1m[31moles[37m) {[39m[22m
+[1m[31m         ╵                           [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'roles' does not exist on type 'ConnectedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:67:33:[39m[22m
+[1m[31m[37m      67 │             return connectedUser.[32mroles[37m.some((authority: string) =>[39m[22m
+[1m[31m         ╵                                  [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.330 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'typeof AuthInterceptor' is not assignable to type 'HttpInterceptorFn'.[39m[22m
+[1m[31m  Type 'typeof AuthInterceptor' provides no match for the signature '(req: HttpRequest<unknown>, next: HttpHandlerFn): Observable<HttpEvent<unknown>>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/app.config.ts:37:10:[39m[22m
+[1m[31m[37m      37 │           [32mAuthInterceptor[37m,  // Thêm Interceptor tuỳ chỉnh[39m[22m
+[1m[31m         ╵           [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'getAccessToken' does not exist on type 'AuthService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:16:45:[39m[22m
+[1m[31m[37m      16 │         const accessToken = this.authService.[32mgetAccessToken[37m();[39m[22m
+[1m[31m         ╵                                              [32m~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'getRefreshToken' does not exist on type 'AuthService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:30:61:[39m[22m
+[1m[31m[37m      30 │ ... if (error.status === 401 && this.authService.[32mgetRefreshToken[37m()) {[39m[22m
+[1m[31m         ╵                                                  [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'refreshAccessToken' does not exist on type 'AuthService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:31:44:[39m[22m
+[1m[31m[37m      31 │ ...                return this.authService.[32mrefreshAccessToken[37m().pipe([39m[22m
+[1m[31m         ╵                                            [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'roles' does not exist on type 'ConnectedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:66:26:[39m[22m
+[1m[31m[37m      66 │         if (connectedUser.[32mr[39m[22m[1m[31moles[37m) {[39m[22m
+[1m[31m         ╵                           [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'roles' does not exist on type 'ConnectedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:67:33:[39m[22m
+[1m[31m[37m      67 │             return connectedUser.[32mroles[37m.some((authority: string) =>[39m[22m
+[1m[31m         ╵                                  [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.361 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'typeof AuthInterceptor' is not assignable to type 'HttpInterceptorFn'.[39m[22m
+[1m[31m  Type 'typeof AuthInterceptor' provides no match for the signature '(req: HttpRequest<unknown>, next: HttpHandlerFn): Observable<HttpEvent<unknown>>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/app.config.ts:37:10:[39m[22m
+[1m[31m[37m      37 │           [32mAuthInterceptor[37m,  // Thêm Interceptor tuỳ chỉnh[39m[22m
+[1m[31m         ╵           [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'getAccessToken' does not exist on type 'AuthService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:16:45:[39m[22m
+[1m[31m[37m      16 │         const accessToken = this.authService.[32mgetAccessToken[37m();[39m[22m
+[1m[31m         ╵                                              [32m~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'getRefreshToken' does not exist on type 'AuthService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:30:61:[39m[22m
+[1m[31m[37m      30 │ ... if (error.status === 401 && this.authService.[32mgetRefreshToken[37m()) {[39m[22m
+[1m[31m         ╵                                                  [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'refreshAccessToken' does not exist on type 'AuthService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:31:44:[39m[22m
+[1m[31m[37m      31 │ ...                return this.authService.[32mrefreshAccessToken[37m().pipe([39m[22m
+[1m[31m         ╵                                            [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'roles' does not exist on type 'ConnectedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:66:26:[39m[22m
+[1m[31m[37m      66 │         if (connectedUser.[32mr[39m[22m[1m[31moles[37m) {[39m[22m
+[1m[31m         ╵                           [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'roles' does not exist on type 'ConnectedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:67:33:[39m[22m
+[1m[31m[37m      67 │             return connectedUser.[32mroles[37m.some((authority: string) =>[39m[22m
+[1m[31m         ╵                                  [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'tap'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/jwt.service.ts:28:12:[39m[22m
+[1m[31m[37m      28 │             [32mtap[37m(response => {[39m[22m
+[1m[31m         ╵             [32m~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS7006: Parameter 'response' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/jwt.service.ts:28:16:[39m[22m
+[1m[31m[37m      28 │             tap([32mresponse[37m => {[39m[22m
+[1m[31m         ╵                 [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.260 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'typeof AuthInterceptor' is not assignable to type 'HttpInterceptorFn'.[39m[22m
+[1m[31m  Type 'typeof AuthInterceptor' provides no match for the signature '(req: HttpRequest<unknown>, next: HttpHandlerFn): Observable<HttpEvent<unknown>>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/app.config.ts:37:10:[39m[22m
+[1m[31m[37m      37 │           [32mAuthInterceptor[37m,  // Thêm Interceptor tuỳ chỉnh[39m[22m
+[1m[31m         ╵           [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.225 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2305: Module '"./auth/auth.interceptor"' has no exported member 'AuthInterceptor'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/app.config.ts:25:9:[39m[22m
+[1m[31m[37m      25 │ import { [32mAuthInterceptor[37m } from './auth/auth.interceptor';[39m[22m
+[1m[31m         ╵          [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./auth/auth.interceptor"[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:9:32:[39m[22m
+[1m[31m[37m      9 │ import { authInterceptor } from [32m'./auth/auth.interceptor'[37m;[39m[22m
+[1m[31m        ╵                                 [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './auth/auth.interceptor' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:25:32:[39m[22m
+[1m[31m[37m      25 │ import { authInterceptor } from [32m'./auth/auth.interceptor'[37m;[39m[22m
+[1m[31m         ╵                                 [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'appRoutes'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:31:22:[39m[22m
+[1m[31m[37m      31 │         provideRouter([32mappRoutes[37m, withComponentInputBinding()),[39m[22m
+[1m[31m         ╵                       [32m~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'environment'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:41:27:[39m[22m
+[1m[31m[37m      41 │                 authority: [32menvironment[37m.kinde.authority,[39m[22m
+[1m[31m         ╵                            [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'environment'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:42:29:[39m[22m
+[1m[31m[37m      42 │                 redirectUr[39m[22m[1m[31ml: [32menvironment[37m.kinde.redirectUrl,[39m[22m
+[1m[31m         ╵                              [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'environment'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:43:39:[39m[22m
+[1m[31m[37m      43 │ ...   postLogoutRedirectUri: [32menvironment[37m.kinde.postLogoutRedirectUri,[39m[22m
+[1m[31m         ╵                              [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'environment'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:44:26:[39m[22m
+[1m[31m[37m      44 │                 clientId: [32menvironment[37m.kinde.clientId,[39m[22m
+[1m[31m         ╵                           [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'environment'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:50:31:[39m[22m
+[1m[31m[37m      50 │ ...           secureRoutes: [[32menvironment[37m.apiUrl, 'http://localhost...[39m[22m
+[1m[31m         ╵                              [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'environment'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:52:30:[39m[22m
+[1m[31m[37m      52 │                     audience: [32menvironment[37m.kinde.audience,[39m[22m
+[1m[31m         ╵                               [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'SsrStorageService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:56:54:[39m[22m
+[1m[31m[37m      56 │ ...{ provide: AbstractSecurityStorage, useClass: [32mSsrStorageService[37m },[39m[22m
+[1m[31m         ╵                                                  [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'environment'.[0m [1m[35m[plugin angular-compiler][39m[22m[1m[31m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:58:25:[39m[22m
+[1m[31m[37m      58 │         provideNgxStripe([32menvironment[37m.stripePublishableKey),[39m[22m
+[1m[31m         ╵                          [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./auth/auth.interceptor"[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/auth.interceptor.ts:9:32:[39m[22m
+[1m[31m[37m      9 │ import { authInterceptor } from [32m'./auth/auth.interceptor'[37m;[39m[22m
+[1m[31m        ╵                                 [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.304 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type '() => HttpInterceptorFn' is not assignable to type 'HttpInterceptorFn'.[39m[22m
+[1m[31m  Type 'HttpInterceptorFn' is not assignable to type 'Observable<HttpEvent<unknown>>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/app.config.ts:37:10:[39m[22m
+[1m[31m[37m      37 │           [32mauthInterceptor[37m,  // Thêm Interceptor tuỳ chỉnh[39m[22m
+[1m[31m         ╵           [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Did you mean to call this expression?[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/app.config.ts:37:10:[39m[22m
+[1m[31m[37m      37 │           [32mauthInterceptor[37m,  // Thêm Interceptor tuỳ chỉnh[39m[22m
+[1m[31m         ╵           [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.179 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2552: Cannot find name 'authInterceptor'. Did you mean 'withInterceptors'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/app.config.ts:36:10:[39m[22m
+[1m[31m[37m      36 │           [32mauthInterceptor[37m(), // Giữ nguyên authInterceptor đã...[39m[22m
+[1m[31m         ╵           [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2552: Cannot find name 'authInterceptor'. Did you mean 'withInterceptors'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/app.config.ts:37:10:[39m[22m
+[1m[31m[37m      37 │           [32mauthInterceptor[37m,  // Thêm Interceptor tuỳ chỉnh[39m[22m
+[1m[31m         ╵           [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m[36m157.08 kB[39m[37m[2m | [22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m77.27 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-HQCHPAD3.js[39m[37m      [2m | [22m[2m-[22m                  [2m | [22m  [36m6.88 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m331.47 kB[22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-72HQDVPQ.js[39m[37m      [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.55 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m157.78 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-CNDSPNZX.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-FFILDKJJ.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m[36m788 bytes[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-QGC6AQP4.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.312 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+
+
+
+
+
+
+[1;1H[0J[2m12:49:24 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Page / did not render in 30 seconds.[39m
+      at Timeout.<anonymous> (/home/ivo/dev/project/web/ecommerce/node_modules/@angular/build/src/utils/server-rendering/render-page.js:90:90)
+      at Timeout.timer (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:2291:37)
+      at _ZoneDelegate.invokeTask (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:402:33)
+      at _ZoneImpl.runTask (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:159:47)
+      at invokeTask (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:483:34)
+      at Timeout.ZoneTask.invoke (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:472:48)
+      at Timeout.data.args.<computed> (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:2260:32)
+      at listOnTimeout (node:internal/timers:569:17)
+      at process.processTimers (node:internal/timers:512:7)
+
+
+
+
+
+
+[1;1H[0J[2m12:49:24 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Page / did not render in 30 seconds.[39m
+      at Timeout.<anonymous> (/home/ivo/dev/project/web/ecommerce/node_modules/@angular/build/src/utils/server-rendering/render-page.js:90:90)
+      at Timeout.timer (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:2291:37)
+      at _ZoneDelegate.invokeTask (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:402:33)
+      at _ZoneImpl.runTask (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:159:47)
+      at invokeTask (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:483:34)
+      at Timeout.ZoneTask.invoke (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:472:48)
+      at Timeout.data.args.<computed> (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:2260:32)
+      at listOnTimeout (node:internal/timers:569:17)
+      at process.processTimers (node:internal/timers:512:7) [33m(x2)[39m
+
+
+
+
+
+
+[1;1H[0J[2m12:49:58 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Page / did not render in 30 seconds.[39m
+      at Timeout.<anonymous> (/home/ivo/dev/project/web/ecommerce/node_modules/@angular/build/src/utils/server-rendering/render-page.js:90:90)
+      at Timeout.timer (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:2291:37)
+      at _ZoneDelegate.invokeTask (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:402:33)
+      at _ZoneImpl.runTask (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:159:47)
+      at invokeTask (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:483:34)
+      at Timeout.ZoneTask.invoke (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:472:48)
+      at Timeout.data.args.<computed> (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:2260:32)
+      at listOnTimeout (node:internal/timers:569:17)
+      at process.processTimers (node:internal/timers:512:7) [33m(x3)[39m
+
+
+
+
+
+
+[1;1H[0J[2m12:50:03 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Page / did not render in 30 seconds.[39m
+      at Timeout.<anonymous> (/home/ivo/dev/project/web/ecommerce/node_modules/@angular/build/src/utils/server-rendering/render-page.js:90:90)
+      at Timeout.timer (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:2291:37)
+      at _ZoneDelegate.invokeTask (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:402:33)
+      at _ZoneImpl.runTask (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:159:47)
+      at invokeTask (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:483:34)
+      at Timeout.ZoneTask.invoke (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:472:48)
+      at Timeout.data.args.<computed> (/home/ivo/dev/project/web/ecommerce/node_modules/zone.js/fesm2015/zone-node.js:2260:32)
+      at listOnTimeout (node:internal/timers:569:17)
+      at process.processTimers (node:internal/timers:512:7) [33m(x4)[39m
+q
+[?25h

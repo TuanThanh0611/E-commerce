@@ -93,929 +93,91 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".git/objects/ad/ece0bae17a5838fa495c07e237b505924887c0",
-        "hash": "16158308674376191432"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_platform-browser.js",
-        "hash": "11983608190673931821"
-      },
-      {
-        "file": ".idea/uiDesigner.xml",
-        "hash": "1669276093529694887"
-      },
-      {
-        "file": ".git/objects/55/22f32519f86219c9f5467ec5f9ebead01dd77f",
-        "hash": "2751844924971370396"
-      },
-      {
-        "file": ".git/objects/d7/970eda5335370edc695ab70ea5b7ff45a4773b",
-        "hash": "7638755478016661838"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/ngxtension_click-outside.js.map",
-        "hash": "6873916546811146686"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@angular_common.js",
-        "hash": "11444284850430681528"
-      },
-      {
-        "file": ".git/objects/60/ef285c1e7f3f3ee35028a40e2feb4d9c90b562",
-        "hash": "7805890460132802206"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_forms.js",
-        "hash": "14672200308789128348"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-72NJ7ZHB.js",
-        "hash": "16485184539577218546"
-      },
-      {
-        "file": ".idea/.gitignore",
-        "hash": "10286036308014790964"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-6D55P5IR.js",
-        "hash": "9834993516736062671"
-      },
-      {
-        "file": "package.json",
-        "hash": "418307150957203513"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@fortawesome_angular-fontawesome.js.map",
-        "hash": "3273650585061791403"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/_metadata.json",
-        "hash": "7963769430893960911"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "6766473322397738995"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@tanstack_angular-query-experimental.js.map",
-        "hash": "4392328880333702626"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@fortawesome_free-solid-svg-icons.js",
-        "hash": "10647235604058163375"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-WDMUDEB6.js",
-        "hash": "6404267885737011678"
-      },
-      {
-        "file": ".idea/compiler.xml",
-        "hash": "16230574147077678749"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-5M2A4Z2O.js.map",
-        "hash": "6905907607785701410"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@fortawesome_free-solid-svg-icons.js.map",
-        "hash": "6543619496743881026"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@fortawesome_free-brands-svg-icons.js.map",
-        "hash": "10258358647776552678"
-      },
-      {
-        "file": ".idea/jarRepositories.xml",
-        "hash": "17362667078814151884"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-P56HNVUJ.js",
-        "hash": "12442984061331393340"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-FQ2SIUFL.js.map",
-        "hash": "3891158481502849311"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@angular_forms.js",
-        "hash": "9305165354759261366"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-Y2RJUKQA.js.map",
-        "hash": "4385512612397147432"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@angular_router.js",
-        "hash": "15573002578029805121"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@fortawesome_angular-fontawesome.js",
-        "hash": "13272217891678448554"
-      },
-      {
-        "file": ".nx/workspace-data/task-history.csv",
-        "hash": "6354876139035846342"
-      },
-      {
-        "file": ".git/objects/c9/9cbde8d7d0dda521751582d76d266df7f79d4f",
-        "hash": "3068326516587185092"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-EOKWXOL2.js",
-        "hash": "7108891420831959502"
-      },
-      {
-        "file": ".git/objects/3e/9d3ac8b09e480a5542ccc12730a0f60e39d34e",
-        "hash": "7671942974121292102"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/ngxtension_inject-params.js",
-        "hash": "10056383898988334206"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-ST5NE7L7.js.map",
-        "hash": "16412188646597659973"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@angular_common_http.js",
-        "hash": "15489270245182722222"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/_metadata.json",
-        "hash": "8206160555405032165"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-ST5NE7L7.js",
-        "hash": "11802283086548449172"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@tanstack_angular-query-experimental.js.map",
-        "hash": "18358337087580719339"
-      },
-      {
-        "file": ".git/objects/a6/14e3a00775a01bd7f7b1b3861c7f715a19e23e",
-        "hash": "12040025569341079566"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-75EMIFUS.js.map",
-        "hash": "428646678507775772"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_platform-server.js",
-        "hash": "6978265995636837162"
-      },
-      {
-        "file": ".git/objects/70/ec6db79310336cd658260b2b53ab1919399a30",
-        "hash": "2974981197625055307"
-      },
-      {
-        "file": ".angular/cache/18.2.2/ecom-frontend/.tsbuildinfo",
-        "hash": "12410625304208781026"
-      },
-      {
-        "file": ".git/objects/46/3f3428c78627912fbcfacaf0b0087e52a5869e",
-        "hash": "15265633171837638009"
-      },
-      {
-        "file": ".git/objects/37/01655768697827f102b75683829b1e50691200",
-        "hash": "8912500848462401418"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-NQ4HTGF6.js",
-        "hash": "586663337903654111"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-FQ2SIUFL.js",
-        "hash": "4410109057088599006"
-      },
-      {
-        "file": ".git/objects/ab/710bd03084f5512addba3addd64fd5ae67c58e",
-        "hash": "2734436101739110454"
-      },
-      {
-        "file": ".git/objects/26/445449ea8ffe3044b7a81663aedab84e24f98c",
-        "hash": "8989984710239181612"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_router.js",
-        "hash": "7250530014679032755"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/ngxtension_control-error.js.map",
-        "hash": "10255261392482839469"
-      },
-      {
-        "file": ".git/objects/3c/3811f38e65fe4cc3126a22e682e9100cf512fc",
-        "hash": "8916244101862125454"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-WDMUDEB6.js.map",
-        "hash": "9947606979680686569"
-      },
-      {
-        "file": ".idea/misc.xml",
-        "hash": "17091216536004992711"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@fortawesome_free-regular-svg-icons.js",
-        "hash": "1759025219879386969"
-      },
-      {
-        "file": ".git/objects/5f/b6e6aa697b3e53e8680b4686b9fafc60b66ea1",
-        "hash": "17072699628219516328"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-DIH56O3V.js",
-        "hash": "13618798190129726133"
-      },
-      {
-        "file": ".git/objects/f5/86ac726a6f480b8861a825c93b7b0e3460d3b5",
-        "hash": "12478078475465978442"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@fortawesome_free-brands-svg-icons.js",
-        "hash": "13173755824968780063"
-      },
-      {
-        "file": ".git/index",
-        "hash": "6697148832227053102"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/ngxtension_inject-query-params.js.map",
-        "hash": "2701000376397412534"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@fortawesome_angular-fontawesome.js",
-        "hash": "7349225663190481621"
-      },
-      {
-        "file": ".git/objects/97/e077e9e9eeeaed4d7860ac87e850b9642c225d",
-        "hash": "15267208299703715040"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@angular_core.js",
-        "hash": "8440425938824575978"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_common.js",
-        "hash": "5031446882892854253"
-      },
-      {
-        "file": ".git/objects/fc/f269430b37fc4d0b4ba5fc0b9b3561515c4b5f",
-        "hash": "972602209287499857"
-      },
-      {
-        "file": ".git/objects/25/92cc6830f85fe3ce990e09dae8bdba25c32dcd",
-        "hash": "8300797162713174516"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/ngxtension_inject-query-params.js.map",
-        "hash": "2226297345291747931"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_core.js",
-        "hash": "11714957831190129007"
-      },
-      {
-        "file": ".idea/ecommerce.iml",
-        "hash": "7210100432694438571"
-      },
-      {
-        "file": ".git/objects/60/caa8a875f782ee0d381361e3ddceaa9a688ca3",
-        "hash": "4334190267158625055"
-      },
-      {
-        "file": ".git/objects/6b/c5a7a0992b9ba14a4ea985df4894b8d717c531",
-        "hash": "15202323025835382473"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/angular-auth-oidc-client.js.map",
-        "hash": "6457024760777210474"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-Y2RJUKQA.js",
-        "hash": "18309281070730417762"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_platform-browser.js.map",
-        "hash": "9947606979680686569"
+        "file": "tsconfig.base.json",
+        "hash": "16936441711144470533"
       },
       {
         "file": ".idea/modules.xml",
         "hash": "13312296053422334087"
       },
       {
-        "file": ".git/objects/8b/22a84839cca2b68a70460e883e5fa7c380ac2d",
-        "hash": "15368829673500462401"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@angular_core.js.map",
-        "hash": "9947606979680686569"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/ngxtension_control-error.js",
-        "hash": "1164423692451415234"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/ngxtension_click-outside.js.map",
-        "hash": "6146477643583656866"
-      },
-      {
         "file": "jest.preset.js",
         "hash": "9430166341120122740"
       },
       {
-        "file": ".git/objects/20/e0339b8533aa5600de01532efff68eff014ef0",
-        "hash": "6499852443208923238"
+        "file": "package-lock.json",
+        "hash": "6766473322397738995"
       },
       {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-FDESMX7I.js",
-        "hash": "17965494659668052449"
-      },
-      {
-        "file": ".git/objects/7a/2160de9a54d38a10333229592594b0b8260935",
-        "hash": "15098575598291565710"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/ngx-stripe.js",
-        "hash": "17653125984784748633"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/16384002010057232532",
-        "hash": "11104578278535292067"
-      },
-      {
-        "file": ".git/objects/47/c1b17e1ae1c8351b88a5f36541e6424f4f2d9a",
-        "hash": "2714750767759007645"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@ng-web-apis_universal.js",
-        "hash": "3525568067825464876"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-5M2A4Z2O.js",
-        "hash": "9076442394446056910"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/ngxtension_inject-params.js.map",
-        "hash": "10506901731520016912"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-DRQHNJ4G.js.map",
-        "hash": "2590490805628908419"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@angular_common_http.js.map",
-        "hash": "9947606979680686569"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-DIH56O3V.js.map",
-        "hash": "17169393979650515787"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/ngxtension_inject-params.js.map",
-        "hash": "5780268247178070109"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/xhr2-AQ42KH57.js.map",
-        "hash": "1916054070370237680"
-      },
-      {
-        "file": ".git/objects/04/7f01a58e16ca5532205be15aae8ec01f43b162",
-        "hash": "9114216350023117379"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-P56HNVUJ.js.map",
-        "hash": "15814816993936693809"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/ngxtension_click-outside.js",
-        "hash": "12909250364258576277"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/ngx-stripe.js.map",
-        "hash": "3444381124145703608"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@fortawesome_free-regular-svg-icons.js.map",
-        "hash": "8086881592975508989"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-VDZEJD3D.js.map",
-        "hash": "977907277102974044"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-FDESMX7I.js.map",
-        "hash": "13835646286480848126"
-      },
-      {
-        "file": ".nx/workspace-data/d/daemon.log",
-        "hash": "3825937572736976807"
-      },
-      {
-        "file": "jest.config.ts",
-        "hash": "3494843969422251966"
-      },
-      {
-        "file": ".git/objects/29/4bb5073bfa22ace0827f6d78d7dca5c1c80263",
-        "hash": "5681839075285209083"
-      },
-      {
-        "file": ".idea/encodings.xml",
-        "hash": "15005210031370498129"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-6D55P5IR.js.map",
-        "hash": "12181589013470432089"
-      },
-      {
-        "file": ".git/objects/b2/a9f55bb807eeefe22cbeea588758116772d73e",
-        "hash": "15392909843825966821"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/angular-auth-oidc-client.js",
-        "hash": "4862866208305574600"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/package.json",
+        "file": ".angular/cache/18.2.2/vite/deps_temp_494edd14/package.json",
         "hash": "8630294688235076505"
       },
       {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/angular-auth-oidc-client.js",
-        "hash": "6538336142529550877"
+        "file": ".idea/uiDesigner.xml",
+        "hash": "1669276093529694887"
       },
       {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@fortawesome_free-regular-svg-icons.js",
-        "hash": "357856657245651430"
+        "file": ".gitignore",
+        "hash": "1790330030396540306"
       },
       {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/rxjs.js.map",
-        "hash": "9947606979680686569"
+        "file": ".angular/cache/18.2.2/vite/deps_ssr_temp_46cbbd13/package.json",
+        "hash": "8630294688235076505"
       },
       {
-        "file": ".git/objects/8e/a6fa5300a1f0699ca7f21f2716615fea3e0a1b",
-        "hash": "7569138688628638504"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_common_http.js",
-        "hash": "16791901203356007452"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@fortawesome_angular-fontawesome.js.map",
-        "hash": "15283599875554539736"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-3TPJOEZJ.js",
-        "hash": "13125644150879638380"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-75EMIFUS.js",
-        "hash": "17515194601571215192"
-      },
-      {
-        "file": ".nx/workspace-data/file-map.json",
-        "hash": "1892908268979406591"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@angular_platform-browser.js",
-        "hash": "5334397534825236993"
-      },
-      {
-        "file": ".git/objects/07/9743993ae5eadd76c9b55dcd913ac73c563762",
-        "hash": "8237498452092821700"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@fortawesome_free-solid-svg-icons.js.map",
-        "hash": "16436789837149784870"
-      },
-      {
-        "file": ".git/objects/52/146fed2c61bf8982482b760e3b08d26436c66f",
-        "hash": "426684937631345403"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_common.js.map",
-        "hash": "9947606979680686569"
-      },
-      {
-        "file": ".git/objects/80/90be38df6c607c412bbf13f1cbf5ca2997b9c5",
-        "hash": "6001114708383646570"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-LN3UBUE5.js.map",
-        "hash": "13750517865332291948"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@fortawesome_free-regular-svg-icons.js.map",
-        "hash": "12638990596348125065"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@angular_platform-browser.js.map",
-        "hash": "9947606979680686569"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_core.js.map",
-        "hash": "9947606979680686569"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/ngxtension_control-error.js",
-        "hash": "17447930776794267124"
-      },
-      {
-        "file": ".git/objects/b7/df0121748f3da29ac58093e6f3476b10f1b1a7",
-        "hash": "4572894312277311577"
-      },
-      {
-        "file": "README.md",
-        "hash": "12081612395520344013"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/ngxtension_click-outside.js",
-        "hash": "13197529380999645412"
+        "file": ".idea/.gitignore",
+        "hash": "10286036308014790964"
       },
       {
         "file": "schema-ecommerce-app.png",
         "hash": "147443307796125685"
       },
       {
-        "file": ".git/objects/8a/5d9107ff2517825b650b7d67f756597dfef9f4",
-        "hash": "8266717021657104886"
-      },
-      {
-        "file": ".git/objects/1d/016233aa8886280b480f7bbec61bdfe8a31efb",
-        "hash": "16519695964998926251"
-      },
-      {
-        "file": ".git/objects/bf/53b7b9474305c5d5194215c21bd78d62655a56",
-        "hash": "7213328976154613402"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@fortawesome_free-brands-svg-icons.js.map",
-        "hash": "7197757300059638438"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/rxjs.js",
-        "hash": "16254010205704584667"
-      },
-      {
-        "file": ".git/objects/73/41def2cf39ebc7555fc09020fccdccdc66d41c",
-        "hash": "7372055628580857351"
-      },
-      {
-        "file": ".idea/vcs.xml",
-        "hash": "14600148892634157659"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/angular-auth-oidc-client.js.map",
-        "hash": "14862379660145932916"
-      },
-      {
-        "file": ".git/objects/fb/54d70abb7efa69302702630fe0ef90bda42fb8",
-        "hash": "8608596198493237290"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/ngx-stripe.js",
-        "hash": "7601097989298979472"
-      },
-      {
-        "file": "tsconfig.base.json",
-        "hash": "16936441711144470533"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@tanstack_angular-query-experimental.js",
-        "hash": "17341346769374036937"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_router.js.map",
-        "hash": "9947606979680686569"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-EO7BVNE5.js",
-        "hash": "6721287968769360900"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@fortawesome_free-solid-svg-icons.js",
-        "hash": "10364638557525977162"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-VDZEJD3D.js",
-        "hash": "9058617747674403065"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_platform-server.js.map",
-        "hash": "5107322927650501210"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/ngxtension_inject-query-params.js",
-        "hash": "9864969936778742549"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_common_http.js.map",
-        "hash": "9947606979680686569"
-      },
-      {
-        "file": ".git/objects/8c/2f5a8696e0525eb19af6d550c3d0141974a1f6",
-        "hash": "9160610642309783979"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/ngxtension_inject-query-params.js",
-        "hash": "9467173118131015682"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-NQ4HTGF6.js.map",
-        "hash": "9947606979680686569"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@tanstack_angular-query-experimental.js",
-        "hash": "3134762608254747643"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-DRQHNJ4G.js",
-        "hash": "4961168031817979421"
-      },
-      {
-        "file": ".git/objects/2c/47b4f5d493f2e58f32497dbbc652503cb3426d",
-        "hash": "16178427901212529347"
-      },
-      {
-        "file": ".git/objects/00/0292fe12741b9ab7eb34b8373e5c6bad2f7b67",
-        "hash": "9612266099505898154"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/ngx-stripe.js.map",
-        "hash": "15919615491508725609"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/ngxtension_control-error.js.map",
-        "hash": "6096360691957911606"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@angular_router.js.map",
-        "hash": "9947606979680686569"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-72NJ7ZHB.js.map",
-        "hash": "17576523900091879713"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/rxjs.js",
-        "hash": "3902024547140847562"
-      },
-      {
-        "file": ".git/objects/52/8086328dd86bc3524f047f69fc3fd5cef9ed0b",
-        "hash": "11099012036869851448"
-      },
-      {
-        "file": ".git/objects/86/45569f5874cb0688381c8e6eb038da36947701",
-        "hash": "9872978069481371903"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/ngxtension_inject-params.js",
-        "hash": "4501114542160460107"
-      },
-      {
-        "file": ".git/objects/06/e34c0d2ae5cf0164119a617efbd52ec78bdbae",
-        "hash": "4940814610519878060"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-EOKWXOL2.js.map",
-        "hash": "1292945941502131427"
-      },
-      {
-        "file": ".git/objects/73/14683564ee2d4e2c870195ca91fb225959d4e4",
-        "hash": "12456831078655291509"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/rxjs.js.map",
-        "hash": "9947606979680686569"
-      },
-      {
-        "file": ".git/objects/b7/476325117007d22492a80aad5c32157daa7b76",
-        "hash": "6187455399116907623"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/@fortawesome_free-brands-svg-icons.js",
-        "hash": "1208998352290070422"
-      },
-      {
-        "file": ".nx/workspace-data/project-graph.json",
-        "hash": "18223788760888321877"
-      },
-      {
-        "file": ".nx/cache/run.json",
-        "hash": "11100800793598380125"
+        "file": ".idea/compiler.xml",
+        "hash": "16230574147077678749"
       },
       {
         "file": "nx.json",
         "hash": "4546449642935827340"
       },
       {
-        "file": ".git/objects/10/04431a3368fbb8d467155480a4e4fc8ea79f69",
-        "hash": "11167509998926740964"
+        "file": ".angular/cache/18.2.2/ecom-frontend/.tsbuildinfo",
+        "hash": "5504909890913046510"
       },
       {
-        "file": ".git/objects/cf/a635c19175c02d874fb2b64df9d35837e94208",
-        "hash": "11789346061714932096"
+        "file": "jest.config.ts",
+        "hash": "3494843969422251966"
       },
       {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/chunk-3TPJOEZJ.js.map",
-        "hash": "10409920880331977941"
+        "file": ".idea/ecommerce.iml",
+        "hash": "7210100432694438571"
       },
       {
-        "file": ".git/objects/42/202163276a79e38ead76ae491689207a867528",
-        "hash": "6709206904390954392"
+        "file": "package.json",
+        "hash": "418307150957203513"
       },
       {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-EO7BVNE5.js.map",
-        "hash": "8281452693692271079"
+        "file": ".idea/misc.xml",
+        "hash": "17091216536004992711"
       },
       {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/xhr2-AQ42KH57.js",
-        "hash": "3016868419447949417"
+        "file": ".idea/jarRepositories.xml",
+        "hash": "17362667078814151884"
       },
       {
-        "file": ".angular/cache/18.2.2/vite/deps/@angular_common.js.map",
-        "hash": "9947606979680686569"
+        "file": ".idea/encodings.xml",
+        "hash": "15005210031370498129"
       },
       {
-        "file": ".angular/cache/18.2.2/vite/deps/@angular_forms.js.map",
-        "hash": "9947606979680686569"
+        "file": "README.md",
+        "hash": "12081612395520344013"
       },
       {
-        "file": ".angular/cache/18.2.2/vite/deps/chunk-LN3UBUE5.js",
-        "hash": "13374175076324295745"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@angular_forms.js.map",
-        "hash": "9947606979680686569"
-      },
-      {
-        "file": ".git/objects/e9/e9e4a40179ae799d5043515ceb0eeb65b6aaed",
-        "hash": "9114621207021079860"
-      },
-      {
-        "file": ".git/objects/18/a17f376a2e0f7288af114779d2906dc8e2a114",
-        "hash": "4179430907393181552"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps/package.json",
-        "hash": "8630294688235076505"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr/@ng-web-apis_universal.js.map",
-        "hash": "7655269406566989327"
+        "file": ".idea/vcs.xml",
+        "hash": "14600148892634157659"
       }
     ],
     "projectFileMap": {
-      "ecom-backend": [
-        {
-          "file": "apps/ecom-backend/.gitattributes",
-          "hash": "6003687593561338678"
-        },
-        {
-          "file": "apps/ecom-backend/.gitignore",
-          "hash": "13117984693027047402"
-        },
-        {
-          "file": "apps/ecom-backend/.mvn/wrapper/maven-wrapper.properties",
-          "hash": "7720921598456675219"
-        },
-        {
-          "file": "apps/ecom-backend/mvnw",
-          "hash": "15069388377727069083"
-        },
-        {
-          "file": "apps/ecom-backend/mvnw.cmd",
-          "hash": "13144227073390459929"
-        },
-        {
-          "file": "apps/ecom-backend/pom.xml",
-          "hash": "14872955072571644385"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/EcomBackendApplication.java",
-          "hash": "8589360343246001309"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/Enums/Role.java",
-          "hash": "183518791951718165"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/config/ApplicationInitConfig.java",
-          "hash": "6787285010002962495"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/config/SercurityConfig.java",
-          "hash": "7774147381139943989"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/config/WebConfig.java",
-          "hash": "16665395448417243870"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/controller/AuthController.java",
-          "hash": "13893659318384978808"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/controller/UserController.java",
-          "hash": "12133924176038901324"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/UserDTO.java",
-          "hash": "16016141397025136683"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/IntrospectRequest.java",
-          "hash": "154957801165397351"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/LoginRequest.java",
-          "hash": "15851436417001478699"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/RegisterRequest.java",
-          "hash": "17797530139182841043"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/UserCreateRequest.java",
-          "hash": "15683352478057242870"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/UserUpdateRequest.java",
-          "hash": "2701293516974121242"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/ApiResponse.java",
-          "hash": "8819799261996668501"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/AuthenticationResponse.java",
-          "hash": "13857635384278263251"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/IntrospectResponse.java",
-          "hash": "17816221496313646515"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/LoginResponse.java",
-          "hash": "11846787528443712849"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/UserResponse.java",
-          "hash": "16987467186936258294"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/Authority.java",
-          "hash": "7272291290559365423"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/Category.java",
-          "hash": "247812631310698957"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/User.java",
-          "hash": "3675761923034479961"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/UserAddress.java",
-          "hash": "2568115207035297477"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/exception/AppException.java",
-          "hash": "5481878158929206420"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/exception/ErrorCode.java",
-          "hash": "17314203740661811242"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/mapper/UserMapper.java",
-          "hash": "13737404062793063343"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/repository/UserRepository.java",
-          "hash": "5258367227384828966"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/service/AuthService.java",
-          "hash": "12223637302372276531"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/service/UserService.java",
-          "hash": "6812981776142561236"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/resources/application.properties",
-          "hash": "12549473236917832702"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/resources/db/changelog/master.xml",
-          "hash": "10442314682297295205"
-        },
-        {
-          "file": "apps/ecom-backend/src/test/java/com/ivo/ecom_backend/EcomBackendApplicationTests.java",
-          "hash": "11091661831586329544"
-        }
-      ],
       "ecom-frontend": [
         {
           "file": "apps/ecom-frontend/.eslintrc.json",
@@ -1215,7 +377,7 @@
         },
         {
           "file": "apps/ecom-frontend/src/app/app.component.spec.ts",
-          "hash": "3247265344693659572"
+          "hash": "11769346117163176821"
         },
         {
           "file": "apps/ecom-frontend/src/app/app.component.ts",
@@ -1255,6 +417,15 @@
           "hash": "538321762522536548",
           "deps": [
             "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/auth/auth.interceptor.ts",
+          "hash": "11675497721233958385",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:rxjs"
           ]
         },
         {
@@ -1310,11 +481,12 @@
         },
         {
           "file": "apps/ecom-frontend/src/app/auth/register/register.component.ts",
-          "hash": "16594771575601728061",
+          "hash": "6959189678138556692",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/forms",
-            "npm:@angular/common"
+            "npm:@angular/common",
+            "npm:@angular/router"
           ]
         },
         {
@@ -1328,8 +500,21 @@
           ]
         },
         {
+          "file": "apps/ecom-frontend/src/app/auth/service/auth.service.ts",
+          "hash": "12791515662542265729",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:angular-auth-oidc-client",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:rxjs",
+            "npm:@angular/forms",
+            "npm:@angular/router"
+          ]
+        },
+        {
           "file": "apps/ecom-frontend/src/app/auth/service/jwt.service.ts",
-          "hash": "8343262940799880310",
+          "hash": "14118999617393395756",
           "deps": [
             "npm:@angular/common",
             "npm:@angular/core",
@@ -1342,15 +527,16 @@
         },
         {
           "file": "apps/ecom-frontend/src/app/auth/signin/signin.component.scss",
-          "hash": "12253434849572958796"
+          "hash": "16888371290433604352"
         },
         {
           "file": "apps/ecom-frontend/src/app/auth/signin/signin.component.ts",
-          "hash": "6601123893525768163",
+          "hash": "1569329700658677114",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/forms",
-            "npm:@angular/router"
+            "npm:@angular/router",
+            "npm:rxjs"
           ]
         },
         {
@@ -1812,6 +998,160 @@
         {
           "file": "apps/ecom-frontend/tsconfig.spec.json",
           "hash": "2927375835638640771"
+        }
+      ],
+      "ecom-backend": [
+        {
+          "file": "apps/ecom-backend/.gitattributes",
+          "hash": "6003687593561338678"
+        },
+        {
+          "file": "apps/ecom-backend/.gitignore",
+          "hash": "7198947744153913257"
+        },
+        {
+          "file": "apps/ecom-backend/.mvn/wrapper/maven-wrapper.properties",
+          "hash": "7720921598456675219"
+        },
+        {
+          "file": "apps/ecom-backend/mvnw",
+          "hash": "15069388377727069083"
+        },
+        {
+          "file": "apps/ecom-backend/mvnw.cmd",
+          "hash": "13144227073390459929"
+        },
+        {
+          "file": "apps/ecom-backend/pom.xml",
+          "hash": "14872955072571644385"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/EcomBackendApplication.java",
+          "hash": "8589360343246001309"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/Enums/Role.java",
+          "hash": "4565381588005160971"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/config/ApplicationInitConfig.java",
+          "hash": "6787285010002962495"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/config/SercurityConfig.java",
+          "hash": "2629304267050981590"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/config/WebConfig.java",
+          "hash": "16665395448417243870"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/controller/AuthController.java",
+          "hash": "9329092981484199169"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/controller/UserController.java",
+          "hash": "14057928016893429913"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/UserDTO.java",
+          "hash": "16016141397025136683"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/IntrospectRequest.java",
+          "hash": "154957801165397351"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/LoginRequest.java",
+          "hash": "15851436417001478699"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/RegisterRequest.java",
+          "hash": "17797530139182841043"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/UserCreateRequest.java",
+          "hash": "15683352478057242870"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/UserUpdateRequest.java",
+          "hash": "2701293516974121242"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/ApiResponse.java",
+          "hash": "8819799261996668501"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/AuthenticationResponse.java",
+          "hash": "13857635384278263251"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/IntrospectResponse.java",
+          "hash": "17816221496313646515"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/LoginResponse.java",
+          "hash": "11846787528443712849"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/UserResponse.java",
+          "hash": "14426277461146411293"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/Authority.java",
+          "hash": "7272291290559365423"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/Category.java",
+          "hash": "247812631310698957"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/User.java",
+          "hash": "3675761923034479961"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/UserAddress.java",
+          "hash": "2568115207035297477"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/exception/AppException.java",
+          "hash": "5481878158929206420"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/exception/ErrorCode.java",
+          "hash": "17314203740661811242"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/mapper/UserMapper.java",
+          "hash": "15497721933809954727"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/repository/UserRepository.java",
+          "hash": "5258367227384828966"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/service/AuthService.java",
+          "hash": "5272513944934620161"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/service/UserService.java",
+          "hash": "6812981776142561236"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/resources/application.properties",
+          "hash": "12549473236917832702"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/resources/db/changelog/master.xml",
+          "hash": "10442314682297295205"
+        },
+        {
+          "file": "apps/ecom-backend/src/test/java/com/ivo/ecom_backend/EcomBackendApplicationTests.java",
+          "hash": "11091661831586329544"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/service/AuthenticatedUser.java",
+          "hash": "5003959151001753104"
         }
       ]
     }

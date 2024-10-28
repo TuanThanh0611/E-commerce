@@ -26,7 +26,7 @@ import javax.crypto.spec.SecretKeySpec;
 @EnableWebSecurity
 public class SercurityConfig {
 
-    private final String[] PUBLIC_ENDPOINTS = {"/users",
+    private final String[] PUBLIC_ENDPOINTS = {"/users","/api/auth/signin",
             "/auth/token", "/auth/introspect","/api/auth/regis","/api/auth/test"
     };
 
@@ -76,7 +76,7 @@ public class SercurityConfig {
 
     @Bean
     PasswordEncoder passwordEncoder(){
-        return new BCryptPasswordEncoder(10);
+        return new BCryptPasswordEncoder(7);
     }
 
 

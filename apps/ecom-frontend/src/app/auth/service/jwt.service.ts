@@ -1,6 +1,6 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import {Observable, of} from 'rxjs';
+import {Observable, of,tap} from 'rxjs';
 
 const BASE_URL = ["http://localhost:8080/"]
 
@@ -8,15 +8,42 @@ const BASE_URL = ["http://localhost:8080/"]
     providedIn: 'root'
 })
 export class JwtService {
+    private readonly accessTokenKey = 'access_token';
+    private readonly refreshTokenKey = 'refresh_token';
 
     constructor(private http: HttpClient) { }
+
+
+    getAccessToken(): string | null {
+        return localStorage.getItem(this.accessTokenKey);
+    }
+
+    getRefreshToken(): string | null {
+        return localStorage.getItem(this.refreshTokenKey);
+    }
+
+    refreshAccessToken(): Observable<any> {
+        const refreshToken = this.getRefreshToken();
+        return this.http.post<any>('/api/auth/refresh-token', { refreshToken }).pipe(
+            tap(response => {
+                if (response.token) {
+                    localStorage.setItem(this.accessTokenKey, response.token);
+                }
+            })
+        );
+    }
+
+
 
     register(signRequest: any): Observable<any> {
         return this.http.post('http://localhost:8080/api/auth/regis', signRequest)
     }
 
     signin(signinRequest: any): Observable<any> {
-        return this.http.post('http://localhost:8080/api/auth/regis', signinRequest)
+        return this.http.post('http://localhost:8080/api/auth/signin', signinRequest)
+    }
+    introspect(introspectRequest:any):Observable<any>{
+        return this.http.post('http://localhost:8080/api/auth/token', introspectRequest)
     }
 
     hello(): Observable<any> {

@@ -18,6 +18,7 @@ import com.nimbusds.jose.crypto.MACSigner;
 import com.nimbusds.jose.crypto.MACVerifier;
 import com.nimbusds.jwt.JWTClaimsSet;
 import com.nimbusds.jwt.SignedJWT;
+import jakarta.transaction.Transactional;
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
 
@@ -28,6 +29,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.security.oauth2.jwt.Jwt;
 import org.springframework.stereotype.Service;
 import org.springframework.util.CollectionUtils;
 import org.springframework.beans.factory.annotation.Value;
@@ -38,9 +40,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import java.text.ParseException;
 import java.time.Instant;
 import java.time.temporal.ChronoUnit;
-import java.util.Date;
-import java.util.HashSet;
-import java.util.StringJoiner;
+import java.util.*;
 
 @Service
 @RequiredArgsConstructor
@@ -71,7 +71,35 @@ public class AuthService {
 
         return mapper.toUserResponse(userRepository.save(user));
     }
+    @Transactional
+    public User getAuthenticatedUserWithSync(Jwt jwtToken, boolean forceResync) {
+        userSynchronizer.syncWithIdp(jwtToken, forceResync);
+        return userReader.getByEmail(new UserEmail(AuthenticatedUser.username().get()))
+                .orElseThrow();
+    }
 
+    public void syncWithIdp(Jwt jwtToken, boolean forceResync) {
+        Map<String, Object> claims = jwtToken.getClaims();
+        List<String> rolesFromToken = AuthenticatedUser.extractRolesFromToken(jwtToken);
+        Map<String, Object> userInfo = kindeService.getUserInfo(claims.get("sub").toString());
+        User user = User.fromTokenAttributes(userInfo, rolesFromToken);
+        Optional<User> existingUser = userRepository.findUsersByEmail(user.getEmail());
+        if (existingUser.isPresent()) {
+            if (claims.get(UPDATE_AT_KEY) != null) {
+                Instant lastModifiedDate = existingUser.orElseThrow().getLastModifiedDate();
+                Instant idpModifiedDate = Instant.ofEpochSecond((Integer) claims.get(UPDATE_AT_KEY));
+
+                if (idpModifiedDate.isAfter(lastModifiedDate) || forceResync) {
+                    updateUser(user, existingUser.get());
+                }
+            }
+        } else {
+            user.initFieldForSignup();
+            userRepository.save(user);
+        }
+
+    }
+    @Transactional
     public AuthenticationResponse authenticate(LoginRequest request){
         var user = userRepository.findUsersByEmail(
                         request.getEmail())

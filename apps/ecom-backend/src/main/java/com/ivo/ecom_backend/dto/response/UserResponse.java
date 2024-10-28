@@ -18,7 +18,6 @@ import java.util.Set;
 public class UserResponse {
     String id;
     String email;
-    String password;
     String firstName;
     String lastName;
     LocalDate dob;
@@ -27,4 +26,5 @@ public class UserResponse {
     Instant createdDate;
     Long dbId;
     Set<UserAddress> userAddresses;
+    Set<String> roles;
 }

@@ -1,44 +1,54 @@
 import { Component, OnInit } from '@angular/core';
-import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { FormBuilder, FormGroup, ReactiveFormsModule, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
-import {JwtService} from "../service/jwt.service";
-
+import { JwtService } from "../service/jwt.service";
+import { switchMap } from 'rxjs/operators';
+import {AuthService} from "../service/auth.service";
 
 @Component({
-    selector: 'app-login',
-    standalone:true,
-    templateUrl: './login.component.html',
-    styleUrls: ['./login.component.scss']
+    selector: 'app-signin',
+    standalone: true,
+    templateUrl: './signin.component.html',
+    imports: [ReactiveFormsModule],
+    styleUrls: ['./signin.component.scss']
 })
 export class SigninComponent implements OnInit {
-
-    loginForm: FormGroup | undefined;
+    signinForm!: FormGroup;
+    isLoading = false; // Trạng thái tải
 
     constructor(
         private service: JwtService,
         private fb: FormBuilder,
-        private router: Router
-    ) { }
+        private router: Router,
+        private authService:AuthService
+    ) {}
 
     ngOnInit(): void {
-        this.loginForm = this.fb.group({
-            email: ['', Validators.required, Validators.email],
-            password: ['', Validators.required],
-        })
+        this.signinForm = this.fb.group({
+            email: ['', [Validators.required, Validators.email]],
+            password: ['', [Validators.required]],
+        });
     }
+
+
 
     submitForm() {
-        this.service.login(this.loginForm.value).subscribe(
-            (response) => {
-                console.log(response);
-                if (response.jwt != null) {
-                    alert("Hello, Your token is " + response.jwt);
-                    const jwtToken = response.jwt;
-                    localStorage.setItem('jwt', jwtToken);
-                    this.router.navigateByUrl("/dashboard");
-                }
-            }
-        )
-    }
+        if (this.signinForm?.valid) {
+            console.log(this.signinForm.value);
 
+            this.service.signin(this.signinForm.value).subscribe(
+                (response) => {
+                    const isAuthenticate=response?.result?.authenticated;
+                    const token=response?.result?.token;
+                    if(isAuthenticate){
+                        this.authService.saveToken(token);
+                        alert("Login Success");
+                        this.router.navigateByUrl("/");
+                    }
+                }
+            );
+        } else {
+            alert("Form is invalid");
+        }
+    }
 }

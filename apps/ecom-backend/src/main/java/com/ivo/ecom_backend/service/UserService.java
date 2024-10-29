@@ -9,6 +9,7 @@ import com.ivo.ecom_backend.exception.AppException;
 import com.ivo.ecom_backend.exception.ErrorCode;
 import com.ivo.ecom_backend.mapper.UserMapper;
 import com.ivo.ecom_backend.repository.UserRepository;
+import jakarta.transaction.Transactional;
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.FieldDefaults;
@@ -32,7 +33,7 @@ public class  UserService {
     @Autowired
     UserMapper mapper;
     PasswordEncoder passwordEncoder;
-
+    @Transactional
     public UserResponse createUser(UserCreateRequest request){
         if(userRepository.existsByEmail(request.getEmail())){
             throw new AppException(ErrorCode.USER_EXISTED);
@@ -48,7 +49,7 @@ public class  UserService {
 
         return mapper.toUserResponse(userRepository.save(user));
     }
-
+    @Transactional
     @PreAuthorize("hasRole('ADMIN')")
     public List<UserResponse> getAllUsers(){
         return mapper.toListUsers(userRepository.findAll());
@@ -63,7 +64,7 @@ public class  UserService {
         return mapper.toUserResponse(userRepository.save(user));
     }
 
-
+    @Transactional
     public UserResponse getMyInfo(){
         var context = SecurityContextHolder.getContext();
         String email = context.getAuthentication().getName();

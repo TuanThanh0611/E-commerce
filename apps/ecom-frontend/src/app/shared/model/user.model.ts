@@ -1,11 +1,26 @@
+
 export interface BaseUser {
+  id?: string;
+  email?: string;
   firstName?: string;
   lastName?: string;
-  email?: string,
-  imageUrl?: string,
-  publicId?: string;
+  dob?: string;
+  phoneNumber?: string;
+  imageUrl?: string;
+  createdDate?: string;
+  dbId?: number;
 }
 
 export interface ConnectedUser extends BaseUser {
-  authorities?: string[];
+  roles?: string[];
+  userAddresses?: UserAddress[];
+}
+
+
+export interface UserAddress {
+  street?: string;
+  city?: string;
+  state?: string;
+  zipCode?: string;
+  country?: string;
 }

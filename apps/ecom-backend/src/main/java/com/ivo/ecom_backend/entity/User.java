@@ -5,6 +5,8 @@ import lombok.*;
 import lombok.experimental.FieldDefaults;
 
 import java.time.Instant;
+import java.util.List;
+import java.util.Map;
 import java.util.Set;
 import java.util.UUID;
 
@@ -25,13 +27,41 @@ public class User {
     String password;
     String imageUrl;
     Instant createdDate;
-    @ElementCollection
+    Instant lastModifiedDate;
+    @ElementCollection(fetch = FetchType.EAGER)
     @CollectionTable(name = "user_roles", joinColumns = @JoinColumn(name = "user_id"))
     @Column(name = "role")
-    Set<String> roles;
+    private Set<String> roles;
     Long dbId;
-    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true)
-    Set<UserAddress> userAddresses;
+    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true, fetch = FetchType.EAGER)
+    private Set<UserAddress> userAddresses;
 
 
+    public static User fromTokenClaims(Map<String, Object> claims, Set<String> rolesFromToken) {
+        User user = new User();
+
+        user.setId((String) claims.get("id"));
+        user.setLastname((String) claims.get("lastname"));
+        user.setFirstname((String) claims.get("firstname"));
+        user.setEmail((String) claims.get("email"));
+
+        // Trích xuất createdDate từ claims và chuyển đổi từ epoch giây sang Instant
+        Object createdDateObj = claims.get("createdDate");
+        if (createdDateObj != null && createdDateObj instanceof Long) {
+            user.setCreatedDate(Instant.ofEpochSecond((Long) createdDateObj));
+        }
+
+        // Gán vai trò từ danh sách rolesFromToken
+        user.setRoles(rolesFromToken);
+
+        return user;
+    }
+
+
+    public void updateFromUser(User user) {
+        this.email = user.email;
+        this.imageUrl = user.imageUrl;
+        this.firstname = user.firstname;
+        this.lastname = user.lastname;
+    }
 }

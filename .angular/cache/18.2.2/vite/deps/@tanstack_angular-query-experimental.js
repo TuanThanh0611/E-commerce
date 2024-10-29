@@ -12,8 +12,10 @@ import {
   runInInjectionContext,
   signal,
   untracked
-} from "./chunk-DIH56O3V.js";
-import "./chunk-FDESMX7I.js";
+} from "./chunk-WDMVXB4D.js";
+import "./chunk-XPU7EA6D.js";
+import "./chunk-QN5HDKTT.js";
+import "./chunk-MHK6ZZQX.js";
 import {
   __async,
   __objRest,
@@ -21,7 +23,7 @@ import {
   __spreadValues
 } from "./chunk-WDMUDEB6.js";
 
-// node_modules/@tanstack/query-core/build/modern/subscribable.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/subscribable.js
 var Subscribable = class {
   constructor() {
     this.listeners = /* @__PURE__ */ new Set();
@@ -44,7 +46,7 @@ var Subscribable = class {
   }
 };
 
-// node_modules/@tanstack/query-core/build/modern/utils.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/utils.js
 var isServer = typeof window === "undefined" || "Deno" in globalThis;
 function noop() {
   return void 0;
@@ -264,7 +266,7 @@ function ensureQueryFn(options, fetchOptions) {
   return options.queryFn;
 }
 
-// node_modules/@tanstack/query-core/build/modern/focusManager.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/focusManager.js
 var FocusManager = class extends Subscribable {
   #focused;
   #cleanup;
@@ -326,7 +328,7 @@ var FocusManager = class extends Subscribable {
 };
 var focusManager = new FocusManager();
 
-// node_modules/@tanstack/query-core/build/modern/onlineManager.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/onlineManager.js
 var OnlineManager = class extends Subscribable {
   #online = true;
   #cleanup;
@@ -378,7 +380,7 @@ var OnlineManager = class extends Subscribable {
 };
 var onlineManager = new OnlineManager();
 
-// node_modules/@tanstack/query-core/build/modern/retryer.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/retryer.js
 function defaultRetryDelay(failureCount) {
   return Math.min(1e3 * 2 ** failureCount, 3e4);
 }
@@ -508,7 +510,7 @@ function createRetryer(config) {
   };
 }
 
-// node_modules/@tanstack/query-core/build/modern/notifyManager.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/notifyManager.js
 function createNotifyManager() {
   let queue = [];
   let transactions = 0;
@@ -581,7 +583,7 @@ function createNotifyManager() {
 }
 var notifyManager = createNotifyManager();
 
-// node_modules/@tanstack/query-core/build/modern/removable.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/removable.js
 var Removable = class {
   #gcTimeout;
   destroy() {
@@ -606,7 +608,7 @@ var Removable = class {
   }
 };
 
-// node_modules/@tanstack/query-core/build/modern/query.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/query.js
 var Query = class extends Removable {
   #initialState;
   #revertState;
@@ -979,7 +981,7 @@ function getDefaultState(options) {
   };
 }
 
-// node_modules/@tanstack/query-core/build/modern/queryCache.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/queryCache.js
 var QueryCache = class extends Subscribable {
   constructor(config = {}) {
     super();
@@ -1072,7 +1074,7 @@ var QueryCache = class extends Subscribable {
   }
 };
 
-// node_modules/@tanstack/query-core/build/modern/mutation.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/mutation.js
 var Mutation = class extends Removable {
   #observers;
   #mutationCache;
@@ -1280,7 +1282,7 @@ function getDefaultState2() {
   };
 }
 
-// node_modules/@tanstack/query-core/build/modern/mutationCache.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/mutationCache.js
 var MutationCache = class extends Subscribable {
   constructor(config = {}) {
     super();
@@ -1370,7 +1372,7 @@ function scopeFor(mutation) {
   return mutation.options.scope?.id ?? String(mutation.mutationId);
 }
 
-// node_modules/@tanstack/query-core/build/modern/infiniteQueryBehavior.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/infiniteQueryBehavior.js
 function infiniteQueryBehavior(pages) {
   return {
     onFetch: (context, query) => {
@@ -1483,7 +1485,7 @@ function hasPreviousPage(options, data) {
   return getPreviousPageParam(options, data) != null;
 }
 
-// node_modules/@tanstack/query-core/build/modern/queryClient.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/queryClient.js
 var QueryClient = class {
   #queryCache;
   #mutationCache;
@@ -1747,7 +1749,7 @@ var QueryClient = class {
   }
 };
 
-// node_modules/@tanstack/query-core/build/modern/queryObserver.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/queryObserver.js
 var QueryObserver = class extends Subscribable {
   constructor(client, options) {
     super();
@@ -2143,7 +2145,7 @@ function shouldAssignObserverCurrentProperties(observer, optimisticResult) {
   return false;
 }
 
-// node_modules/@tanstack/query-core/build/modern/queriesObserver.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/queriesObserver.js
 function difference(array1, array2) {
   return array1.filter((x) => !array2.includes(x));
 }
@@ -2298,7 +2300,7 @@ var QueriesObserver = class extends Subscribable {
   }
 };
 
-// node_modules/@tanstack/query-core/build/modern/infiniteQueryObserver.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/infiniteQueryObserver.js
 var InfiniteQueryObserver = class extends QueryObserver {
   constructor(client, options) {
     super(client, options);
@@ -2367,7 +2369,7 @@ var InfiniteQueryObserver = class extends QueryObserver {
   }
 };
 
-// node_modules/@tanstack/query-core/build/modern/mutationObserver.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/mutationObserver.js
 var MutationObserver = class extends Subscribable {
   #client;
   #currentResult = void 0;
@@ -2456,7 +2458,7 @@ var MutationObserver = class extends Subscribable {
   }
 };
 
-// node_modules/@tanstack/query-core/build/modern/hydration.js
+// node_modules/@tanstack/angular-query-experimental/node_modules/@tanstack/query-core/build/modern/hydration.js
 function defaultTransformerFn(data) {
   return data;
 }

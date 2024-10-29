@@ -25,7 +25,7 @@
         </details>
       </li>
       @if (connectedUserQuery?.status() === "success"
-      && oauth2Service.hasAnyAuthorities(connectedUserQuery?.data()!, "ROLE_ADMIN")) {
+      && authService.hasAnyAuthorities(connectedUserQuery?.data()!, "ROLE_ADMIN")) {
         <li>
           <details #adminMenu>
             <summary>Admin</summary>

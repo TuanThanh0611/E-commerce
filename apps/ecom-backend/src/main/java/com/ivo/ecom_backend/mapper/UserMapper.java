@@ -1,5 +1,6 @@
 package com.ivo.ecom_backend.mapper;
 
+import com.ivo.ecom_backend.dto.UserDTO;
 import com.ivo.ecom_backend.dto.request.RegisterRequest;
 import com.ivo.ecom_backend.dto.request.UserCreateRequest;
 import com.ivo.ecom_backend.dto.request.UserUpdateRequest;
@@ -18,5 +19,6 @@ public  interface UserMapper {
     void updateUser(@MappingTarget User user, UserUpdateRequest request);
 
     User registerRequestToUser(RegisterRequest request);
-    UserResponse userToResponse(User user);
+//    UserResponse userToUserResponse(User user);
+    UserDTO toUserDTO(User user);
 }

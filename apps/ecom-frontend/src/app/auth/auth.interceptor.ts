@@ -1,38 +1,20 @@
-import { HttpInterceptorFn } from '@angular/common/http';
-import { inject } from '@angular/core';
+import { Injectable } from '@angular/core';
+import { HttpInterceptor, HttpRequest, HttpHandler, HttpEvent } from '@angular/common/http';
+import { Observable } from 'rxjs';
 
-import { switchMap, catchError, throwError } from 'rxjs';
-import {JwtService} from "./service/jwt.service";
+@Injectable()
+export class Auth1Interceptor implements HttpInterceptor {
+    intercept(req: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>> {
+        const token = localStorage.getItem('authToken');
 
-export const authInterceptor: HttpInterceptorFn = (req, next) => {
-    const jwtService = inject(JwtService);
-    const accessToken = jwtService.getAccessToken();
-
-    let clonedRequest = req;
-    if (accessToken) {
-        clonedRequest = req.clone({
+        // Clone request để thêm header Authorization
+        const clonedReq = req.clone({
             setHeaders: {
-                Authorization: `Bearer ${accessToken}`,
-            },
-        });
-    }
-
-    return next(clonedRequest).pipe(
-        catchError((error) => {
-            // Kiểm tra lỗi 401 để làm mới Access Token
-            if (error.status === 401 && jwtService.getRefreshToken()) {
-                return jwtService.refreshAccessToken().pipe(
-                    switchMap((newToken) => {
-                        const newRequest = req.clone({
-                            setHeaders: {
-                                Authorization: `Bearer ${newToken}`,
-                            },
-                        });
-                        return next(newRequest);
-                    })
-                );
+                Authorization: `Bearer ${token}`
             }
-            return throwError(() => error);
-        })
-    );
-};
+        });
+
+        // Trả về observable từ handler tiếp theo
+        return next.handle(clonedReq);
+    }
+}

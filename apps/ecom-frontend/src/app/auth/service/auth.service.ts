@@ -1,55 +1,60 @@
-import { inject, Injectable } from '@angular/core';
+import {Inject, inject, Injectable, PLATFORM_ID} from '@angular/core';
 import { HttpClient, HttpParams } from '@angular/common/http';
-import { OidcSecurityService } from 'angular-auth-oidc-client';
-import {
-    CreateQueryResult,
-    injectQuery,
-} from '@tanstack/angular-query-experimental';
-
-import { firstValueFrom, Observable } from 'rxjs';
-import {environment} from "../../../environments/environment";
-import {ConnectedUser} from "../../shared/model/user.model";
-import {FormBuilder, FormGroup, Validators} from "@angular/forms";
-import {Router} from "@angular/router";
-
+import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { Router } from '@angular/router';
+import { firstValueFrom, Observable, of } from 'rxjs';
+import { environment } from '../../../environments/environment';
+import { ConnectedUser } from '../../shared/model/user.model';
+import {CreateQueryResult, injectQuery} from "@tanstack/angular-query-experimental";
+import {isPlatformBrowser} from "@angular/common";
 
 @Injectable({
     providedIn: 'root',
 })
 export class AuthService {
-    http = inject(HttpClient);
-    private readonly tokenKey='authToken';
+    private readonly tokenKey = 'authToken';
     introspectForm!: FormGroup;
+    notConnected = 'NOT_CONNECTED';
     connectedUserQuery: CreateQueryResult<ConnectedUser> | undefined;
 
-    notConnected = 'NOT_CONNECTED';
-    constructor(private fb: FormBuilder,
-                private router: Router) {
+    constructor(private fb: FormBuilder, private router: Router,
+                private http: HttpClient,@Inject(PLATFORM_ID)private platformId:Object) {
     }
-    saveToken(token:string):void{
-        localStorage.setItem(this.tokenKey,token);
+
+    saveToken(token: string): void {
+        if(isPlatformBrowser(this.platformId))
+        localStorage.setItem(this.tokenKey, token);
     }
+
     getToken(): string | null {
+        if(isPlatformBrowser(this.platformId))
         return localStorage.getItem(this.tokenKey);
+        else
+            return null;
     }
 
     checkAuth(): boolean {
         const token = this.getToken();
-        let introspect=true;
-        this.introspectForm = this.fb.group({
-            token: ['', [Validators.required]],
-        });
-        if (!token) {
+        if (!token || !this.isTokenValid(token)) {
             return false;
         }
-        this.introspect(this.introspectForm.value).subscribe(
-            (response) => {
-                introspect=response?.result?.valid
 
+        // Khai báo một biến để lưu kết quả kiểm tra token
+        let isAuthenticated = false;
+
+        // Gọi introspect API để xác thực token
+        this.introspect({ token }).subscribe(
+            (response) => {
+                isAuthenticated = response?.result?.valid ?? false;
+            },
+            (error) => {
+                console.error('Lỗi introspect:', error);
+                isAuthenticated = false;
             }
         );
 
-        return introspect&&this.isTokenValid(token);
+        // Trả về kết quả đã lưu trữ
+        return isAuthenticated;
     }
 
     private isTokenValid(token: string): boolean {
@@ -63,13 +68,32 @@ export class AuthService {
         }
     }
 
-    introspect(introspectRequest:any):Observable<any>{
-        return this.http.post('http://localhost:8080/api/auth/token', introspectRequest)
-    }
-    logout(): void {
-        localStorage.removeItem(this.tokenKey);
+    introspect(introspectRequest: any): Observable<any> {
+        return this.http.post('http://localhost:8080/api/auth/token', introspectRequest);
     }
 
+    logout(): void {
+        if(isPlatformBrowser(this.platformId)){
+        localStorage.removeItem(this.tokenKey);
+        this.router.navigate(['/']);
+    }}
+
+    async initAuthentication(): Promise<void> {
+        const isAuthenticated = await this.checkAuth();
+        if (isAuthenticated) {
+            console.log('connected');
+        } else {
+            console.log('not connected');
+            this.router.navigate(['/login']); // Điều hướng nếu không xác thực
+        }
+    }
+
+    hasAnyAuthorities(user: ConnectedUser, roles: Array<string> | string): boolean {
+        if (!Array.isArray(roles)) {
+            roles = [roles];
+        }
+        return user.roles ? user.roles.some((role) => roles.includes(role)) : false;
+    }
 
     fetch(): CreateQueryResult<ConnectedUser> {
         return injectQuery(() => ({
@@ -81,38 +105,8 @@ export class AuthService {
     fetchUserHttp(forceResync: boolean): Observable<ConnectedUser> {
         const params = new HttpParams().set('forceResync', forceResync);
         return this.http.get<ConnectedUser>(
-            `${environment.apiUrl}/users/authenticated`,
+            `http://localhost:8080/api/auth/authenticated`,
             { params }
         );
     }
-
-
-
-
-
-
-    initAuthentication(): void {
-        const isAuthenticated = this.checkAuth();
-        if (isAuthenticated) {
-            console.log('connected');
-        } else {
-            console.log('not connected');
-        }
-    }
-
-    // hasAnyAuthorities(
-    //     connectedUser: ConnectedUser,
-    //     roles: Array<string> | string
-    // ): boolean {
-    //     if (!Array.isArray(roles)) {
-    //         roles = [roles];
-    //     }
-    //     if (connectedUser.roles) {
-    //         return connectedUser.roles.some((authority: string) =>
-    //             roles.includes(authority)
-    //         );
-    //     } else {
-    //         return false;
-    //     }
-    // }
 }

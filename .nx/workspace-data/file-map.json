@@ -20,6 +20,8 @@
     "@ng-web-apis/universal": "^4.2.1",
     "@tanstack/angular-query-devtools-experimental": "^5.54.1",
     "@tanstack/angular-query-experimental": "^5.54.1",
+    "@tanstack/query-core": "^5.59.16",
+    "@tanstack/react-query": "^5.59.16",
     "angular-auth-oidc-client": "^18.0.1",
     "express": "~4.18.2",
     "ngx-stripe": "^18.1.0",
@@ -68,7 +70,7 @@
     "tailwindcss": "^3.0.2",
     "ts-jest": "^29.1.0",
     "ts-node": "10.9.1",
-    "typescript": "~5.5.2"
+    "typescript": "5.5"
   },
   "pathMappings": {},
   "nxJsonPlugins": [
@@ -93,40 +95,12 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "tsconfig.base.json",
-        "hash": "16936441711144470533"
+        "file": "package.json",
+        "hash": "11461971966548770189"
       },
       {
-        "file": ".idea/modules.xml",
-        "hash": "13312296053422334087"
-      },
-      {
-        "file": "jest.preset.js",
-        "hash": "9430166341120122740"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "6766473322397738995"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_temp_494edd14/package.json",
-        "hash": "8630294688235076505"
-      },
-      {
-        "file": ".idea/uiDesigner.xml",
-        "hash": "1669276093529694887"
-      },
-      {
-        "file": ".gitignore",
-        "hash": "1790330030396540306"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_ssr_temp_46cbbd13/package.json",
-        "hash": "8630294688235076505"
-      },
-      {
-        "file": ".idea/.gitignore",
-        "hash": "10286036308014790964"
+        "file": ".npmrc",
+        "hash": "4055606894390288348"
       },
       {
         "file": "schema-ecommerce-app.png",
@@ -137,47 +111,245 @@
         "hash": "16230574147077678749"
       },
       {
-        "file": "nx.json",
-        "hash": "4546449642935827340"
+        "file": "jest.preset.js",
+        "hash": "9430166341120122740"
       },
       {
-        "file": ".angular/cache/18.2.2/ecom-frontend/.tsbuildinfo",
-        "hash": "5504909890913046510"
+        "file": ".angular/cache/18.2.2/vite/deps_temp_e1bfb162/package.json",
+        "hash": "8630294688235076505"
       },
       {
-        "file": "jest.config.ts",
-        "hash": "3494843969422251966"
-      },
-      {
-        "file": ".idea/ecommerce.iml",
-        "hash": "7210100432694438571"
-      },
-      {
-        "file": "package.json",
-        "hash": "418307150957203513"
-      },
-      {
-        "file": ".idea/misc.xml",
-        "hash": "17091216536004992711"
-      },
-      {
-        "file": ".idea/jarRepositories.xml",
-        "hash": "17362667078814151884"
+        "file": "package-lock.json",
+        "hash": "6416314229904044208"
       },
       {
         "file": ".idea/encodings.xml",
         "hash": "15005210031370498129"
       },
       {
-        "file": "README.md",
-        "hash": "12081612395520344013"
+        "file": ".idea/misc.xml",
+        "hash": "17091216536004992711"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "1790330030396540306"
+      },
+      {
+        "file": ".angular/cache/18.2.2/vite/deps_ssr_temp_8339f86b/package.json",
+        "hash": "8630294688235076505"
+      },
+      {
+        "file": ".idea/jarRepositories.xml",
+        "hash": "17362667078814151884"
+      },
+      {
+        "file": "jest.config.ts",
+        "hash": "3494843969422251966"
+      },
+      {
+        "file": "nx.json",
+        "hash": "4546449642935827340"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "16936441711144470533"
+      },
+      {
+        "file": ".idea/modules.xml",
+        "hash": "13312296053422334087"
       },
       {
         "file": ".idea/vcs.xml",
         "hash": "14600148892634157659"
+      },
+      {
+        "file": ".idea/ecommerce.iml",
+        "hash": "7210100432694438571"
+      },
+      {
+        "file": ".angular/cache/18.2.2/vite/deps_temp_1bd83220/package.json",
+        "hash": "8630294688235076505"
+      },
+      {
+        "file": ".idea/.gitignore",
+        "hash": "10286036308014790964"
+      },
+      {
+        "file": "README.md",
+        "hash": "12081612395520344013"
+      },
+      {
+        "file": ".idea/uiDesigner.xml",
+        "hash": "1669276093529694887"
+      },
+      {
+        "file": ".angular/cache/18.2.2/ecom-frontend/.tsbuildinfo",
+        "hash": "7050486891075261280"
       }
     ],
     "projectFileMap": {
+      "ecom-backend": [
+        {
+          "file": "apps/ecom-backend/.gitattributes",
+          "hash": "6003687593561338678"
+        },
+        {
+          "file": "apps/ecom-backend/.gitignore",
+          "hash": "7198947744153913257"
+        },
+        {
+          "file": "apps/ecom-backend/.mvn/wrapper/maven-wrapper.properties",
+          "hash": "7720921598456675219"
+        },
+        {
+          "file": "apps/ecom-backend/mvnw",
+          "hash": "15069388377727069083"
+        },
+        {
+          "file": "apps/ecom-backend/mvnw.cmd",
+          "hash": "13144227073390459929"
+        },
+        {
+          "file": "apps/ecom-backend/pom.xml",
+          "hash": "14872955072571644385"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/EcomBackendApplication.java",
+          "hash": "8589360343246001309"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/Enums/Role.java",
+          "hash": "4565381588005160971"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/config/ApplicationInitConfig.java",
+          "hash": "6787285010002962495"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/config/SercurityConfig.java",
+          "hash": "11198840706516738202"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/config/WebConfig.java",
+          "hash": "16665395448417243870"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/controller/AuthController.java",
+          "hash": "12770114515228646542"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/controller/UserController.java",
+          "hash": "14308765776283961028"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/UserDTO.java",
+          "hash": "5573054042816546980"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/IntrospectRequest.java",
+          "hash": "154957801165397351"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/LoginRequest.java",
+          "hash": "15851436417001478699"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/RegisterRequest.java",
+          "hash": "17797530139182841043"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/UserCreateRequest.java",
+          "hash": "15683352478057242870"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/UserUpdateRequest.java",
+          "hash": "2701293516974121242"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/ApiResponse.java",
+          "hash": "8819799261996668501"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/AuthenticationResponse.java",
+          "hash": "13857635384278263251"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/IntrospectResponse.java",
+          "hash": "17816221496313646515"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/JwtResponse.java",
+          "hash": "12958152127133572065"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/LoginResponse.java",
+          "hash": "11846787528443712849"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/UserResponse.java",
+          "hash": "14426277461146411293"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/Authority.java",
+          "hash": "7272291290559365423"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/Category.java",
+          "hash": "247812631310698957"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/User.java",
+          "hash": "1702428304641456690"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/UserAddress.java",
+          "hash": "2568115207035297477"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/exception/AppException.java",
+          "hash": "5481878158929206420"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/exception/ErrorCode.java",
+          "hash": "17314203740661811242"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/mapper/UserMapper.java",
+          "hash": "17802388964383584590"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/repository/UserRepository.java",
+          "hash": "5258367227384828966"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/service/AuthService.java",
+          "hash": "6210958892433587310"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/service/UserService.java",
+          "hash": "4453889388919784869"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/resources/application.properties",
+          "hash": "12549473236917832702"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/resources/db/changelog/master.xml",
+          "hash": "10442314682297295205"
+        },
+        {
+          "file": "apps/ecom-backend/src/test/java/com/ivo/ecom_backend/EcomBackendApplicationTests.java",
+          "hash": "11091661831586329544"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/service/UserSynchronizer.java",
+          "hash": "2316626175827739624"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/service/JwtUtils.java",
+          "hash": "14239060981986857537"
+        }
+      ],
       "ecom-frontend": [
         {
           "file": "apps/ecom-frontend/.eslintrc.json",
@@ -381,7 +553,7 @@
         },
         {
           "file": "apps/ecom-frontend/src/app/app.component.ts",
-          "hash": "11771390246395291399",
+          "hash": "2545045590204748398",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/router",
@@ -421,10 +593,10 @@
         },
         {
           "file": "apps/ecom-frontend/src/app/auth/auth.interceptor.ts",
-          "hash": "11675497721233958385",
+          "hash": "14120104956096155226",
           "deps": [
-            "npm:@angular/common",
             "npm:@angular/core",
+            "npm:@angular/common",
             "npm:rxjs"
           ]
         },
@@ -454,24 +626,6 @@
           ]
         },
         {
-          "file": "apps/ecom-frontend/src/app/auth/oauth2.service.spec.ts",
-          "hash": "15303701274841555129",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "apps/ecom-frontend/src/app/auth/oauth2.service.ts",
-          "hash": "11763610430820044966",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/common",
-            "npm:angular-auth-oidc-client",
-            "npm:@tanstack/angular-query-experimental",
-            "npm:rxjs"
-          ]
-        },
-        {
           "file": "apps/ecom-frontend/src/app/auth/register/register.component.html",
           "hash": "4970881798685689845"
         },
@@ -491,7 +645,7 @@
         },
         {
           "file": "apps/ecom-frontend/src/app/auth/role-check.guard.ts",
-          "hash": "10686155419737815250",
+          "hash": "4321022523017968635",
           "deps": [
             "npm:@angular/router",
             "npm:@angular/core",
@@ -501,15 +655,14 @@
         },
         {
           "file": "apps/ecom-frontend/src/app/auth/service/auth.service.ts",
-          "hash": "12791515662542265729",
+          "hash": "9556479325056424980",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
-            "npm:angular-auth-oidc-client",
-            "npm:@tanstack/angular-query-experimental",
-            "npm:rxjs",
             "npm:@angular/forms",
-            "npm:@angular/router"
+            "npm:@angular/router",
+            "npm:rxjs",
+            "npm:@tanstack/angular-query-experimental"
           ]
         },
         {
@@ -630,7 +783,7 @@
         },
         {
           "file": "apps/ecom-frontend/src/app/layout/navbar/navbar.component.html",
-          "hash": "16035501296567044616"
+          "hash": "1309220239325253932"
         },
         {
           "file": "apps/ecom-frontend/src/app/layout/navbar/navbar.component.scss",
@@ -645,7 +798,7 @@
         },
         {
           "file": "apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts",
-          "hash": "6791519862110495420",
+          "hash": "3341436835411307519",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -679,7 +832,7 @@
         },
         {
           "file": "apps/ecom-frontend/src/app/shared/model/user.model.ts",
-          "hash": "5618557094436061370"
+          "hash": "4728088643258695158"
         },
         {
           "file": "apps/ecom-frontend/src/app/shared/service/order.service.spec.ts",
@@ -794,7 +947,7 @@
         },
         {
           "file": "apps/ecom-frontend/src/app/shop/cart/cart.component.ts",
-          "hash": "10231442783941430321",
+          "hash": "13012899499265537778",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -958,7 +1111,7 @@
         },
         {
           "file": "apps/ecom-frontend/src/main.ts",
-          "hash": "16635586463787978962",
+          "hash": "11535287300013835580",
           "deps": [
             "npm:@angular/platform-browser"
           ]
@@ -998,160 +1151,6 @@
         {
           "file": "apps/ecom-frontend/tsconfig.spec.json",
           "hash": "2927375835638640771"
-        }
-      ],
-      "ecom-backend": [
-        {
-          "file": "apps/ecom-backend/.gitattributes",
-          "hash": "6003687593561338678"
-        },
-        {
-          "file": "apps/ecom-backend/.gitignore",
-          "hash": "7198947744153913257"
-        },
-        {
-          "file": "apps/ecom-backend/.mvn/wrapper/maven-wrapper.properties",
-          "hash": "7720921598456675219"
-        },
-        {
-          "file": "apps/ecom-backend/mvnw",
-          "hash": "15069388377727069083"
-        },
-        {
-          "file": "apps/ecom-backend/mvnw.cmd",
-          "hash": "13144227073390459929"
-        },
-        {
-          "file": "apps/ecom-backend/pom.xml",
-          "hash": "14872955072571644385"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/EcomBackendApplication.java",
-          "hash": "8589360343246001309"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/Enums/Role.java",
-          "hash": "4565381588005160971"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/config/ApplicationInitConfig.java",
-          "hash": "6787285010002962495"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/config/SercurityConfig.java",
-          "hash": "2629304267050981590"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/config/WebConfig.java",
-          "hash": "16665395448417243870"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/controller/AuthController.java",
-          "hash": "9329092981484199169"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/controller/UserController.java",
-          "hash": "14057928016893429913"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/UserDTO.java",
-          "hash": "16016141397025136683"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/IntrospectRequest.java",
-          "hash": "154957801165397351"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/LoginRequest.java",
-          "hash": "15851436417001478699"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/RegisterRequest.java",
-          "hash": "17797530139182841043"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/UserCreateRequest.java",
-          "hash": "15683352478057242870"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/request/UserUpdateRequest.java",
-          "hash": "2701293516974121242"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/ApiResponse.java",
-          "hash": "8819799261996668501"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/AuthenticationResponse.java",
-          "hash": "13857635384278263251"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/IntrospectResponse.java",
-          "hash": "17816221496313646515"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/LoginResponse.java",
-          "hash": "11846787528443712849"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/dto/response/UserResponse.java",
-          "hash": "14426277461146411293"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/Authority.java",
-          "hash": "7272291290559365423"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/Category.java",
-          "hash": "247812631310698957"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/User.java",
-          "hash": "3675761923034479961"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/entity/UserAddress.java",
-          "hash": "2568115207035297477"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/exception/AppException.java",
-          "hash": "5481878158929206420"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/exception/ErrorCode.java",
-          "hash": "17314203740661811242"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/mapper/UserMapper.java",
-          "hash": "15497721933809954727"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/repository/UserRepository.java",
-          "hash": "5258367227384828966"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/service/AuthService.java",
-          "hash": "5272513944934620161"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/service/UserService.java",
-          "hash": "6812981776142561236"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/resources/application.properties",
-          "hash": "12549473236917832702"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/resources/db/changelog/master.xml",
-          "hash": "10442314682297295205"
-        },
-        {
-          "file": "apps/ecom-backend/src/test/java/com/ivo/ecom_backend/EcomBackendApplicationTests.java",
-          "hash": "11091661831586329544"
-        },
-        {
-          "file": "apps/ecom-backend/src/main/java/com/ivo/ecom_backend/service/AuthenticatedUser.java",
-          "hash": "5003959151001753104"
         }
       ]
     }

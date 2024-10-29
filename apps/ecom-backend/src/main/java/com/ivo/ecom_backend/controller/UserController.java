@@ -34,23 +34,23 @@ public class UserController {
     @GetMapping
     ApiResponse<List<UserResponse>> getAllUsers(){
 
-        var authentication = SecurityContextHolder.getContext().getAuthentication();
-
-        log.info("Username: {}", authentication.getName());
-        authentication.getAuthorities().forEach(grantedAuthority -> log.info(grantedAuthority.getAuthority()));
+//        var authentication = SecurityContextHolder.getContext().getAuthentication();
+//
+//        log.info("Username: {}", authentication.getName());
+//        authentication.getAuthorities().forEach(grantedAuthority -> log.info(grantedAuthority.getAuthority()));
 
 
         return ApiResponse.<List<UserResponse>>builder()
                 .result(userService.getAllUsers())
                 .build();
     }
-    @GetMapping("/authenticated")
-    public ResponseEntity<UserResponse> getAuthenticatedUser(@AuthenticationPrincipal Jwt jwtToken,
-                                                             @RequestParam boolean forceResync) {
-        User authenticatedUser = userService.getAuthenticatedUserWithSync(jwtToken, forceResync);
-        UserResponse user = m
-        return ResponseEntity.ok(restUser);
-    }
+//    @GetMapping("/authenticated")
+//    public ResponseEntity<UserResponse> getAuthenticatedUser(@AuthenticationPrincipal Jwt jwtToken,
+//                                                             @RequestParam boolean forceResync) {
+//        User authenticatedUser = userService.getAuthenticatedUserWithSync(jwtToken, forceResync);
+//        UserResponse user = m
+//        return ResponseEntity.ok(restUser);
+//    }
 
     @GetMapping("/myInfo")
     ApiResponse<UserResponse> getMyInfo(){

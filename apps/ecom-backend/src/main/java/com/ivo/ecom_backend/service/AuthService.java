@@ -1,5 +1,4 @@
 package com.ivo.ecom_backend.service;
-
 import com.ivo.ecom_backend.Enums.Role;
 import com.ivo.ecom_backend.dto.request.IntrospectRequest;
 import com.ivo.ecom_backend.dto.request.LoginRequest;
@@ -52,10 +51,12 @@ public class AuthService {
     @Autowired
     UserMapper mapper;
     PasswordEncoder passwordEncoder;
-    @NonFinal
-    @Value( "${jwt.signerKey}")
-    protected String SIGNER_KEY;
-
+    protected String SIGNER_KEY="Hvj3OStJfA9Ze823YyodKyYSJ33T555IRYFs2yIOcPLiP10J8pMj1wfy8zi2ZWAw";
+    @Autowired
+    JwtUtils jwtUtils;
+    @Autowired
+    UserSynchronizer userSynchronizer;
+    @Transactional
     public UserResponse registerUser(RegisterRequest request){
         if(userRepository.existsByEmail(request.getEmail())){
             throw new AppException(ErrorCode.USER_EXISTED);
@@ -72,33 +73,39 @@ public class AuthService {
         return mapper.toUserResponse(userRepository.save(user));
     }
     @Transactional
-    public User getAuthenticatedUserWithSync(Jwt jwtToken, boolean forceResync) {
-        userSynchronizer.syncWithIdp(jwtToken, forceResync);
-        return userReader.getByEmail(new UserEmail(AuthenticatedUser.username().get()))
-                .orElseThrow();
-    }
+    public User getAuthenticatedUserWithSync(String jwtToken, boolean forceResync) {
+        try {
+            userSynchronizer.syncWithDatabase(jwtToken, forceResync);
 
-    public void syncWithIdp(Jwt jwtToken, boolean forceResync) {
-        Map<String, Object> claims = jwtToken.getClaims();
-        List<String> rolesFromToken = AuthenticatedUser.extractRolesFromToken(jwtToken);
-        Map<String, Object> userInfo = kindeService.getUserInfo(claims.get("sub").toString());
-        User user = User.fromTokenAttributes(userInfo, rolesFromToken);
-        Optional<User> existingUser = userRepository.findUsersByEmail(user.getEmail());
-        if (existingUser.isPresent()) {
-            if (claims.get(UPDATE_AT_KEY) != null) {
-                Instant lastModifiedDate = existingUser.orElseThrow().getLastModifiedDate();
-                Instant idpModifiedDate = Instant.ofEpochSecond((Integer) claims.get(UPDATE_AT_KEY));
-
-                if (idpModifiedDate.isAfter(lastModifiedDate) || forceResync) {
-                    updateUser(user, existingUser.get());
-                }
-            }
-        } else {
-            user.initFieldForSignup();
-            userRepository.save(user);
+            return userRepository.findUsersByEmail(jwtUtils.extractEmailFromToken(jwtToken))
+                    .orElseThrow(() -> new RuntimeException("User not found"));
+        } catch (Exception e) {
+            e.printStackTrace(); // Ghi log chi tiết lỗi
+            throw new RuntimeException("Lỗi khi lấy người dùng đã xác thực", e);
         }
-
     }
+//
+//    public void syncWithIdp(Jwt jwtToken, boolean forceResync) {
+//        Map<String, Object> claims = jwtToken.getClaims();
+//        List<String> rolesFromToken = AuthenticatedUser.extractRolesFromToken(jwtToken);
+//        Map<String, Object> userInfo = kindeService.getUserInfo(claims.get("sub").toString());
+//        User user = User.fromTokenAttributes(userInfo, rolesFromToken);
+//        Optional<User> existingUser = userRepository.findUsersByEmail(user.getEmail());
+//        if (existingUser.isPresent()) {
+//            if (claims.get(UPDATE_AT_KEY) != null) {
+//                Instant lastModifiedDate = existingUser.orElseThrow().getLastModifiedDate();
+//                Instant idpModifiedDate = Instant.ofEpochSecond((Integer) claims.get(UPDATE_AT_KEY));
+//
+//                if (idpModifiedDate.isAfter(lastModifiedDate) || forceResync) {
+//                    updateUser(user, existingUser.get());
+//                }
+//            }
+//        } else {
+//            user.initFieldForSignup();
+//            userRepository.save(user);
+//        }
+//
+//    }
     @Transactional
     public AuthenticationResponse authenticate(LoginRequest request){
         var user = userRepository.findUsersByEmail(
@@ -109,7 +116,7 @@ public class AuthService {
         if(!authenticated){
             throw new AppException(ErrorCode.UNAUTHENTICATION);
         }
-        String token=generateToken(user);
+        String token=jwtUtils.generateToken(user);
         if(token==null){
             throw new AppException(ErrorCode.CANT_CREATE_TOKEN);
         }
@@ -128,33 +135,14 @@ public class AuthService {
         if(!authenticated){
             throw new AppException(ErrorCode.UNAUTHENTICATION);
         }
-        String tokenn=generateToken(user);
+        String tokenn= jwtUtils.generateToken(user);
         if(tokenn==null){
             throw new AppException(ErrorCode.CANT_CREATE_TOKEN);
         }
         return tokenn;
 
     }
-    private String generateToken(User user)  {
-        JWSHeader header=new JWSHeader(JWSAlgorithm.HS512);
-        JWTClaimsSet jwtClaimsSet=new JWTClaimsSet.Builder()
-                .subject(user.getEmail())
-                .issuer("ivo.com")
-                .issueTime(new Date())
-                .expirationTime(new Date(
-                        Instant.now().plus(3, ChronoUnit.HOURS).toEpochMilli()
-                ))
-                .claim("scope",buildScope(user))
-                .build();
-        Payload payload=new Payload(jwtClaimsSet.toJSONObject());
-        JWSObject jwsObject=new JWSObject(header,payload);
-        try {
-            jwsObject.sign(new MACSigner(SIGNER_KEY.getBytes()));
-            return jwsObject.serialize();
-        } catch (JOSEException e) {
-            throw new RuntimeException(e);
-        }
-    }
+    @Transactional
     public IntrospectResponse intropect(IntrospectRequest request) throws JOSEException, ParseException {
         var token =request.getToken();
         JWSVerifier verifier=new MACVerifier(SIGNER_KEY.getBytes());
@@ -168,13 +156,7 @@ public class AuthService {
 
     }
 
-    private String buildScope(User user){
-        StringJoiner stringJoiner = new StringJoiner(" ");
-        if (!CollectionUtils.isEmpty(user.getRoles()))
-            user.getRoles().forEach(stringJoiner::add);
 
-        return stringJoiner.toString();
-    }
 
 
 

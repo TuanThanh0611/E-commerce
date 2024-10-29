@@ -1,7 +1,7 @@
 import { Component, effect, inject, OnInit, PLATFORM_ID } from '@angular/core';
 import { CommonModule, isPlatformBrowser } from '@angular/common';
 import { CartService } from '../cart.service';
-import { Oauth2Service } from '../../auth/oauth2.service';
+
 import { ToastService } from '../../shared/toast/toast.service';
 import { CartItem, CartItemAdd, StripeSession } from '../cart.model';
 import {
@@ -11,17 +11,18 @@ import {
 import { lastValueFrom } from 'rxjs';
 import { RouterLink } from '@angular/router';
 import { StripeService } from 'ngx-stripe';
+import {AuthService} from "../../auth/service/auth.service";
 
 @Component({
   selector: 'ecom-cart',
   standalone: true,
   imports: [CommonModule, RouterLink],
   templateUrl: './cart.component.html',
-  styleUrl: './cart.component.scss',
+  styleUrls: ['./cart.component.scss'],
 })
 export class CartComponent implements OnInit {
   cartService = inject(CartService);
-  oauth2Service = inject(Oauth2Service);
+  authService = inject(AuthService); // Sử dụng AuthService
   toastService = inject(ToastService);
   stripeService = inject(StripeService);
 
@@ -30,9 +31,7 @@ export class CartComponent implements OnInit {
   platformId = inject(PLATFORM_ID);
 
   labelCheckout = 'Login to checkout';
-
   action: 'login' | 'checkout' = 'login';
-
   isInitPaymentSessionLoading = false;
 
   cartQuery = injectQuery(() => ({
@@ -42,13 +41,13 @@ export class CartComponent implements OnInit {
 
   initPaymentSession = injectMutation(() => ({
     mutationFn: (cart: Array<CartItemAdd>) =>
-      lastValueFrom(this.cartService.initPaymentSession(cart)),
+        lastValueFrom(this.cartService.initPaymentSession(cart)),
     onSuccess: (result: StripeSession) => this.onSessionCreateSuccess(result),
   }));
 
   constructor() {
     this.extractListToUpdate();
-    this.checkUserLoggedIn();
+    this.checkUserLoggedIn(); // Kiểm tra đăng nhập bằng AuthService
   }
 
   private extractListToUpdate() {
@@ -59,17 +58,15 @@ export class CartComponent implements OnInit {
     });
   }
 
-  private checkUserLoggedIn() {
-    effect(() => {
-      const connectedUserQuery = this.oauth2Service.connectedUserQuery;
-      if (connectedUserQuery?.isError()) {
-        this.labelCheckout = 'Login to checkout';
-        this.action = 'login';
-      } else if (connectedUserQuery?.isSuccess()) {
-        this.labelCheckout = 'Checkout';
-        this.action = 'checkout';
-      }
-    });
+  private async checkUserLoggedIn() {
+    const isAuthenticated = await this.authService.checkAuth(); // Kiểm tra đăng nhập bằng AuthService
+    if (isAuthenticated) {
+      this.labelCheckout = 'Checkout';
+      this.action = 'checkout';
+    } else {
+      this.labelCheckout = 'Login to checkout';
+      this.action = 'login';
+    }
   }
 
   ngOnInit(): void {
@@ -79,7 +76,7 @@ export class CartComponent implements OnInit {
   private updateQuantity(cartUpdated: Array<CartItemAdd>) {
     for (const cartItemToUpdate of this.cart) {
       const itemToUpdate = cartUpdated.find(
-        (item) => item.publicId === cartItemToUpdate.publicId
+          (item) => item.publicId === cartItemToUpdate.publicId
       );
       if (itemToUpdate) {
         cartItemToUpdate.quantity = itemToUpdate.quantity;
@@ -101,9 +98,9 @@ export class CartComponent implements OnInit {
 
   removeItem(publicId: string) {
     const itemToRemoveIndex = this.cart.findIndex(
-      (item) => item.publicId === publicId
+        (item) => item.publicId === publicId
     );
-    if (itemToRemoveIndex) {
+    if (itemToRemoveIndex !== -1) {
       this.cart.splice(itemToRemoveIndex, 1);
     }
     this.cartService.removeFromCart(publicId);
@@ -116,8 +113,8 @@ export class CartComponent implements OnInit {
   checkIfEmptyCart(): boolean {
     if (isPlatformBrowser(this.platformId)) {
       return (
-        this.cartQuery.isSuccess() &&
-        this.cartQuery.data().products.length === 0
+          this.cartQuery.isSuccess() &&
+          this.cartQuery.data().products.length === 0
       );
     } else {
       return false;
@@ -126,12 +123,12 @@ export class CartComponent implements OnInit {
 
   checkout() {
     if (this.action === 'login') {
-      this.oauth2Service.login();
+      this.authService.logout(); // Đăng xuất và chuyển hướng đến trang đăng nhập
     } else if (this.action === 'checkout') {
       this.isInitPaymentSessionLoading = true;
       const cartItemsAdd = this.cart.map(
-        (item) =>
-          ({ publicId: item.publicId, quantity: item.quantity } as CartItemAdd)
+          (item) =>
+              ({ publicId: item.publicId, quantity: item.quantity } as CartItemAdd)
       );
       this.initPaymentSession.mutate(cartItemsAdd);
     }
@@ -140,10 +137,12 @@ export class CartComponent implements OnInit {
   private onSessionCreateSuccess(sessionId: StripeSession) {
     this.cartService.storeSessionId(sessionId.id);
     this.stripeService
-      .redirectToCheckout({ sessionId: sessionId.id })
-      .subscribe((results) => {
-        this.isInitPaymentSessionLoading = false;
-        this.toastService.show(`Order error ${results.error.message}`, 'ERROR');
-      });
+        .redirectToCheckout({ sessionId: sessionId.id })
+        .subscribe((results) => {
+          this.isInitPaymentSessionLoading = false;
+          if (results.error) {
+            this.toastService.show(`Order error: ${results.error.message}`, 'ERROR');
+          }
+        });
   }
 }

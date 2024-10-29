@@ -8,10 +8,11 @@ import {
 import { fontAwesomeIcons } from './shared/font-awesome-icons';
 import { NavbarComponent } from './layout/navbar/navbar.component';
 import { FooterComponent } from './layout/footer/footer.component';
-import { Oauth2Service } from './auth/oauth2.service';
 import { isPlatformBrowser, NgClass } from '@angular/common';
 import { ToastService } from './shared/toast/toast.service';
 import { FormsModule } from '@angular/forms';
+import { AuthService } from './auth/service/auth.service'; // Import AuthService
+
 @Component({
   standalone: true,
   imports: [
@@ -24,13 +25,14 @@ import { FormsModule } from '@angular/forms';
   ],
   selector: 'ecom-root',
   templateUrl: './app.component.html',
-  styleUrl: './app.component.scss',
+  styleUrls: ['./app.component.scss'],
+  providers: [AuthService] // Đảm bảo AuthService được cung cấp
 })
 export class AppComponent implements OnInit {
   private faIconLibrary = inject(FaIconLibrary);
   private faConfig = inject(FaConfig);
 
-  private oauth2Service = inject(Oauth2Service);
+  private authService = inject(AuthService); // Sử dụng AuthService mới
 
   toastService = inject(ToastService);
 
@@ -38,17 +40,30 @@ export class AppComponent implements OnInit {
 
   constructor() {
     if (isPlatformBrowser(this.platformId)) {
-      this.oauth2Service.initAuthentication();
+      this.authService.initAuthentication();
     }
-    this.oauth2Service.connectedUserQuery = this.oauth2Service.fetch();
+    this.authService.connectedUserQuery = this.authService.fetch();
   }
 
   ngOnInit(): void {
     this.initFontAwesome();
+    this.checkAuthentication(); // Kiểm tra xác thực khi khởi tạo component
   }
 
   private initFontAwesome() {
     this.faConfig.defaultPrefix = 'far';
     this.faIconLibrary.addIcons(...fontAwesomeIcons);
+  }
+
+  private async checkAuthentication() {
+    try {
+      const isAuthenticated = await this.authService.checkAuth();
+      if (!isAuthenticated) {
+        this.authService.logout(); // Đăng xuất nếu xác thực không thành công
+      }
+    } catch (error) {
+      console.error('Lỗi xác thực token:', error);
+      this.authService.logout(); // Đăng xuất khi có lỗi
+    }
   }
 }

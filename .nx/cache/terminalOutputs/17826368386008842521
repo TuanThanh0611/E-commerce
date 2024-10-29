@@ -1,0 +1,1611 @@
+[?25l[2m◼[22m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[32m✔[39m Building...
+[2K[1A[2K[G
+🌼   [35mdaisyUI[39m [2m4.12.10[22m
+├─ [32m✔︎[39m 1 theme added[2m		https://daisyui.com/docs/themes[22m
+╰─ [32m★[39m [0mStar daisyUI on GitHub[0m	[2mhttps://github.com/saadeghi/daisyui[22m
+[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m76.88 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m [36m37.50 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m204.60 kB[22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m159.53 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-CNDSPNZX.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-4LWRAYML.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m1.35 kB[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-JJMN7KK6.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [3.869 seconds][39m
+[37m[39m
+[37mWatch mode enabled. Watching for file changes...[39m
+[37mNOTE: Raw file sizes do not reflect development server per-request transformations.[39m
+Re-optimizing dependencies because vite config has changed
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+Lỗi xác thực token: ReferenceError: localStorage is not defined
+    at _AuthService.getToken [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:24:9[90m)[39m
+    at _AuthService.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:28:28[90m)[39m
+    at Generator.next (<anonymous>)
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:38:61[90m)[39m
+    at ZoneAwarePromise [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:1385:25[90m)[39m
+    at Module.__async [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:22:10[90m)[39m
+    at _AuthService.checkAuth [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:27:20[90m)[39m
+    at _AppComponent.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/app.component.ts:55:54[90m)[39m
+    at Generator.next (<anonymous>)
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:38:61[90m)[39m
+ERROR ReferenceError: localStorage is not defined
+    at _AuthService.logout [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:59:9[90m)[39m
+    at _AppComponent.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/app.component.ts:61:24[90m)[39m
+    at Generator.throw (<anonymous>)
+    at rejected [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:32:29[90m)[39m
+    at _ZoneDelegate.invoke [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:369:28[90m)[39m
+    at Object.onInvoke [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-EOKWXOL2.js:6801:25[90m)[39m
+    at _ZoneDelegate.invoke [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:368:34[90m)[39m
+    at _ZoneImpl.run [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:111:43[90m)[39m
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:1221:40[90m)[39m
+    at _ZoneDelegate.invokeTask [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:402:33[90m)[39m
+Lỗi xác thực token: ReferenceError: localStorage is not defined
+    at _AuthService.getToken [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:24:9[90m)[39m
+    at _AuthService.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:28:28[90m)[39m
+    at Generator.next (<anonymous>)
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:38:61[90m)[39m
+    at ZoneAwarePromise [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:1385:25[90m)[39m
+    at Module.__async [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:22:10[90m)[39m
+    at _AuthService.checkAuth [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:27:20[90m)[39m
+    at _AppComponent.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/app.component.ts:55:54[90m)[39m
+    at Generator.next (<anonymous>)
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:38:61[90m)[39m
+ERROR ReferenceError: localStorage is not defined
+    at _AuthService.logout [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:59:9[90m)[39m
+    at _AppComponent.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/app.component.ts:61:24[90m)[39m
+    at Generator.throw (<anonymous>)
+    at rejected [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:32:29[90m)[39m
+    at _ZoneDelegate.invoke [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:369:28[90m)[39m
+    at Object.onInvoke [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-EOKWXOL2.js:6801:25[90m)[39m
+    at _ZoneDelegate.invoke [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:368:34[90m)[39m
+    at _ZoneImpl.run [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:111:43[90m)[39m
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:1221:40[90m)[39m
+    at _ZoneDelegate.invokeTask [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:402:33[90m)[39m
+Lỗi xác thực token: ReferenceError: localStorage is not defined
+    at _AuthService.getToken [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:24:9[90m)[39m
+    at _AuthService.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:28:28[90m)[39m
+    at Generator.next (<anonymous>)
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:38:61[90m)[39m
+    at ZoneAwarePromise [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:1385:25[90m)[39m
+    at Module.__async [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:22:10[90m)[39m
+    at _AuthService.checkAuth [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:27:20[90m)[39m
+    at _AppComponent.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/app.component.ts:55:54[90m)[39m
+    at Generator.next (<anonymous>)
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:38:61[90m)[39m
+ERROR ReferenceError: localStorage is not defined
+    at _AuthService.logout [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:59:9[90m)[39m
+    at _AppComponent.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/app.component.ts:61:24[90m)[39m
+    at Generator.throw (<anonymous>)
+    at rejected [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:32:29[90m)[39m
+    at _ZoneDelegate.invoke [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:369:28[90m)[39m
+    at Object.onInvoke [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-EOKWXOL2.js:6801:25[90m)[39m
+    at _ZoneDelegate.invoke [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:368:34[90m)[39m
+    at _ZoneImpl.run [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:111:43[90m)[39m
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:1221:40[90m)[39m
+    at _ZoneDelegate.invokeTask [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:402:33[90m)[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠦[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠧[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠇[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠏[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [1.348 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/auth/role-check.guard.ts:2:9:[39m[22m
+[1m[33m[37m      2 │ import { [32mOauth2Service[37m } from './oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:9:[39m[22m
+[1m[33m[37m      5 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:9:[39m[22m
+[1m[33m[37m      4 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/role-check.guard.ts:7:30:[39m[22m
+[1m[31m[37m      7 │ import { Oauth2Service } from [32m'./oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS18046: 'oauth2Service' is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/role-check.guard.ts:21:19:[39m[22m
+[1m[31m[37m      21 │       filter(() => [32moauth2Service[37m.connectedUserQuery?.isPending() =...[39m[22m
+[1m[31m         ╵                    [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS18046: 'oauth2Service' is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/role-check.guard.ts:22:16:[39m[22m
+[1m[31m[37m      22 │       map(() => [32moauth2Service[37m.connectedUserQuery?.data()),[39m[22m
+[1m[31m         ╵                 [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS18046: 'oauth2Service' is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/role-check.guard.ts:27:10:[39m[22m
+[1m[31m[37m      27 │           [32moauth2Service[37m.hasAnyAuthorities(data!, authorities)[39m[22m
+[1m[31m         ╵           [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m[39m[22m[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:27:23:[39m[22m
+[1m[31m[37m      27 │   connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:4:[39m[22m
+[1m[31m[37m      43 │     [32mthis.oauth2Service[37m.logout();[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:49:49:[39m[22m
+[1m[31m[37m      49 │ ...nectedUserQuery?.data()?.email !== [32mthis.oauth2Service[37m.notConnected[39m[22m
+[1m[31m         ╵                                       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:30:[39m[22m
+[1m[31m[37m      4 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERR[39m[22m[1m[31mOR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:64:33:[39m[22m
+[1m[31m[37m      64 │ ... const connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:6:[39m[22m
+[1m[31m[37m      129 │       [32mthis.oauth2Service[37m.login();[39m[22m
+[1m[31m          ╵       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.236 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:9:[39m[22m
+[1m[33m[37m      5 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:9:[39m[22m
+[1m[33m[37m      4 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'hasAnyAuthorities' does not exist on type 'AuthService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/role-check.guard.ts:29:26:[39m[22m
+[1m[31m[37m      29 │               authService.[32mhasAnyAuthorities[37m(user, authorities)[39m[22m
+[1m[31m         ╵                           [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:27:23:[39m[22m
+[1m[31m[37m      27 │   connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:4:[39m[22m
+[1m[31m[39m[22m[1m[31m[37m      43 │     [32mthis.oauth2Service[37m.logout();[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:49:49:[39m[22m
+[1m[31m[37m      49 │ ...nectedUserQuery?.data()?.email !== [32mthis.oauth2Service[37m.notConnected[39m[22m
+[1m[31m         ╵                                       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:30:[39m[22m
+[1m[31m[37m      4 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:64:33:[39m[22m
+[1m[31m[37m      64 │ ... const connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:6:[39m[22m
+[1m[31m[37m      129 │       [32mthis.oauth2Service[37m.login();[39m[22m
+[1m[31m          ╵       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.425 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:9:[39m[22m
+[1m[33m[37m      5 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:9:[39m[22m
+[1m[33m[37m      4 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2355: A function whose declared type is neither 'undefined', 'void', nor 'any' must return a value.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:80:79:[39m[22m
+[1m[31m[37m      80 │ ...ies(user: ConnectedUser, roles: Array<string> | string): [32mboolean[37m {[39m[22m
+[1m[31m         ╵                                                             [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1109: Expression expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:81:35:[39m[22m
+[1m[31m[37m      81 │         if (!Array.isArray(roles)) [32m}[37m}[39m[22m
+[1m[31m         ╵                                    [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar[39m[22m[1m[31m.component.ts:27:23:[39m[22m
+[1m[31m[37m      27 │   connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:4:[39m[22m
+[1m[31m[37m      43 │     [32mthis.oauth2Service[37m.logout();[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:49:49:[39m[22m
+[1m[31m[37m      49 │ ...nectedUserQuery?.data()?.email !== [32mthis.oauth2Service[37m.notConnected[39m[22m
+[1m[31m         ╵                                       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:30:[39m[22m
+[1m[31m[37m      4 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:64:33:[39m[22m
+[1m[31m[37m      64 │ ... const connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:6:[39m[22m
+[1m[31m[37m      129 │       [32mthis.oauth2Service[37m.login();[39m[22m
+[1m[31m          ╵       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.317 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:9:[39m[22m
+[1m[33m[37m      5 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:9:[39m[22m
+[1m[33m[37m      4 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2355: A function whose declared type is neither 'undefined', 'void', nor 'any' must return a value.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:81:12:[39m[22m
+[1m[31m[37m      81 │             [32mboolean[37m {tedUser, roles: Array<string> | string): bool...[39m[22m
+[1m[31m         ╵             [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'tedUser'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:81:21:[39m[22m
+[1m[31m[37m      81 │             boolean {[32mtedUser[37m, roles: Array<string> | string): bool...[39m[22m
+[1m[31m         ╵                      [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2695: Left side of comma operator is unused and has no side effects.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:81:21:[39m[22m
+[1m[31m[37m      81 │             boolean {[32mtedUser[37m, roles: Array<string> | string): bool...[39m[22m
+[1m[31m         ╵                      [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ';' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:81:35:[39m[22m
+[1m[31m[37m      81 │ ...        boolean {tedUser, roles[32m:[37m Array<string> | string): boole...[39m[22m
+[1m[31m         ╵                                   [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number', 'bigint' or an enum type.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:81:37:[39m[22m
+[1m[31m[37m      81 │ ...       boolean {tedUser, roles: [32mArray<string>[37m | string): boolean {[39m[22m
+[1m[31m         ╵                                    [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2693: 'string' only refers to a type, but is being used as a val[39m[22m[1m[31mue here.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:81:53:[39m[22m
+[1m[31m[37m      81 │ ...       boolean {tedUser, roles: Array<string> | [32mstring[37m): boolean {[39m[22m
+[1m[31m         ╵                                                    [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ';' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:81:59:[39m[22m
+[1m[31m[37m      81 │ ...       boolean {tedUser, roles: Array<string> | string[32m)[37m: boolean {[39m[22m
+[1m[31m         ╵                                                          [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1128: Declaration or statement expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:81:60:[39m[22m
+[1m[31m[37m      81 │ ...       boolean {tedUser, roles: Array<string> | string)[32m:[37m boolean {[39m[22m
+[1m[31m         ╵                                                           [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1434: Unexpected keyword or identifier.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:81:62:[39m[22m
+[1m[31m[37m      81 │ ...       boolean {tedUser, roles: Array<string> | string): [32mboolean[37m {[39m[22m
+[1m[31m         ╵                                                             [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2693: 'boolean' only refers to a type, but is being used as a value here.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:81:62:[39m[22m
+[1m[31m[37m      81 │ ...       boolean {tedUser, roles: Array<string> | string): [32mboolean[37m {[39m[22m
+[1m[31m         ╵                                                             [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: '}' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.[39m[22m[1m[31mservice.ts:82:40:[39m[22m
+[1m[31m[37m      82 │             if (!Array.isArray(roles)) {[32m[37m[39m[22m
+[1m[31m         ╵                                         [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  The parser expected to find a '}' to match the '{' token here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:82:39:[39m[22m
+[1m[31m[37m      82 │             if (!Array.isArray(roles)) [32m{[37m[39m[22m
+[1m[31m         ╵                                        [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:27:23:[39m[22m
+[1m[31m[37m      27 │   connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar[39m[22m[1m[31m/navbar.component.ts:43:4:[39m[22m
+[1m[31m[37m      43 │     [32mthis.oauth2Service[37m.logout();[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:49:49:[39m[22m
+[1m[31m[37m      49 │ ...nectedUserQuery?.data()?.email !== [32mthis.oauth2Service[37m.notConnected[39m[22m
+[1m[31m         ╵                                       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:30:[39m[22m
+[1m[31m[37m      4 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:64:33:[39m[22m
+[1m[31m[37m      64 │ ... const connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:6:[39m[22m
+[1m[31m[37m      129 │       [32mthis.oauth2Service[37m.login();[39m[22m
+[1m[31m          ╵       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.202 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:9:[39m[22m
+[1m[33m[37m      5 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:9:[39m[22m
+[1m[33m[37m      4 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2355: A function whose declared type is neither 'undefined', 'void', nor 'any' must return a value.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:80:81:[39m[22m
+[1m[31m[37m      80 │ ...ies(user: ConnectedUser, roles: Array<string> | string): [32mboolean[37m {[39m[22m
+[1m[31m         ╵                                                             [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: '}' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:82:32:[39m[22m
+[1m[31m[37m      82 │                 roles = [roles];[32m[37m[39m[22m
+[1m[31m         ╵                                 [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  The parser expected to find a '}' to match the '{' token here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:81:41:[39m[22m
+[1m[31m[37m      81 │               if (!Array.isArray(roles)) [32m{[37m[39m[22m
+[1m[31m         ╵                                          [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m       [39m[22m[1m[31m ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:27:23:[39m[22m
+[1m[31m[37m      27 │   connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:4:[39m[22m
+[1m[31m[37m      43 │     [32mthis.oauth2Service[37m.logout();[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:49:49:[39m[22m
+[1m[31m[37m      49 │ ...nectedUserQuery?.data()?.email !== [32mthis.oauth2Service[37m.notConnected[39m[22m
+[1m[31m         ╵                                       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:30:[39m[22m
+[1m[31m[37m      4 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:64:33:[39m[22m
+[1m[31m[37m      64 │ ... const connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[p[39m[22m[1m[31mlugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:6:[39m[22m
+[1m[31m[37m      129 │       [32mthis.oauth2Service[37m.login();[39m[22m
+[1m[31m          ╵       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.317 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mUnexpected ";"[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:80:54:[39m[22m
+[1m[31m[37m      80 │         return user.roles ? user.roles.some((role)) : [32m;[37m[39m[22m
+[1m[31m         ╵                                                       [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2552: Cannot find name 'role'. Did you mean 'roles'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:83:49:[39m[22m
+[1m[31m[37m      83 │ ...return user.roles?user.roles.some(([32mrole[37m)) =>roles.includes(role));[39m[22m
+[1m[31m         ╵                                       [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  'roles' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:80:49:[39m[22m
+[1m[31m[37m      80 │ ...ies(user: ConnectedUser, [32mroles: Array<string> | string[37m): boolean {[39m[22m
+[1m[31m         ╵                             [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ':' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:83:56:[39m[22m
+[1m[31m[37m      83 │ ...return user.roles?user.roles.some((role)) [32m=>[37mroles.includes(role));[39m[22m
+[1m[31m         ╵                                              [32m~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2552: Cannot find name 'role'. Did you mean 'roles'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:83:73:[39m[22m
+[1m[31m[37m      83 │ ...return user.roles?user.roles.some((role)) =>roles.includes([32mrole[37m));[39m[22m
+[1m[31m         ╵                                                               [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  'roles' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:80:49:[39m[22m
+[1m[31m[37m      80 │ ...ies(user: ConnectedUser, [32mroles: Array<string> | string[37m): boolean {[39m[22m
+[1m[31m         ╵                             [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1[39m[22m[1m[31mmTS1005: ';' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:83:78:[39m[22m
+[1m[31m[37m      83 │ ...return user.roles?user.roles.some((role)) =>roles.includes(role)[32m)[37m;[39m[22m
+[1m[31m         ╵                                                                    [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:27:23:[39m[22m
+[1m[31m[37m      27 │   connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:4:[39m[22m
+[1m[31m[37m      43 │     [32mthis.oauth2Service[37m.logout();[39m[22m
+[1m[31m    [39m[22m[1m[31m     ╵     [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:49:49:[39m[22m
+[1m[31m[37m      49 │ ...nectedUserQuery?.data()?.email !== [32mthis.oauth2Service[37m.notConnected[39m[22m
+[1m[31m         ╵                                       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:30:[39m[22m
+[1m[31m[37m      4 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:64:33:[39m[22m
+[1m[31m[37m      64 │ ... const connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:6:[39m[22m
+[1m[31m[37m      129 │       [32mthis.oauth2Service[37m.login();[39m[22m
+[1m[31m          ╵       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mUnexpected ";"[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:80:54:[39m[22m
+[1m[31m[37m      80 │         return user.roles ? user.roles.some((role)) : [32m;[37m[39m[22m
+[1m[31m         ╵                                                       [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.246 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mUnexpected ";"[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:80:54:[39m[22m
+[1m[31m[37m      80 │         return user.roles ? user.roles.some((role)) : [32m;[37m[39m[22m
+[1m[31m         ╵                                                       [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2552: Cannot find name 'role'. Did you mean 'roles'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:83:49:[39m[22m
+[1m[31m[37m      83 │ ...n user.roles?user.roles.some(([32mrole[37m)) =>roles.includes(role)):fa...[39m[22m
+[1m[31m         ╵                                  [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  'roles' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:80:49:[39m[22m
+[1m[31m[37m      80 │ ...ies(user: ConnectedUser, [32mroles: Array<string> | string[37m): boolean {[39m[22m
+[1m[31m         ╵                             [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ':' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:83:56:[39m[22m
+[1m[31m[37m      83 │ ... user.roles?user.roles.some((role)) [32m=>[37mroles.includes(role)):false;[39m[22m
+[1m[31m         ╵                                        [32m~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2552: Cannot find name 'role'. Did you mean 'roles'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:83:73:[39m[22m
+[1m[31m[37m      83 │ ... user.roles?user.roles.some((role)) =>roles.includes([32mrole[37m)):false;[39m[22m
+[1m[31m         ╵                                                         [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  'roles' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:80:49:[39m[22m
+[1m[31m[37m      80 │ ...ies(user: ConnectedUser, [32mroles: Array<string> | string[37m): boolean {[39m[22m
+[1m[31m         ╵                             [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ';' expe[39m[22m[1m[31mcted.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:83:78:[39m[22m
+[1m[31m[37m      83 │ ... user.roles?user.roles.some((role)) =>roles.includes(role)[32m)[37m:false;[39m[22m
+[1m[31m         ╵                                                              [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1128: Declaration or statement expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.service.ts:83:79:[39m[22m
+[1m[31m[37m      83 │ ... user.roles?user.roles.some((role)) =>roles.includes(role))[32m:[37mfalse;[39m[22m
+[1m[31m         ╵                                                               [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:27:23:[39m[22m
+[1m[31m[37m      27 │   connectedUserQuery = [32mthis.oauth[39m[22m[1m[31m2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:4:[39m[22m
+[1m[31m[37m      43 │     [32mthis.oauth2Service[37m.logout();[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:49:49:[39m[22m
+[1m[31m[37m      49 │ ...nectedUserQuery?.data()?.email !== [32mthis.oauth2Service[37m.notConnected[39m[22m
+[1m[31m         ╵                                       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:30:[39m[22m
+[1m[31m[37m      4 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:64:33:[39m[22m
+[1m[31m[37m      64 │ ... const connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:6:[39m[22m
+[1m[31m[37m      129 │       [32mthis.oauth2Service[37m.login();[39m[22m
+[1m[31m          ╵       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mUnexpected ";"[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/auth/service/auth.servic[39m[22m[1m[31me.ts:80:54:[39m[22m
+[1m[31m[37m      80 │         return user.roles ? user.roles.some((role)) : [32m;[37m[39m[22m
+[1m[31m         ╵                                                       [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.172 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:9:[39m[22m
+[1m[33m[37m      5 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:9:[39m[22m
+[1m[33m[37m      4 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:27:23:[39m[22m
+[1m[31m[37m      27 │   connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:4:[39m[22m
+[1m[31m[37m      43 │     [32mthis.oauth2Service[37m.logout();[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:49:49:[39m[22m
+[1m[31m[37m      49 │ ...nectedUserQuery?.data()?.email !== [32mthis.oauth2Service[3[39m[22m[1m[31m7m.notConnected[39m[22m
+[1m[31m         ╵                                       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:30:[39m[22m
+[1m[31m[37m      4 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:64:33:[39m[22m
+[1m[31m[37m      64 │ ... const connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:6:[39m[22m
+[1m[31m[37m      129 │       [32mthis.oauth2Service[37m.login();[39m[22m
+[1m[31m          ╵       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.265 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:9:[39m[22m
+[1m[33m[37m      5 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:9:[39m[22m
+[1m[33m[37m      4 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:27:23:[39m[22m
+[1m[31m[37m      27 │   connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:4:[39m[22m
+[1m[31m[37m      43 │     [32mthis.oauth2Service[37m.logout();[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:49:49:[39m[22m
+[1m[31m[37m      49 │ ...nectedUserQuery?.data()?.email !== [32mthis.oauth2Service[3[39m[22m[1m[31m7m.notConnected[39m[22m
+[1m[31m         ╵                                       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:30:[39m[22m
+[1m[31m[37m      4 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'Service' does not exist on type 'CartComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:64:38:[39m[22m
+[1m[31m[37m      64 │       const connectedUserQuery = this.[32mService[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                                       [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:6:[39m[22m
+[1m[31m[37m      129 │       [32mthis.oauth2Service[37m.login();[39m[22m
+[1m[31m          ╵       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.269 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:9:[39m[22m
+[1m[33m[37m      5 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:9:[39m[22m
+[1m[33m[37m      4 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:27:23:[39m[22m
+[1m[31m[37m      27 │   connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:4:[39m[22m
+[1m[31m[37m      43 │     [32mthis.oauth2Service[37m.logout();[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:49:49:[39m[22m
+[1m[31m[37m      49 │ ...nectedUserQuery?.data()?.email !== [32mthis.oauth2Service[3[39m[22m[1m[31m7m.notConnected[39m[22m
+[1m[31m         ╵                                       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:4:30:[39m[22m
+[1m[31m[37m      4 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:64:33:[39m[22m
+[1m[31m[37m      64 │ ... const connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/shop/cart/cart.component.ts:129:6:[39m[22m
+[1m[31m[37m      129 │       [32mthis.oauth2Service[37m.login();[39m[22m
+[1m[31m          ╵       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.496 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:9:[39m[22m
+[1m[33m[37m      5 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:27:23:[39m[22m
+[1m[31m[37m      27 │   connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:4:[39m[22m
+[1m[31m[37m      43 │     [32mthis.oauth2Service[37m.logout();[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:49:49:[39m[22m
+[1m[31m[37m      49 │ ...nectedUserQuery?.data()?.email !== [32mthis.oauth2Service[3[39m[22m[1m[31m7m.notConnected[39m[22m
+[1m[31m         ╵                                       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.377 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mImport "Oauth2Service" will always be undefined because the file "apps/ecom-frontend/src/app/auth/oauth2.service.ts" has no exports[0m [import-is-undefined][39m[22m
+[1m[33m[39m[22m
+[1m[33m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:9:[39m[22m
+[1m[33m[37m      5 │ import { [32mOauth2Service[37m } from '../../auth/oauth2.service';[39m[22m
+[1m[33m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:23:[39m[22m
+[1m[31m[37m      28 │       && oauth2Service.[32mhasAnyAuthorities[37m(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:27:23:[39m[22m
+[1m[31m[37m      27 │   connectedUserQuery = [32mthis.oauth2Service[37m.connectedUserQuery;[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2571: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:43:4:[39m[22m
+[1m[31m[37m      43 │     [32mthis.oauth2Service[37m.logout();[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'Service' does not exist on type 'NavbarComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:49:54:[39m[22m
+[1m[31m[37m      49 │ ...is.connectedUserQuery?.data()[39m[22m[1m[31m?.email !== this.[32mService[37m.notConnected[39m[22m
+[1m[31m         ╵                                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.544 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'oauth2Service' does not exist on type 'NavbarComponent'. Did you mean 'authService'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:9:[39m[22m
+[1m[31m[37m      28 │       && [32moauth2Service[37m.hasAnyAuthorities(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:17:15:[39m[22m
+[1m[31m[37m      17 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2306: File '/home/ivo/dev/project/web/ecommerce/apps/ecom-frontend/src/app/auth/oauth2.service.ts' is not a module.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:5:30:[39m[22m
+[1m[31m[37m      5 │ import { Oauth2Service } from [32m'../../auth/oauth2.service'[37m;[39m[22m
+[1m[31m        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'connectedUserQuery' does not exist on type 'AuthService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:28:40:[39m[22m
+[1m[31m[37m      28 │   connectedUserQuery = this.authService.[32mconnectedUserQuery[37m;[39m[22m
+[1m[31m         ╵                                         [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.555 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'oauth2Service' does not exist on type 'NavbarComponent'. Did you mean 'authService'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.html:28:9:[39m[22m
+[1m[31m[37m      28 │       && [32moauth2Service[37m.hasAnyAuthorities(connectedUserQuery?.data(...[39m[22m
+[1m[31m         ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component NavbarComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:16:15:[39m[22m
+[1m[31m[37m      16 │   templateUrl: [32m'./navbar.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m76.88 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m [36m35.63 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m202.73 kB[22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m157.78 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-XZA7NPC7.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-4LWRAYML.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m1.35 kB[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-WM6LU4CN.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.325 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[2m11:36:22 AM[22m [36m[1m[vite][22m[39m server restarted.
+Re-optimizing dependencies because vite config has changed
+Lỗi xác thực token: ReferenceError: localStorage is not defined
+    at _AuthService.getToken [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:27:9[90m)[39m
+    at _AuthService.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:31:28[90m)[39m
+    at Generator.next (<anonymous>)
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:38:61[90m)[39m
+    at ZoneAwarePromise [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:1385:25[90m)[39m
+    at Module.__async [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:22:10[90m)[39m
+    at _AuthService.checkAuth [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:30:20[90m)[39m
+    at _AppComponent.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/app.component.ts:55:54[90m)[39m
+    at Generator.next (<anonymous>)
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:38:61[90m)[39m
+Lỗi xác thực token: ReferenceError: localStorage is not defined
+    at _AuthService.getToken [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:27:9[90m)[39m
+    at _AuthService.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:31:28[90m)[39m
+    at Generator.next (<anonymous>)
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:38:61[90m)[39m
+    at ZoneAwarePromise [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:1385:25[90m)[39m
+    at Module.__async [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:22:10[90m)[39m
+    at _AuthService.checkAuth [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:30:20[90m)[39m
+    at _AppComponent.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/app.component.ts:55:54[90m)[39m
+    at Generator.next (<anonymous>)
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:38:61[90m)[39m
+ERROR ReferenceError: localStorage is not defined
+    at _AuthService.logout [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:62:9[90m)[39m
+    at _AppComponent.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/app.component.ts:61:24[90m)[39m
+    at Generator.throw (<anonymous>)
+    at rejected [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:32:29[90m)[39m
+    at _ZoneDelegate.invoke [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:369:28[90m)[39m
+    at Object.onInvoke [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:5823:25[90m)[39m
+    at _ZoneDelegate.invoke [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:368:34[90m)[39m
+    at _ZoneImpl.run [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:111:43[90m)[39m
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:1221:40[90m)[39m
+    at _ZoneDelegate.invokeTask [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:402:33[90m)[39m
+ERROR ReferenceError: localStorage is not defined
+    at _AuthService.logout [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:62:9[90m)[39m
+    at _AppComponent.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/app.component.ts:61:24[90m)[39m
+    at Generator.throw (<anonymous>)
+    at rejected [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:32:29[90m)[39m
+    at _ZoneDelegate.invoke [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:369:28[90m)[39m
+    at Object.onInvoke [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:5823:25[90m)[39m
+    at _ZoneDelegate.invoke [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:368:34[90m)[39m
+    at _ZoneImpl.run [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:111:43[90m)[39m
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:1221:40[90m)[39m
+    at _ZoneDelegate.invokeTask [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:402:33[90m)[39m
+Lỗi xác thực token: ReferenceError: localStorage is not defined
+    at _AuthService.getToken [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:27:9[90m)[39m
+    at _AuthService.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:31:28[90m)[39m
+    at Generator.next (<anonymous>)
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:38:61[90m)[39m
+    at ZoneAwarePromise [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:1385:25[90m)[39m
+    at Module.__async [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:22:10[90m)[39m
+    at _AuthService.checkAuth [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:30:20[90m)[39m
+    at _AppComponent.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/app.component.ts:55:54[90m)[39m
+    at Generator.next (<anonymous>)
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:38:61[90m)[39m
+ERROR ReferenceError: localStorage is not defined
+    at _AuthService.logout [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/auth/service/auth.service.ts:62:9[90m)[39m
+    at _AppComponent.eval [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/app.component.ts:61:24[90m)[39m
+    at Generator.throw (<anonymous>)
+    at rejected [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/vite-root/ecom-frontend/chunk-4LWRAYML.mjs:32:29[90m)[39m
+    at _ZoneDelegate.invoke [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:369:28[90m)[39m
+    at Object.onInvoke [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:5823:25[90m)[39m
+    at _ZoneDelegate.invoke [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:368:34[90m)[39m
+    at _ZoneImpl.run [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:111:43[90m)[39m
+    at eval [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:1221:40[90m)[39m
+    at _ZoneDelegate.invokeTask [90m(/home/ivo/dev/project/web/ecommerce/[39mnode_modules/[4mzone.js[24m/fesm2015/zone-node.js:402:33[90m)[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m [36m36.02 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m158.17 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.589 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m [36m36.06 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m158.22 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.422 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.540 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'navigate' does not exist on type 'ActivatedRoute'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:35:16:[39m[22m
+[1m[31m[37m      35 │     this.router.[32mnavigate[37m(['/signin']);[39m[22m
+[1m[31m         ╵                 [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'navigate' does not exist on type 'ActivatedRoute'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:38:16:[39m[22m
+[1m[31m[37m      38 │     this.router.[32mnavigate[37m(['/register']);[39m[22m
+[1m[31m         ╵                 [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m76.88 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m [36m35.89 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m203.00 kB[22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m158.04 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-XZA7NPC7.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-4LWRAYML.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m1.35 kB[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-WM6LU4CN.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.419 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+q
+[?25hfatal error: all goroutines are asleep - deadlock!
+
+goroutine 1 [chan receive]:
+github.com/evanw/esbuild/internal/helpers.(*ThreadSafeWaitGroup).Wait(...)
+	github.com/evanw/esbuild/internal/helpers/waitgroup.go:36
+main.runService.func2()
+	github.com/evanw/esbuild/cmd/esbuild/service.go:114 +0x51
+main.runService(0x1)
+	github.com/evanw/esbuild/cmd/esbuild/service.go:160 +0x517
+main.main()
+	github.com/evanw/esbuild/cmd/esbuild/main.go:241 +0x9d9
+
+goroutine 6 [chan receive]:
+main.runService.func1()
+	github.com/evanw/esbuild/cmd/esbuild/service.go:98 +0x45
+created by main.runService in goroutine 1
+	github.com/evanw/esbuild/cmd/esbuild/service.go:97 +0x1db
+
+goroutine 7 [chan receive]:
+main.(*serviceType).sendRequest(0xc000023f20, {0x954100, 0xc0029c0ae0})
+	github.com/evanw/esbuild/cmd/esbuild/service.go:192 +0x12b
+main.runService.func3()
+	github.com/evanw/esbuild/cmd/esbuild/service.go:125 +0x3e
+created by main.runService in goroutine 1
+	github.com/evanw/esbuild/cmd/esbuild/service.go:122 +0x31b

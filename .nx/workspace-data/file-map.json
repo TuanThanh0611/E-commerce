@@ -95,28 +95,24 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "package.json",
-        "hash": "11461971966548770189"
+        "file": "jest.config.ts",
+        "hash": "3494843969422251966"
       },
       {
         "file": ".npmrc",
         "hash": "4055606894390288348"
       },
       {
-        "file": "schema-ecommerce-app.png",
-        "hash": "147443307796125685"
+        "file": ".idea/misc.xml",
+        "hash": "17091216536004992711"
       },
       {
-        "file": ".idea/compiler.xml",
-        "hash": "16230574147077678749"
+        "file": ".idea/modules.xml",
+        "hash": "13312296053422334087"
       },
       {
-        "file": "jest.preset.js",
-        "hash": "9430166341120122740"
-      },
-      {
-        "file": ".angular/cache/18.2.2/vite/deps_temp_e1bfb162/package.json",
-        "hash": "8630294688235076505"
+        "file": ".gitignore",
+        "hash": "1790330030396540306"
       },
       {
         "file": "package-lock.json",
@@ -127,12 +123,28 @@
         "hash": "15005210031370498129"
       },
       {
-        "file": ".idea/misc.xml",
-        "hash": "17091216536004992711"
+        "file": "nx.json",
+        "hash": "4546449642935827340"
       },
       {
-        "file": ".gitignore",
-        "hash": "1790330030396540306"
+        "file": ".idea/.gitignore",
+        "hash": "10286036308014790964"
+      },
+      {
+        "file": ".angular/cache/18.2.2/ecom-frontend/.tsbuildinfo",
+        "hash": "7657443967608665146"
+      },
+      {
+        "file": "jest.preset.js",
+        "hash": "9430166341120122740"
+      },
+      {
+        "file": ".idea/compiler.xml",
+        "hash": "16230574147077678749"
+      },
+      {
+        "file": ".angular/cache/18.2.2/vite/deps_temp_e1bfb162/package.json",
+        "hash": "8630294688235076505"
       },
       {
         "file": ".angular/cache/18.2.2/vite/deps_ssr_temp_8339f86b/package.json",
@@ -143,36 +155,24 @@
         "hash": "17362667078814151884"
       },
       {
-        "file": "jest.config.ts",
-        "hash": "3494843969422251966"
-      },
-      {
-        "file": "nx.json",
-        "hash": "4546449642935827340"
-      },
-      {
-        "file": "tsconfig.base.json",
-        "hash": "16936441711144470533"
-      },
-      {
-        "file": ".idea/modules.xml",
-        "hash": "13312296053422334087"
-      },
-      {
-        "file": ".idea/vcs.xml",
-        "hash": "14600148892634157659"
-      },
-      {
-        "file": ".idea/ecommerce.iml",
-        "hash": "7210100432694438571"
+        "file": "schema-ecommerce-app.png",
+        "hash": "147443307796125685"
       },
       {
         "file": ".angular/cache/18.2.2/vite/deps_temp_1bd83220/package.json",
         "hash": "8630294688235076505"
       },
       {
-        "file": ".idea/.gitignore",
-        "hash": "10286036308014790964"
+        "file": "package.json",
+        "hash": "11461971966548770189"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "16936441711144470533"
+      },
+      {
+        "file": ".idea/vcs.xml",
+        "hash": "14600148892634157659"
       },
       {
         "file": "README.md",
@@ -183,8 +183,8 @@
         "hash": "1669276093529694887"
       },
       {
-        "file": ".angular/cache/18.2.2/ecom-frontend/.tsbuildinfo",
-        "hash": "7050486891075261280"
+        "file": ".idea/ecommerce.iml",
+        "hash": "7210100432694438571"
       }
     ],
     "projectFileMap": {

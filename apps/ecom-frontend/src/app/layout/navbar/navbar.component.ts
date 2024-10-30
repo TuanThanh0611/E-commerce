@@ -46,7 +46,7 @@ export class NavbarComponent implements OnInit {
 
   isConnected(): boolean {
     return (
-        this.authService.checkAuth()
+        this.authService.checkAuth()//bug nnang can fix
     );
   }
 

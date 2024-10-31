@@ -1,0 +1,435 @@
+[?25l[2m◼[22m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[32m✔[39m Building...
+[2K[1A[2K[G
+🌼   [35mdaisyUI[39m [2m4.12.10[22m
+├─ [32m✔︎[39m 1 theme added[2m		https://daisyui.com/docs/themes[22m
+╰─ [32m❤︎[39m [0mSupport daisyUI project:[0m	[2mhttps://opencollective.com/daisyui[22m
+[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m[36m158.15 kB[39m[37m[2m | [22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m76.88 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-GJI23OHK.js[39m[37m      [2m | [22m[2m-[22m                  [2m | [22m  [36m7.44 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m332.70 kB[22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-BJVJJWVX.js[39m[37m      [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.55 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m158.79 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-XZA7NPC7.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-4LWRAYML.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m1.35 kB[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-WM6LU4CN.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [4.078 seconds][39m
+[37m[39m
+[37mWatch mode enabled. Watching for file changes...[39m
+[37mNOTE: Raw file sizes do not reflect development server per-request transformations.[39m
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+ERROR ReferenceError: alert is not defined
+    at _NavbarComponent.isConnected [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:51:7[90m)[39m
+    at isPlatformBrowser [90m(/home/ivo/dev/project/web/ecommerce/[39mapps/ecom-frontend/src/app/layout/navbar/navbar.component.html:54:9[90m)[39m
+    at executeTemplate [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:8468:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9515:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+    at detectChangesInViewIfAttached [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9662:3[90m)[39m
+    at detectChangesInComponent [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9656:3[90m)[39m
+    at detectChangesInChildComponents [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9699:5[90m)[39m
+    at refreshView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9573:7[90m)[39m
+    at detectChangesInView [90m(/home/ivo/dev/project/web/ecommerce/[39m.angular/cache/18.2.2/vite/deps_ssr/chunk-FFXIWBV5.js:9679:5[90m)[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠦[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠧[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠇[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠏[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [1.495 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'string | undefined' is not assignable to type 'String'.[39m[22m
+[1m[31m  Type 'undefined' is not assignable to type 'String'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts:56:4:[39m[22m
+[1m[31m[37m      56 │     [32mreturn[37m this.connectedUserQuery?.status();[39m[22m
+[1m[31m         ╵     [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠦[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠧[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠇[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m[36m158.20 kB[39m[37m[2m | [22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m76.88 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-GJI23OHK.js[39m[37m      [2m | [22m[2m-[22m                  [2m | [22m  [36m7.44 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m332.75 kB[22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-BJVJJWVX.js[39m[37m      [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.55 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m158.84 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-XZA7NPC7.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-4LWRAYML.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m1.35 kB[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-WM6LU4CN.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.901 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+q
+[?25h

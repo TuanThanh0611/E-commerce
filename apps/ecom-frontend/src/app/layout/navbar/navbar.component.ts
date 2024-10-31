@@ -45,9 +45,12 @@ export class NavbarComponent implements OnInit {
   }
 
   isConnected(): boolean {
-    return (
-        this.authService.checkAuth()//bug nnang can fix
-    );
+    if (this.connectedUserQuery?.status() === 'success') {
+      return true;
+    } else {
+
+      return false;
+    }
   }
 
   closeDropDownMenu() {

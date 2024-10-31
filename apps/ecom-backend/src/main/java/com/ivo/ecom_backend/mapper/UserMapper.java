@@ -21,4 +21,6 @@ public  interface UserMapper {
     User registerRequestToUser(RegisterRequest request);
 //    UserResponse userToUserResponse(User user);
     UserDTO toUserDTO(User user);
+    User userResponseToUser(UserResponse user);
+    UserUpdateRequest toUserUpdateRequest(User user);
 }

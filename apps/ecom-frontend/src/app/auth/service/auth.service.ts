@@ -56,6 +56,25 @@ export class AuthService {
         // Trả về kết quả đã lưu trữ
         return isAuthenticated;
     }
+    checkLogin(): Promise<boolean> {
+        return new Promise((resolve) => {
+            const token = this.getToken();
+
+            // Gọi introspect API để xác thực token
+            this.introspect({ token }).subscribe(
+                (response) => {
+                    resolve(response?.result?.valid ?? false); // Trả về true hoặc false dựa trên kết quả
+                },
+                (error) => {
+                    console.error('Lỗi introspect:', error);
+                    resolve(false); // Trả về false nếu có lỗi
+                }
+            );
+        });
+    }
+    checkServ(): string {
+        return this.connectedUserQuery?.status() ?? "unknown";
+    }
 
     private isTokenValid(token: string): boolean {
         try {

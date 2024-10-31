@@ -1,6 +1,9 @@
 package com.ivo.ecom_backend.service;
 
+import com.ivo.ecom_backend.dto.request.UserUpdateRequest;
+import com.ivo.ecom_backend.dto.response.UserResponse;
 import com.ivo.ecom_backend.entity.User;
+import com.ivo.ecom_backend.mapper.UserMapper;
 import com.ivo.ecom_backend.repository.UserRepository;
 import com.nimbusds.jose.JOSEException;
 import com.nimbusds.jose.JWSObject;
@@ -19,6 +22,8 @@ public class UserSynchronizer {
 
     private final UserRepository userRepository;
     JwtUtils jwtUtils;
+    private UserService userService;
+    private UserMapper userMapper;
 
     private static final String UPDATE_AT_KEY = "last_modified";
 
@@ -41,16 +46,17 @@ public class UserSynchronizer {
 
             // Tạo đối tượng người dùng từ các "claims" và vai trò
             User user = User.fromTokenClaims(claims, rolesFromToken);
-            Optional<User> existingUser = userRepository.findUsersByEmail(user.getEmail());
+           User existingUser = userRepository.findUsersByEmail(user.getEmail()).get();
 
-            if (existingUser.isPresent()) {
+            if (existingUser!=null) {
                 if (claims.containsKey(UPDATE_AT_KEY)) {
-                    Instant lastModifiedDate = existingUser.get().getLastModifiedDate();
+                    Instant lastModifiedDate = existingUser.getLastModifiedDate();
                     Instant tokenModifiedDate = Instant.ofEpochSecond((Integer) claims.get(UPDATE_AT_KEY));
 
                     // Kiểm tra xem dữ liệu trong token có mới hơn hay không
                     if (tokenModifiedDate.isAfter(lastModifiedDate) || forceResync) {
-                        updateUser(user, existingUser.get());
+                        UserUpdateRequest userUpdateRequest =userMapper.toUserUpdateRequest(existingUser);
+                        updateUser(user.getId(), userUpdateRequest);
                     }
                 }
             } else {
@@ -60,9 +66,9 @@ public class UserSynchronizer {
             throw new RuntimeException("Lỗi khi phân tích token JWT", e);
         }
     }
-    private void updateUser(User user, User existingUser) {
-        existingUser.updateFromUser(user);
-        userRepository.save(existingUser);
+    private void updateUser(String id, UserUpdateRequest request) {
+       UserResponse userResponse= userService.updateUser(id,request);
+        userRepository.save(userMapper.userResponseToUser(userResponse));
     }
 
 }

@@ -43,6 +43,7 @@ export class AppComponent implements OnInit {
       this.authService.initAuthentication();
     }
     this.authService.connectedUserQuery = this.authService.fetch();
+
   }
 
   ngOnInit(): void {

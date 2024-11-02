@@ -11,8 +11,10 @@ import java.time.LocalDate;
 @AllArgsConstructor
 @FieldDefaults(level = AccessLevel.PRIVATE)
 public class UserUpdateRequest {
-    String password;
-    String firstName;
-    String lastName;
+    String firstname;
+    String lastname;
+    String email;
     LocalDate dob;
+    String phoneNumber;
+    String imageUrl;
 }

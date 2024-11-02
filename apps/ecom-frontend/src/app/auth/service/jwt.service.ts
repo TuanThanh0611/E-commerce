@@ -1,6 +1,7 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import {Observable, of,tap} from 'rxjs';
+import {ConnectedUser} from "../../shared/model/user.model";
 
 const BASE_URL = ["http://localhost:8080/"]
 
@@ -44,6 +45,9 @@ export class JwtService {
     }
     introspect(introspectRequest:any):Observable<any>{
         return this.http.post('http://localhost:8080/api/auth/token', introspectRequest)
+    }
+    updateUser(userUpdateRequest: any): Observable<any> {
+        return this.http.put('http://localhost:8080/api/auth/update', userUpdateRequest)
     }
 
     hello(): Observable<any> {

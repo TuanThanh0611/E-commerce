@@ -1,10 +1,10 @@
-import {Inject, inject, Injectable, PLATFORM_ID} from '@angular/core';
-import { HttpClient, HttpParams } from '@angular/common/http';
+import {Inject, inject, Injectable, OnInit, PLATFORM_ID} from '@angular/core';
+import {HttpClient, HttpHeaders, HttpParams} from '@angular/common/http';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
 import { firstValueFrom, Observable, of } from 'rxjs';
 import { environment } from '../../../environments/environment';
-import { ConnectedUser } from '../../shared/model/user.model';
+import {ConnectedUser, ShowUser} from '../../shared/model/user.model';
 import {CreateQueryResult, injectQuery} from "@tanstack/angular-query-experimental";
 import {isPlatformBrowser} from "@angular/common";
 
@@ -14,8 +14,13 @@ import {isPlatformBrowser} from "@angular/common";
 export class AuthService {
     private readonly tokenKey = 'authToken';
     introspectForm!: FormGroup;
+    private apiUrl = 'http://localhost:8080/api/auth';
     notConnected = 'NOT_CONNECTED';
     connectedUserQuery: CreateQueryResult<ConnectedUser> | undefined;
+
+
+
+
 
     constructor(private fb: FormBuilder, private router: Router,
                 private http: HttpClient,@Inject(PLATFORM_ID)private platformId:Object) {
@@ -32,6 +37,7 @@ export class AuthService {
         else
             return null;
     }
+
 
     checkAuth(): boolean {
         const token = this.getToken();
@@ -94,6 +100,8 @@ export class AuthService {
     logout(): void {
         if(isPlatformBrowser(this.platformId)){
         localStorage.removeItem(this.tokenKey);
+        this.connectedUserQuery=undefined;
+        alert("Logout success");
         this.router.navigate(['/']);
     }}
 
@@ -120,12 +128,26 @@ export class AuthService {
             queryFn: () => firstValueFrom(this.fetchUserHttp(false)),
         }));
     }
+    toQueryResult():CreateQueryResult<ConnectedUser>{
+        return injectQuery(()=>({
+            queryKey:['connected-userr'],
+            queryFn:()=>firstValueFrom(this.getAuthenticatedUser()),
+        }));
+    }
+getAuthenticatedUser(): Observable<ConnectedUser> {
+    const headers = new HttpHeaders({
+        'Authorization': `Bearer ${this.getToken()}` // Gửi token trong Authorization header
+    });
+    return this.http.get<ConnectedUser>(`${this.apiUrl}/getauthenticateduser`, { headers });
+}
 
     fetchUserHttp(forceResync: boolean): Observable<ConnectedUser> {
         const params = new HttpParams().set('forceResync', forceResync);
         return this.http.get<ConnectedUser>(
-            `http://localhost:8080/api/auth/authenticated`,
+            `http://localhost:8080/api/auth/getuthenticatedwithresync`,
             { params }
         );
     }
+
+
 }

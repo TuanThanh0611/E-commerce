@@ -27,8 +27,6 @@ public class UserDTO {
 
     String email;
 
-
-
     String imageUrl;
 
     Instant createdDate;

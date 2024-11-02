@@ -18,8 +18,8 @@ import java.util.Set;
 public class UserResponse {
     String id;
     String email;
-    String firstName;
-    String lastName;
+    String firstname;
+    String lastname;
     LocalDate dob;
     String phoneNumber;
     String imageUrl;

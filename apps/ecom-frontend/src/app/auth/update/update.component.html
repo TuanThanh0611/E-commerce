@@ -1,0 +1,108 @@
+<div class="container d-flex justify-content-between">
+    <!-- Form cập nhật thông tin người dùng -->
+    <div class="form-container">
+        <h2>Update Information</h2>
+        <form [formGroup]="updateForm" (ngSubmit)="submitForm()">
+            <div class="form-group">
+                <label for="firstName">First Name</label>
+                <input
+                        type="text"
+                        id="firstName"
+                        formControlName="firstName"
+                        placeholder="Enter first name"
+                />
+            </div>
+
+            <div class="form-group">
+                <label for="lastName">Last Name</label>
+                <input
+                        type="text"
+                        id="lastName"
+                        formControlName="lastName"
+                        placeholder="Enter last name"
+                />
+            </div>
+
+            <div class="form-group">
+                <label for="dob">Date of Birth</label>
+                <input type="date" id="dob" formControlName="dob" />
+            </div>
+
+            <div class="form-group">
+                <label for="phoneNumber">Phone Number</label>
+                <input
+                        type="tel"
+                        id="phoneNumber"
+                        formControlName="phoneNumber"
+                        placeholder="Enter phone number"
+                />
+            </div>
+
+            <div class="form-group">
+                <label for="imageUrl">Image URL</label>
+                <input
+                        type="text"
+                        id="imageUrl"
+                        formControlName="imageUrl"
+                        placeholder="Enter image URL"
+                />
+            </div>
+
+            <button type="submit" class="btn btn-primary" [disabled]="updateForm.invalid">Update</button>
+            <div class="text-center mt-3">
+                <button type="button" class="btn btn-link" (click)="goToChangePassword()">Change Password</button>
+            </div>
+        </form>
+    </div>
+
+    <!-- Bảng thông tin người dùng -->
+    <div class="info-container">
+        <h3>User Information</h3>
+        <table class="table table-bordered table-hover">
+            <tbody>
+            <tr>
+                <th scope="row">First Name</th>
+                <td>{{ userInfo?.firstName }}</td>
+            </tr>
+            <tr>
+                <th scope="row">Last Name</th>
+                <td>{{ userInfo?.lastName }}</td>
+            </tr>
+            <tr>
+                <th scope="row">Email</th>
+                <td>{{ userInfo?.email }}</td>
+            </tr>
+            <tr>
+                <th scope="row">Created Date</th>
+                <td>{{ userInfo?.createdDate | date: 'medium' }}</td>
+            </tr>
+            <tr>
+                <th scope="row">Roles</th>
+                <td>
+                        <span *ngFor="let role of userInfo?.roles; let isLast = last">
+                            {{ role }}<span *ngIf="!isLast">, </span>
+                        </span>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">Addresses</th>
+                <td>
+                    <div *ngFor="let address of userInfo?.userAddresses">
+                        <p>
+                            {{ address?.street }},
+                            {{ address?.city }},
+                            {{ address?.state }},
+                            {{ address?.zipCode }},
+                            {{ address?.country }}
+                        </p>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">Date of Birth</th>
+                <td>{{ userInfo?.dob | date: 'mediumDate' }}</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -27,7 +27,7 @@ import javax.crypto.spec.SecretKeySpec;
 public class SercurityConfig {
 
     private final String[] PUBLIC_ENDPOINTS = {"/users","/api/auth/signin",
-            "/auth/token", "/auth/introspect","/api/auth/regis","/api/auth/test","/api/auth/authenticated"
+            "/auth/token", "/auth/introspect","/api/auth/regis","/api/auth/test","/api/auth/getauthenticateduser"
     };
 
     private String signerKey="Hvj3OStJfA9Ze823YyodKyYSJ33T555IRYFs2yIOcPLiP10J8pMj1wfy8zi2ZWAw";
@@ -39,6 +39,8 @@ public class SercurityConfig {
                 .authorizeHttpRequests(request ->
                         request
                                 .requestMatchers(HttpMethod.POST, PUBLIC_ENDPOINTS).permitAll()
+                                .requestMatchers(HttpMethod.GET, PUBLIC_ENDPOINTS).permitAll()
+                                .requestMatchers(HttpMethod.POST, "/api/auth/update").authenticated()
                                 .anyRequest().authenticated()
                 )
                 .oauth2ResourceServer(oauth2 ->

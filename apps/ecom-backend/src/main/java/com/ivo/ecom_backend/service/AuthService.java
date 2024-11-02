@@ -1,9 +1,6 @@
 package com.ivo.ecom_backend.service;
 import com.ivo.ecom_backend.Enums.Role;
-import com.ivo.ecom_backend.dto.request.IntrospectRequest;
-import com.ivo.ecom_backend.dto.request.LoginRequest;
-import com.ivo.ecom_backend.dto.request.RegisterRequest;
-import com.ivo.ecom_backend.dto.request.UserCreateRequest;
+import com.ivo.ecom_backend.dto.request.*;
 import com.ivo.ecom_backend.dto.response.AuthenticationResponse;
 import com.ivo.ecom_backend.dto.response.IntrospectResponse;
 import com.ivo.ecom_backend.dto.response.UserResponse;
@@ -69,9 +66,25 @@ public class AuthService {
         roles.add(Role.USER.name());
 
         user.setRoles(roles);
+        user.setCreatedDate(Instant.now());
 
         return mapper.toUserResponse(userRepository.save(user));
     }
+
+    @Transactional
+    public UserResponse updateUser(UserUpdateRequest request) {
+        User user = userRepository.findUsersByEmail(request.getEmail())
+                .orElseThrow(() -> new AppException(ErrorCode.USER_NOT_EXISTED));
+        user.setFirstname(request.getFirstname());
+        user.setLastname(request.getLastname());
+        user.setDob(request.getDob());
+        user.setPhoneNumber(request.getPhoneNumber());
+        user.setImageUrl(request.getImageUrl());
+
+
+        return mapper.toUserResponse(userRepository.save(user));
+    }
+
     @Transactional
     public User getAuthenticatedUserWithSync(String jwtToken, boolean forceResync) {
         try {
@@ -84,6 +97,20 @@ public class AuthService {
             throw new RuntimeException("Lỗi khi lấy người dùng đã xác thực", e);
         }
     }
+
+    @Transactional
+    public User getAuthenticatedUser(String jwtToken) {
+        try {
+            return userRepository.findUsersByEmail(jwtUtils.extractEmailFromToken(jwtToken))
+                    .orElseThrow(() -> new RuntimeException("User not found"));
+        } catch (Exception e) {
+            e.printStackTrace(); // Ghi log chi tiết lỗi
+            throw new RuntimeException("Lỗi khi lấy người dùng đã xác thực", e);
+        }
+    }
+
+
+
 //
 //    public void syncWithIdp(Jwt jwtToken, boolean forceResync) {
 //        Map<String, Object> claims = jwtToken.getClaims();

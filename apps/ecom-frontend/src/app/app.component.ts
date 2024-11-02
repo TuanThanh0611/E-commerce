@@ -11,7 +11,9 @@ import { FooterComponent } from './layout/footer/footer.component';
 import { isPlatformBrowser, NgClass } from '@angular/common';
 import { ToastService } from './shared/toast/toast.service';
 import { FormsModule } from '@angular/forms';
-import { AuthService } from './auth/service/auth.service'; // Import AuthService
+import { AuthService } from './auth/service/auth.service';
+import {ConnectedUser} from "./shared/model/user.model";
+import {Observable} from "rxjs"; // Import AuthService
 
 @Component({
   standalone: true,
@@ -32,23 +34,31 @@ export class AppComponent implements OnInit {
   private faIconLibrary = inject(FaIconLibrary);
   private faConfig = inject(FaConfig);
 
+
   private authService = inject(AuthService); // Sử dụng AuthService mới
 
   toastService = inject(ToastService);
 
   platformId = inject(PLATFORM_ID);
 
+  // @ts-ignore
   constructor() {
     if (isPlatformBrowser(this.platformId)) {
       this.authService.initAuthentication();
     }
-    this.authService.connectedUserQuery = this.authService.fetch();
+    this.authService.connectedUserQuery = this.authService.toQueryResult();
+
+
+
 
   }
 
   ngOnInit(): void {
     this.initFontAwesome();
-    this.checkAuthentication(); // Kiểm tra xác thực khi khởi tạo component
+
+
+
+    // this.checkAuthentication(); // Kiểm tra xác thực khi khởi tạo component
   }
 
   private initFontAwesome() {
@@ -56,15 +66,15 @@ export class AppComponent implements OnInit {
     this.faIconLibrary.addIcons(...fontAwesomeIcons);
   }
 
-  private async checkAuthentication() {
-    try {
-      const isAuthenticated = await this.authService.checkAuth();
-      if (!isAuthenticated) {
-        this.authService.logout(); // Đăng xuất nếu xác thực không thành công
-      }
-    } catch (error) {
-      console.error('Lỗi xác thực token:', error);
-      this.authService.logout(); // Đăng xuất khi có lỗi
-    }
-  }
+  // private async checkAuthentication() {
+  //   try {
+  //     const isAuthenticated = await this.authService.checkAuth();
+  //     if (!isAuthenticated) {
+  //       this.authService.logout(); // Đăng xuất nếu xác thực không thành công
+  //     }
+  //   } catch (error) {
+  //     console.error('Lỗi xác thực token:', error);
+  //     this.authService.logout(); // Đăng xuất khi có lỗi
+  //   }
+  // }
 }

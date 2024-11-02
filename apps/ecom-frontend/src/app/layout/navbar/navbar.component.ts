@@ -33,15 +33,21 @@ export class NavbarComponent implements OnInit {
 
   signin(): void {
     this.router.navigate(['/signin']);
+
   }
 
   register(): void {
     this.router.navigate(['/register']);
   }
+  update():void{
+    this.router.navigate(['/update']);
+
+  }
 
   logout(): void {
     this.closeDropDownMenu();
     this.authService.logout();
+    window.location.reload();
   }
 
   isConnected(): boolean {

@@ -65,9 +65,13 @@
           <li>
             <button class="link" (click)="closeDropDownMenu()" routerLink="/users/orders">My Orders</button>
           </li>
+            <li>
+                <button class="link" (click)="update()">Info</button>
+            </li>
           <li>
             <button class="link" (click)="logout()">Logout</button>
           </li>
+
         </ul>
       } @else {
         <ul class="dropdown-content menu menu-lg bg-base-100 rounded-box z-10 w-52 p-2 shadow">

@@ -14,6 +14,8 @@ import { AdminOrdersComponent } from './admin/admin-orders/admin-orders.componen
 import { RegisterComponent } from './auth/register/register.component';
 import { SigninComponent } from './auth/signin/signin.component';
 import { AuthenticateComponent } from './auth/authenticate/authenticate.component';
+import {UpdateComponent} from "./auth/update/update.component";
+import {ChangePasswordComponent} from "./auth/change-password/change-password.component";
 export const appRoutes: Route[] = [
   {
     path: 'authenticate',
@@ -26,6 +28,14 @@ export const appRoutes: Route[] = [
   },{
     path: 'signin',
     component: SigninComponent
+  },
+  {
+    path: 'change-password',
+    component: ChangePasswordComponent
+  },
+  {
+    path: 'update',
+    component: UpdateComponent
   },
   
   {

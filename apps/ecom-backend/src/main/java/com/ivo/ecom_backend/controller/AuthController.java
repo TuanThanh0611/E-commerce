@@ -1,10 +1,7 @@
 package com.ivo.ecom_backend.controller;
 
 import com.ivo.ecom_backend.dto.UserDTO;
-import com.ivo.ecom_backend.dto.request.IntrospectRequest;
-import com.ivo.ecom_backend.dto.request.LoginRequest;
-import com.ivo.ecom_backend.dto.request.RegisterRequest;
-import com.ivo.ecom_backend.dto.request.UserCreateRequest;
+import com.ivo.ecom_backend.dto.request.*;
 import com.ivo.ecom_backend.dto.response.ApiResponse;
 import com.ivo.ecom_backend.dto.response.AuthenticationResponse;
 import com.ivo.ecom_backend.dto.response.IntrospectResponse;
@@ -39,6 +36,15 @@ public class AuthController {
         apiResponse.setResult(authService.registerUser(request));
         return ResponseEntity.ok(apiResponse);
     }
+
+
+    @PutMapping("/update")
+    @CrossOrigin(origins = "http://localhost:4200")
+    ResponseEntity<ApiResponse<UserResponse>> update(@RequestBody @Valid UserUpdateRequest request){
+        ApiResponse<UserResponse> apiResponse =new ApiResponse<>();
+        apiResponse.setResult(authService.updateUser(request));
+        return ResponseEntity.ok(apiResponse);
+    }
     @PostMapping("/signin")
     @CrossOrigin(origins = "http://localhost:4200")
     ResponseEntity<ApiResponse<AuthenticationResponse>> authenticate(@RequestBody LoginRequest request){
@@ -58,8 +64,8 @@ public class AuthController {
     }
 
 
-    @GetMapping("/authenticated")
-    public ResponseEntity<UserDTO> getAuthenticatedUser(@AuthenticationPrincipal Jwt jwtToken,
+    @GetMapping("/getuthenticatedwithresync")
+    public ResponseEntity<UserDTO> getAuthenticatedUserWithResync(@AuthenticationPrincipal Jwt jwtToken,
                                                         @RequestParam boolean forceResync) {
         try {
 
@@ -77,6 +83,33 @@ public class AuthController {
            UserDTO user = mapper.toUserDTO(authenticatedUser);// THIS IS ERROR, PLEASE HANDLE IT
                    user.setId(authenticatedUser.getId());
         return ResponseEntity.ok(user);
+        } catch (Exception e) {
+            e.printStackTrace(); // Ghi log chi tiết lỗi
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                    .body(null); // Trả về phản hồi mặc định
+        }
+    }
+
+
+
+    @GetMapping("/getauthenticateduser")
+    public ResponseEntity<UserDTO> getAuthenticatedUser(@AuthenticationPrincipal Jwt jwtToken) {
+        try {
+
+            if (jwtToken == null) {
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
+            }
+            String token = jwtToken.getTokenValue();
+            User authenticatedUser = authService.getAuthenticatedUser(token);
+            if (authenticatedUser == null) {
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
+            }
+
+
+
+            UserDTO user = mapper.toUserDTO(authenticatedUser);// THIS IS ERROR, PLEASE HANDLE IT
+            user.setId(authenticatedUser.getId());
+            return ResponseEntity.ok(user);
         } catch (Exception e) {
             e.printStackTrace(); // Ghi log chi tiết lỗi
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)

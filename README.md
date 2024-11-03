@@ -21,15 +21,7 @@ Monorepo of the Ecommerce platform app.
 - Docker ([Docker Desktop](https://docs.docker.com/engine/install/))
 
 ### Fetch dependencies
-``npm install``
-
-You will need to create an .env file at the root of the ecom-backend folder with the following values :
-
-````
-KINDE_CLIENT_ID=<client-id>
-KINDE_CLIENT_SECRET=<client-secret>
-STRIPE_API_KEY=<stripe-api-key>
-STRIPE_WEBHOOK_SECRET=<stripe-webhook-secret>
+``npm install`
 ````
 
 ## Manage the frontend

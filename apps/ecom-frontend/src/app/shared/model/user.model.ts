@@ -2,8 +2,8 @@
 export interface BaseUser {
   id: string; // Đặt id là bắt buộc nếu tất cả người dùng đều có id duy nhất
   email: string; // Đặt email là bắt buộc vì hầu hết người dùng đều yêu cầu email
-  firstName?: string;
-  lastName?: string;
+  firstname?: string;
+  lastname?: string;
   dob?: Date; // Chuyển thành kiểu Date để xử lý ngày tháng tốt hơn
   phoneNumber?: string;
   imageUrl?: string;
@@ -25,8 +25,8 @@ export interface UserAddress {
 }
 export interface ShowUser{
   email: string; // Đặt email là bắt buộc vì hầu hết người dùng đều yêu cầu email
-  firstName?: string;
-  lastName?: string;
+  firstname?: string;
+  lastname?: string;
   dob?: Date; // Chuyển thành kiểu Date để xử lý ngày tháng tốt hơn
   phoneNumber?: string;
   createdDate?: Date; // Chuyển thành kiểu Date để dễ dàng sử dụng và định dạng

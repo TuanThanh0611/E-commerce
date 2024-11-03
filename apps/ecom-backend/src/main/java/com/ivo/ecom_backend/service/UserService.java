@@ -22,6 +22,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Optional;
 
 @Service
 @RequiredArgsConstructor
@@ -52,7 +53,7 @@ public class  UserService {
     @Transactional
     @PreAuthorize("hasRole('ADMIN')")
     public List<UserResponse> getAllUsers(){
-        return mapper.toListUsers(userRepository.findAll());
+        return mapper.toListUser(userRepository.findAll());
     }
 
     public UserResponse updateUser(String userId, UserUpdateRequest request) {
@@ -63,6 +64,19 @@ public class  UserService {
 
         return mapper.toUserResponse(userRepository.save(user));
     }
+    public String test(String email) {
+        User user=userRepository.findUserByEmail(email);
+        if(user==null){
+            return "User not found";
+        }else{
+            if(user.getFirstname()==null){
+                return "Firstname not found";
+            }else{
+                return user.getFirstname();
+            }
+        }
+    }
+
 
     @Transactional
     public UserResponse getMyInfo(){

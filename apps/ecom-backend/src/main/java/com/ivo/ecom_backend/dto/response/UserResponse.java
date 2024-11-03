@@ -27,4 +27,5 @@ public class UserResponse {
     Long dbId;
     Set<UserAddress> userAddresses;
     Set<String> roles;
+    
 }

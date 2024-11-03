@@ -2,6 +2,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import {Observable, of,tap} from 'rxjs';
 import {ConnectedUser} from "../../shared/model/user.model";
+import {AuthService} from "./auth.service";
 
 const BASE_URL = ["http://localhost:8080/"]
 
@@ -12,7 +13,7 @@ export class JwtService {
     private readonly accessTokenKey = 'access_token';
     private readonly refreshTokenKey = 'refresh_token';
 
-    constructor(private http: HttpClient) { }
+    constructor(private http: HttpClient,private authService:AuthService) { }
 
 
     getAccessToken(): string | null {
@@ -47,7 +48,23 @@ export class JwtService {
         return this.http.post('http://localhost:8080/api/auth/token', introspectRequest)
     }
     updateUser(userUpdateRequest: any): Observable<any> {
-        return this.http.put('http://localhost:8080/api/auth/update', userUpdateRequest)
+        const headers=new HttpHeaders(
+            {
+                'Authorization': `Bearer ${this.authService.getToken()}`,
+                'Content-Type': 'application/json'
+            }
+        )
+        return this.http.put('http://localhost:8080/api/auth/update', userUpdateRequest,{headers});
+    }
+
+    updatePass(userUpdatePassRequest: any): Observable<any> {
+        const headers=new HttpHeaders(
+            {
+                'Authorization': `Bearer ${this.authService.getToken()}`,
+                'Content-Type': 'application/json'
+            }
+        )
+        return this.http.put('http://localhost:8080/api/auth/uppass', userUpdatePassRequest,{headers});
     }
 
     hello(): Observable<any> {

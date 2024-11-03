@@ -84,6 +84,12 @@ public class AuthService {
 
         return mapper.toUserResponse(userRepository.save(user));
     }
+    @Transactional
+    public UserResponse updatePassword(UpdatePasswordRequest request){
+        User user=userRepository.findUserByEmail(request.getEmail());
+        user.setPassword(passwordEncoder.encode(request.getPassword()));
+        return mapper.toUserResponse(userRepository.save(user));
+    }
 
     @Transactional
     public User getAuthenticatedUserWithSync(String jwtToken, boolean forceResync) {

@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import {FormBuilder, FormGroup, ReactiveFormsModule, Validators} from '@angular/forms';
+import {AuthService} from "../service/auth.service";
+import {JwtService} from "../service/jwt.service";
 
 @Component({
   selector: 'app-change-password',
@@ -13,11 +15,11 @@ import {FormBuilder, FormGroup, ReactiveFormsModule, Validators} from '@angular/
 export class ChangePasswordComponent implements OnInit {
   changePasswordForm!: FormGroup;
 
-  constructor(private fb: FormBuilder) {}
+  constructor(private fb: FormBuilder,private authService:AuthService,private jwtService:JwtService) {}
 
   ngOnInit(): void {
     this.changePasswordForm = this.fb.group({
-      currentPassword: ['', Validators.required],
+      email: ['', [Validators.required, Validators.email]],
       newPassword: ['', [Validators.required, Validators.minLength(6)]],
       confirmNewPassword: ['', Validators.required]
     }, { validator: this.passwordMatchValidator });
@@ -31,8 +33,23 @@ export class ChangePasswordComponent implements OnInit {
 
   submitForm(): void {
     if (this.changePasswordForm.valid) {
-      console.log(this.changePasswordForm.value);
-      // Gửi dữ liệu form đi, ví dụ gọi API để thay đổi mật khẩu
+      // Tạo một bản sao dữ liệu form và loại bỏ confirmNewPassword
+      const formData = { ...this.changePasswordForm.value };
+      delete formData.confirmNewPassword;
+
+      // Gọi API với formData mà không bao gồm confirmNewPassword
+      this.jwtService.updatePass(formData).subscribe(
+          (response) => {
+            alert("Password changed successfully");
+            this.router.navigate(['/']);
+          },
+          (error) => {
+            console.error("Error changing password:", error);
+            alert("Failed to change password");
+          }
+      );
+    } else {
+      alert("Form is invalid");
     }
   }
 }

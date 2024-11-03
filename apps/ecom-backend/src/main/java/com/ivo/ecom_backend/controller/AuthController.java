@@ -45,6 +45,15 @@ public class AuthController {
         apiResponse.setResult(authService.updateUser(request));
         return ResponseEntity.ok(apiResponse);
     }
+
+    @PutMapping("/uppass")
+    @CrossOrigin(origins = "http://localhost:4200")
+    ResponseEntity<ApiResponse<UserResponse>> updatePassword(@RequestBody @Valid UpdatePasswordRequest request){
+        ApiResponse<UserResponse> apiResponse =new ApiResponse<>();
+        apiResponse.setResult(authService.updatePassword(request));
+        return ResponseEntity.ok(apiResponse);
+    }
+
     @PostMapping("/signin")
     @CrossOrigin(origins = "http://localhost:4200")
     ResponseEntity<ApiResponse<AuthenticationResponse>> authenticate(@RequestBody LoginRequest request){

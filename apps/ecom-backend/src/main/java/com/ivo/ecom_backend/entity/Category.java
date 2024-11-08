@@ -1,20 +1,43 @@
 package com.ivo.ecom_backend.entity;
 
-import jakarta.validation.constraints.Size;
-import lombok.*;
-import lombok.experimental.FieldDefaults;
+import jakarta.persistence.*;
+import lombok.Builder;
+import lombok.Data;
 
+import java.util.Objects;
+import java.util.Set;
 import java.util.UUID;
 
-@Builder
-@FieldDefaults(level= AccessLevel.PRIVATE)
-@AllArgsConstructor
+@Entity
 @Data
-public class Category {
-    @NonNull
-    @Size(min=3,message = "INVAILID_CATEGORY_NAME")
-    final String categoryName;
-    Long dbId;
-    @NonNull
-    UUID publicId;
+@Table(name = "product_category")
+@Builder
+public class Category  {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "categorySequence")
+    @SequenceGenerator(name = "categorySequence", sequenceName = "product_category_sequence", allocationSize = 1)
+    @Column(name = "id")
+    private Long id;
+
+    @Column(name = "name", nullable = false)
+    private String name;
+
+    @Column(name = "public_id", unique = true, nullable = false)
+    private UUID publicId;
+
+    @OneToMany(mappedBy = "category")
+    private Set<Product> products;
+
+    public Category() {
+    }
+
+    public Category(Long id, String name, UUID publicId, Set<Product> products) {
+        this.id = id;
+        this.name = name;
+        this.publicId = publicId;
+        this.products = products;
+    }
+
+
 }

@@ -46,9 +46,10 @@ export class UserProductService {
     );
   }
 
-  findAllCategories(): Observable<Page<ProductCategory>> {
-    return this.http.get<Page<ProductCategory>>(
-      `${environment.apiUrl}/categories`
+  findAllCategories(): Observable<any[]> {
+
+    return this.http.get<any[]>(
+        `http://localhost:8080/api/category`
     );
   }
 

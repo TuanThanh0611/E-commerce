@@ -10,8 +10,8 @@ import {
 import { Pagination } from '../../../shared/model/request.model';
 import { lastValueFrom } from 'rxjs';
 import { RouterLink } from '@angular/router';
-import { FaIconComponent } from '@fortawesome/angular-fontawesome';
-
+import {FaIconComponent, FaIconLibrary} from '@fortawesome/angular-fontawesome';
+import { faCircleExclamation } from '@fortawesome/free-solid-svg-icons';
 @Component({
   selector: 'ecom-admin-products',
   standalone: true,
@@ -30,14 +30,15 @@ export class AdminProductsComponent {
     sort: ['createdDate,desc'],
   };
 
-  constructor() {
+  constructor(library: FaIconLibrary) {
+    library.addIcons(faCircleExclamation);
     effect(() => this.handleProductQueryError());
   }
 
   productsQuery = injectQuery(() => ({
-    queryKey: ['products', this.pageRequest],
+    queryKey: ['product'],
     queryFn: () =>
-      lastValueFrom(this.productService.findAllProducts(this.pageRequest)),
+      lastValueFrom(this.productService.findAllProducts()),
   }));
 
   deleteMutation = injectMutation(() => ({

@@ -115,7 +115,7 @@ export class AuthService {
         }
     }
 
-    hasAnyAuthorities(user: ConnectedUser, roles: Array<string> | string): boolean {
+    hasAnyRoles(user: ConnectedUser, roles: Array<string> | string): boolean {
         if (!Array.isArray(roles)) {
             roles = [roles];
         }
@@ -136,7 +136,7 @@ export class AuthService {
     }
 getAuthenticatedUser(): Observable<ConnectedUser> {
     const headers = new HttpHeaders({
-        'Authorization': `Bearer ${this.getToken()}` // Gửi token trong Authorization header
+        'Authorization': `Bearer ${this.getToken()}`
     });
     return this.http.get<ConnectedUser>(`${this.apiUrl}/getauthenticateduser`, { headers });
 }

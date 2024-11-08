@@ -8,6 +8,7 @@ import { injectQuery } from '@tanstack/angular-query-experimental';
 import { lastValueFrom } from 'rxjs';
 import { CartService } from '../../shop/cart.service';
 import { AuthService } from '../../auth/service/auth.service';
+import {TestComponent} from "../../auth/service/test.component";
 
 @Component({
   selector: 'ecom-navbar',
@@ -21,6 +22,7 @@ export class NavbarComponent implements OnInit {
   authService = inject(AuthService);
   productService = inject(UserProductService);
   cartService = inject(CartService);
+  testComponent=inject(TestComponent);
 
   nbItemsInCart = 0;
 
@@ -43,13 +45,18 @@ export class NavbarComponent implements OnInit {
     this.router.navigate(['/update']);
 
   }
+  oko():void{
+    this.testComponent.okok();
+  }
 
   logout(): void {
     this.closeDropDownMenu();
     this.authService.logout();
     window.location.reload();
   }
-
+ test():void{
+    this.router.navigate(['/test']);
+ }
   isConnected(): boolean {
     if (this.connectedUserQuery?.status() === 'success') {
       return true;

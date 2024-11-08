@@ -100,6 +100,8 @@ export class CreateProductComponent {
     queryKey: ['categories'],
     queryFn: () => lastValueFrom(this.productService.findAllCategories()),
   }));
+  trackByPublicId(index: number, item: any): any {
+    return item.publicId; }
 
   createMutation = injectMutation(() => ({
     mutationFn: (product: BaseProduct) =>

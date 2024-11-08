@@ -33,6 +33,11 @@ export class AdminCategoriesComponent {
     queryFn: () => lastValueFrom(this.productAdminService.findAllCategories()),
   }));
 
+  trackByPublicId(index: number, item: any): any {
+    return item.publicId; }
+
+
+
   deleteMutation = injectMutation(() => ({
     mutationFn: (categoryPublicId: string) =>
       lastValueFrom(this.productAdminService.deleteCategory(categoryPublicId)),

@@ -2,6 +2,9 @@ import { Component, OnInit } from '@angular/core';
 import {FormBuilder, FormGroup, ReactiveFormsModule, Validators} from '@angular/forms';
 import {AuthService} from "../service/auth.service";
 import {JwtService} from "../service/jwt.service";
+import {Router} from "@angular/router";
+import {ConnectedUser} from "../../shared/model/user.model";
+import {Observable} from "rxjs";
 
 @Component({
   selector: 'app-change-password',
@@ -14,21 +17,36 @@ import {JwtService} from "../service/jwt.service";
 })
 export class ChangePasswordComponent implements OnInit {
   changePasswordForm!: FormGroup;
+  connectedUser$: Observable<ConnectedUser> | undefined;
+  userInfo: ConnectedUser | undefined
 
-  constructor(private fb: FormBuilder,private authService:AuthService,private jwtService:JwtService) {}
+
+  constructor(private fb: FormBuilder, private router: Router,private authService:AuthService,private jwtService:JwtService) {}
 
   ngOnInit(): void {
+    this.connectedUser$ = this.authService.getAuthenticatedUser();
     this.changePasswordForm = this.fb.group({
       email: ['', [Validators.required, Validators.email]],
-      newPassword: ['', [Validators.required, Validators.minLength(6)]],
+      password: ['', [Validators.required, Validators.minLength(6)]],
       confirmNewPassword: ['', Validators.required]
     }, { validator: this.passwordMatchValidator });
+    this.connectedUser$.subscribe(
+        (user: ConnectedUser) => {
+          this.userInfo = user;
+          this.changePasswordForm.patchValue({
+            email:user.email
+          })
+        },
+        (error) => {
+          console.error('Error fetching user information:', error);
+        }
+    );
   }
 
   passwordMatchValidator(form: FormGroup) {
-    const newPassword = form.get('newPassword')?.value;
+    const password = form.get('password')?.value;
     const confirmNewPassword = form.get('confirmNewPassword')?.value;
-    return newPassword === confirmNewPassword ? null : { mismatch: true };
+    return password === confirmNewPassword ? null : { mismatch: true };
   }
 
   submitForm(): void {

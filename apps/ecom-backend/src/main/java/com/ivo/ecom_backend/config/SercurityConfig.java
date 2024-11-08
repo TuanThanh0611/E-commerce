@@ -26,8 +26,18 @@ import javax.crypto.spec.SecretKeySpec;
 @EnableWebSecurity
 public class SercurityConfig {
 
-    private final String[] PUBLIC_ENDPOINTS = {"/test/firstname","/users","/api/auth/signin",
-            "/auth/token", "/auth/introspect","/api/auth/regis","/api/auth/test","/api/auth/getauthenticateduser"
+    private final String[] PUBLIC_ENDPOINTS = {
+            "/api/category",
+            "api/auth/token"
+            ,
+            "/test/firstname",
+            "/users",
+            "/api/auth/signin",
+            "/auth/token",
+            "/auth/introspect",
+            "/api/auth/regis",
+            "/api/auth/test",
+            "/api/auth/getauthenticateduser"
     };
 
     private String signerKey="Hvj3OStJfA9Ze823YyodKyYSJ33T555IRYFs2yIOcPLiP10J8pMj1wfy8zi2ZWAw";
@@ -40,6 +50,10 @@ public class SercurityConfig {
                         request
                                 .requestMatchers(HttpMethod.POST, PUBLIC_ENDPOINTS).permitAll()
                                 .requestMatchers(HttpMethod.GET, PUBLIC_ENDPOINTS).permitAll()
+                                .requestMatchers(HttpMethod.POST, "/api/product").authenticated()
+                                .requestMatchers(HttpMethod.GET, "/api/product").authenticated()
+                                .requestMatchers(HttpMethod.DELETE, "/api/category").permitAll()
+                                .requestMatchers(HttpMethod.DELETE, "/api/product").permitAll()
                                 .requestMatchers(HttpMethod.POST, "/api/auth/update").authenticated()
                                 .requestMatchers(HttpMethod.POST, "/api/auth/updatepassword").authenticated()
                                 .anyRequest().authenticated()

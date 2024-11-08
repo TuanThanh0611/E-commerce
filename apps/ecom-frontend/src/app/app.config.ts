@@ -29,10 +29,7 @@ export const appConfig: ApplicationConfig = {
     provideHttpClient(withFetch(), withInterceptors([authInterceptor()])),
     provideAuth({
       config: {
-        authority: environment.kinde.authority,
-        redirectUrl: environment.kinde.redirectUrl,
-        postLogoutRedirectUri: environment.kinde.postLogoutRedirectUri,
-        clientId: environment.kinde.clientId,
+
         scope: 'openid profile email offline',
         responseType: 'code',
         silentRenew: true,
@@ -40,7 +37,6 @@ export const appConfig: ApplicationConfig = {
         logLevel: LogLevel.Warn,
         secureRoutes: [environment.apiUrl,'http://localhost:8080'],
         customParamsAuthRequest: {
-          audience: environment.kinde.audience,
         },
       },
     }),

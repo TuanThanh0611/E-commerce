@@ -1,0 +1,1245 @@
+[?25l[2m◼[22m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[32m✔[39m Building...
+[2K[1A[2K[G
+🌼   [35mdaisyUI[39m [2m4.12.10[22m
+├─ [32m✔︎[39m 1 theme added[2m		https://daisyui.com/docs/themes[22m
+╰─ [32m❤︎[39m [0mSupport daisyUI project:[0m	[2mhttps://opencollective.com/daisyui[22m
+[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m[36m186.08 kB[39m[37m[2m | [22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m76.91 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-GJI23OHK.js[39m[37m      [2m | [22m[2m-[22m                  [2m | [22m  [36m7.44 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m360.66 kB[22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-BJVJJWVX.js[39m[37m      [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.55 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m186.89 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-XZA7NPC7.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-4LWRAYML.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m1.35 kB[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-WM6LU4CN.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [4.138 seconds][39m
+[37m[39m
+[37mWatch mode enabled. Watching for file changes...[39m
+[37mNOTE: Raw file sizes do not reflect development server per-request transformations.[39m
+Re-optimizing dependencies because vite config has changed
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+Re-optimizing dependencies because vite config has changed
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠦[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠧[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠇[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠏[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠦[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠧[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠇[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [1.946 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2315: Type 'List' is not generic.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/admin-product.service.ts:33:34:[39m[22m
+[1m[31m[37m      33 │   findAllCategories(): Observable<[32mList<ProductCategory>[37m> {[39m[22m
+[1m[31m         ╵                                   [32m~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2315: Type 'List' is not generic.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/admin-product.service.ts:34:25:[39m[22m
+[1m[31m[37m      34 │     return this.http.get<[32mList<ProductCategory>[37m>([39m[22m
+[1m[31m         ╵                          [32m~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.470 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'ProductCategory[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:11:60:[39m[22m
+[1m[31m[37m      11 │ ...ery.isSuccess() && categoriesQuery.data()!.[32mcontent[37m.length !== 0) {[39m[22m
+[1m[31m         ╵                                               [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'ProductCategory[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:23:48:[39m[22m
+[1m[31m[37m      23 │ ... of categoriesQuery.data()!.[32mcontent[37m; track category.publicId; l...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'ProductCategory[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:46:35:[39m[22m
+[1m[31m[37m      46 │ } @else if(categoriesQuery.data()!.[32mcontent[37m.length === 0) {[39m[22m
+[1m[31m         ╵                                    [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src[39m[22m[1m[31m/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'ProductCategory[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:108:52:[39m[22m
+[1m[31m[37m      108 │ ...ry of categoriesQuery.data()!.[32mcontent[37m; track category.publicId) {[39m[22m
+[1m[31m          ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.526 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:11:60:[39m[22m
+[1m[31m[37m      11 │ ...ery.isSuccess() && categoriesQuery.data()!.[32mcontent[37m.length !== 0) {[39m[22m
+[1m[31m         ╵                                               [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:23:48:[39m[22m
+[1m[31m[37m      23 │ ... of categoriesQuery.data()!.[32mcontent[37m; track category.publicId; l...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:46:35:[39m[22m
+[1m[31m[37m      46 │ } @else if(categoriesQuery.data()!.[32mcontent[37m.length === 0) {[39m[22m
+[1m[31m         ╵                                    [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories[39m[22m[1m[31m/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:108:52:[39m[22m
+[1m[31m[37m      108 │ ...ry of categoriesQuery.data()!.[32mcontent[37m; track category.publicId) {[39m[22m
+[1m[31m          ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.234 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:11:60:[39m[22m
+[1m[31m[37m      11 │ ...ery.isSuccess() && categoriesQuery.data()!.[32mcontent[37m.length !== 0) {[39m[22m
+[1m[31m         ╵                                               [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:23:48:[39m[22m
+[1m[31m[37m      23 │ ... of categoriesQuery.data()!.[32mcontent[37m; track category.publicId; l...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:46:35:[39m[22m
+[1m[31m[37m      46 │ } @else if(categoriesQuery.data()!.[32mcontent[37m.length === 0) {[39m[22m
+[1m[31m         ╵                                    [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories[39m[22m[1m[31m/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:108:52:[39m[22m
+[1m[31m[37m      108 │ ...ry of categoriesQuery.data()!.[32mcontent[37m; track category.publicId) {[39m[22m
+[1m[31m          ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.323 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:11:60:[39m[22m
+[1m[31m[37m      11 │ ...ery.isSuccess() && categoriesQuery.data()!.[32mcontent[37m.length !== 0) {[39m[22m
+[1m[31m         ╵                                               [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'category' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:23:48:[39m[22m
+[1m[31m[37m      23 │ ... of categoriesQuery.data()!.[32mcategory[37m; track category.publicId; ...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:46:35:[39m[22m
+[1m[31m[37m      46 │ } @else if(categoriesQuery.data()!.[32mcontent[37m.length === 0) {[39m[22m
+[1m[31m         ╵                                    [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categori[39m[22m[1m[31mes/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:108:52:[39m[22m
+[1m[31m[37m      108 │ ...ry of categoriesQuery.data()!.[32mcontent[37m; track category.publicId) {[39m[22m
+[1m[31m          ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.413 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<any[]>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:14:65:[39m[22m
+[1m[31m[37m      14 │ ...ss() && categoriesQuery.data?.[32mcontent[37m?.length !== 0; else noData">[39m[22m
+[1m[31m         ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<any[]>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:61:[39m[22m
+[1m[31m[37m      26 │ ...ory of categoriesQuery.data.[32mcontent[37m; let i = index; trackBy: tr...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'trackByPublicId' does not exist on type 'AdminCategoriesComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:94:[39m[22m
+[1m[31m[37m      26 │ ... let i = index; trackBy: [32mtrackByPublicId[37m" class="border-gray-300">[39m[22m
+[1m[31m         ╵                             [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-fronte[39m[22m[1m[31mnd/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:108:52:[39m[22m
+[1m[31m[37m      108 │ ...ry of categoriesQuery.data()!.[32mcontent[37m; track category.publicId) {[39m[22m
+[1m[31m          ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.512 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<any[]>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:14:65:[39m[22m
+[1m[31m[37m      14 │ ...ss() && categoriesQuery.data?.[32mcontent[37m?.length !== 0; else noData">[39m[22m
+[1m[31m         ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<any[]>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:61:[39m[22m
+[1m[31m[37m      26 │ ...ory of categoriesQuery.data.[32mcontent[37m; let i = index; trackBy: tr...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'trackByPublicId' does not exist on type 'AdminCategoriesComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:94:[39m[22m
+[1m[31m[37m      26 │ ... let i = index; trackBy: [32mtrackByPublicId[37m" class="border-gray-300">[39m[22m
+[1m[31m         ╵                             [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-fronte[39m[22m[1m[31mnd/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'result' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:108:56:[39m[22m
+[1m[31m[37m      108 │ ...ory of categoriesQuery.data()!.[32mresult[37m; track category.publicId) {[39m[22m
+[1m[31m          ╵                                   [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.560 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<{ code: number; result: { name: string | null; publicId: string | null; }[]; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:14:65:[39m[22m
+[1m[31m[37m      14 │ ...ss() && categoriesQuery.data?.[32mcontent[37m?.length !== 0; else noData">[39m[22m
+[1m[31m         ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<{ code: number; result: { name: string | null; publicId: string | null; }[]; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:61:[39m[22m
+[1m[31m[37m      26 │ ...ory of categoriesQuery.data.[32mcontent[37m; let i = index; trackBy: tr...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'trackByPublicId' does not exist on type 'AdminCategoriesComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:94:[39m[22m
+[1m[31m[37m      26 │ ... let i = index; trackBy: [32mtrackByPublicId[37m" class="border-gray-300">[39m[22m
+[1m[31m         ╵[39m[22m[1m[31m                             [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.502 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<{ code: number; result: { name: string | null; publicId: string | null; }[]; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:14:65:[39m[22m
+[1m[31m[37m      14 │ ...ss() && categoriesQuery.data?.[32mcontent[37m?.length !== 0; else noData">[39m[22m
+[1m[31m         ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<{ code: number; result: { name: string | null; publicId: string | null; }[]; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:61:[39m[22m
+[1m[31m[37m      26 │ ...ory of categoriesQuery.data.[32mcontent[37m; let i = index; trackBy: tr...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'trackByPublicId' does not exist on type 'AdminCategoriesComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:94:[39m[22m
+[1m[31m[37m      26 │ ... let i = index; trackBy: [32mtrackByPublicId[37m" class="border-gray-300">[39m[22m
+[1m[31m         ╵[39m[22m[1m[31m                             [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'productService' does not exist on type 'AdminCategoriesComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:33:38:[39m[22m
+[1m[31m[37m      33 │ ...yFn: () => lastValueFrom(this.[32mproductService[37m.findAllCategories()),[39m[22m
+[1m[31m         ╵                                  [32m~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.268 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<{ code: number; result: { name: string | null; publicId: string | null; }[]; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:14:65:[39m[22m
+[1m[31m[37m      14 │ ...ss() && categoriesQuery.data?.[32mcontent[37m?.length !== 0; else noData">[39m[22m
+[1m[31m         ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<{ code: number; result: { name: string | null; publicId: string | null; }[]; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:61:[39m[22m
+[1m[31m[37m      26 │ ...ory of categoriesQuery.data.[32mcontent[37m; let i = index; trackBy: tr...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'trackByPublicId' does not exist on type 'AdminCategoriesComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:94:[39m[22m
+[1m[31m[37m      26 │ ... let i = index; trackBy: [32mtrackByPublicId[37m" class="border-gray-300">[39m[22m
+[1m[31m         ╵[39m[22m[1m[31m                             [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.253 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<{ code: number; result: { name: string | null; publicId: string | null; }[]; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:14:65:[39m[22m
+[1m[31m[37m      14 │ ...ss() && categoriesQuery.data?.[32mcontent[37m?.length !== 0; else noData">[39m[22m
+[1m[31m         ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<{ code: number; result: { name: string | null; publicId: string | null; }[]; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:61:[39m[22m
+[1m[31m[37m      26 │ ...ory of categoriesQuery.data.[32mcontent[37m; let i = index; trackBy: tr...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'trackByPublicId' does not exist on type 'AdminCategoriesComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:94:[39m[22m
+[1m[31m[37m      26 │ ... let i = index; trackBy: [32mtrackByPublicId[37m" class="border-gray-300">[39m[22m
+[1m[31m         ╵[39m[22m[1m[31m                             [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.447 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<{ code: number; result: { name: string | null; publicId: string | null; }[]; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:14:65:[39m[22m
+[1m[31m[37m      14 │ ...ss() && categoriesQuery.data?.[32mcontent[37m?.length !== 0; else noData">[39m[22m
+[1m[31m         ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<{ code: number; result: { name: string | null; publicId: string | null; }[]; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:61:[39m[22m
+[1m[31m[37m      26 │ ...ory of categoriesQuery.data.[32mcontent[37m; let i = index; trackBy: tr...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'trackByPublicId' does not exist on type 'AdminCategoriesComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:94:[39m[22m
+[1m[31m[37m      26 │ ... let i = index; trackBy: [32mtrackByPublicId[37m" class="border-gray-300">[39m[22m
+[1m[31m         ╵[39m[22m[1m[31m                             [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.441 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<{ code: number; result: { name: string | null; publicId: string | null; }[]; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:14:65:[39m[22m
+[1m[31m[37m      14 │ ...ss() && categoriesQuery.data?.[32mcontent[37m?.length !== 0; else noData">[39m[22m
+[1m[31m         ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<{ code: number; result: { name: string | null; publicId: string | null; }[]; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:61:[39m[22m
+[1m[31m[37m      26 │ ...ory of categoriesQuery.data.[32mcontent[37m; let i = index; trackBy: tr...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'trackByPublicId' does not exist on type 'AdminCategoriesComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:94:[39m[22m
+[1m[31m[37m      26 │ ... let i = index; trackBy: [32mtrackByPublicId[37m" class="border-gray-300">[39m[22m
+[1m[31m         ╵[39m[22m[1m[31m                             [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.557 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<any[]>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:14:65:[39m[22m
+[1m[31m[37m      14 │ ...ss() && categoriesQuery.data?.[32mcontent[37m?.length !== 0; else noData">[39m[22m
+[1m[31m         ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'Signal<any[]>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:61:[39m[22m
+[1m[31m[37m      26 │ ...ory of categoriesQuery.data.[32mcontent[37m; let i = index; trackBy: tr...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'trackByPublicId' does not exist on type 'AdminCategoriesComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:94:[39m[22m
+[1m[31m[37m      26 │ ... let i = index; trackBy: [32mtrackByPublicId[37m" class="border-gray-300">[39m[22m
+[1m[31m         ╵                             [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-fronte[39m[22m[1m[31mnd/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:108:52:[39m[22m
+[1m[31m[37m      108 │ ...ry of categoriesQuery.data()!.[32mcontent[37m; track category.publicId) {[39m[22m
+[1m[31m          ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.303 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'result' does not exist on type 'Signal<any[]>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:14:65:[39m[22m
+[1m[31m[37m      14 │ ...ess() && categoriesQuery.data?.[32mresult[37m?.length !== 0; else noData">[39m[22m
+[1m[31m         ╵                                   [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'result' does not exist on type 'Signal<any[]>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:61:[39m[22m
+[1m[31m[37m      26 │ ...gory of categoriesQuery.data.[32mresult[37m; let i = index; trackBy: tr...[39m[22m
+[1m[31m         ╵                                 [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'trackByPublicId' does not exist on type 'AdminCategoriesComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:93:[39m[22m
+[1m[31m[37m      26 │ ... let i = index; trackBy: [32mtrackByPublicId[37m" class="border-gray-300">[39m[22m
+[1m[31m         ╵                             [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend[39m[22m[1m[31m/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:108:52:[39m[22m
+[1m[31m[37m      108 │ ...ry of categoriesQuery.data()!.[32mcontent[37m; track category.publicId) {[39m[22m
+[1m[31m          ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.345 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'trackByPublicId' does not exist on type 'AdminCategoriesComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html:26:88:[39m[22m
+[1m[31m[37m      26 │ ... let i = index; trackBy: [32mtrackByPublicId[37m" class="border-gray-300">[39m[22m
+[1m[31m         ╵                             [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminCategoriesComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts:18:15:[39m[22m
+[1m[31m[37m      18 │   templateUrl: [32m'./admin-categories.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:108:52:[39m[22m
+[1m[31m[37m      108 │ ...ry of categoriesQuery.data()!.[32mcontent[37m; track category.publicId) {[39m[22m
+[1m[31m          ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.511 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:108:52:[39m[22m
+[1m[31m[37m      108 │ ...ry of categoriesQuery.data()!.[32mcontent[37m; track category.publicId) {[39m[22m
+[1m[31m          ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.298 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:108:52:[39m[22m
+[1m[31m[37m      108 │ ...ry of categoriesQuery.data()!.[32mcontent[37m; track category.publicId) {[39m[22m
+[1m[31m          ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m[36m187.91 kB[39m[37m[2m | [22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m76.91 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-GJI23OHK.js[39m[37m      [2m | [22m[2m-[22m                  [2m | [22m  [36m7.44 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m362.50 kB[22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-BJVJJWVX.js[39m[37m      [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.55 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m188.76 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-XZA7NPC7.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-4LWRAYML.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m1.35 kB[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-WM6LU4CN.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.559 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+Error fetching user information: HttpErrorResponse {
+  headers: _HttpHeaders {
+    normalizedNames: Map(12) {
+      [32m'cache-control'[39m => [32m'cache-control'[39m,
+      [32m'connection'[39m => [32m'connection'[39m,
+      [32m'content-length'[39m => [32m'content-length'[39m,
+      [32m'date'[39m => [32m'date'[39m,
+      [32m'expires'[39m => [32m'expires'[39m,
+      [32m'keep-alive'[39m => [32m'keep-alive'[39m,
+      [32m'pragma'[39m => [32m'pragma'[39m,
+      [32m'vary'[39m => [32m'vary'[39m,
+      [32m'www-authenticate'[39m => [32m'www-authenticate'[39m,
+      [32m'x-content-type-options'[39m => [32m'x-content-type-options'[39m,
+      [32m'x-frame-options'[39m => [32m'x-frame-options'[39m,
+      [32m'x-xss-protection'[39m => [32m'x-xss-protection'[39m
+    },
+    lazyUpdate: [1mnull[22m,
+    headers: Map(12) {
+      [32m'cache-control'[39m => [36m[Array][39m,
+      [32m'connection'[39m => [36m[Array][39m,
+      [32m'content-length'[39m => [36m[Array][39m,
+      [32m'date'[39m => [36m[Array][39m,
+      [32m'expires'[39m => [36m[Array][39m,
+      [32m'keep-alive'[39m => [36m[Array][39m,
+      [32m'pragma'[39m => [36m[Array][39m,
+      [32m'vary'[39m => [36m[Array][39m,
+      [32m'www-authenticate'[39m => [36m[Array][39m,
+      [32m'x-content-type-options'[39m => [36m[Array][39m,
+      [32m'x-frame-options'[39m => [36m[Array][39m,
+      [32m'x-xss-protection'[39m => [36m[Array][39m
+    }
+  },
+  status: [33m401[39m,
+  statusText: [32m'Unknown Error'[39m,
+  url: [32m'http://localhost:8080/api/auth/getauthenticateduser'[39m,
+  ok: [33mfalse[39m,
+  name: [32m'HttpErrorResponse'[39m,
+  message: [32m'Http failure response for http://localhost:8080/api/auth/getauthenticateduser: 401 '[39m,
+  error: [1mnull[22m
+}
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.363 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'result' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:108:88:[39m[22m
+[1m[31m[37m      108 │ ...ery.isSuccess() && categoriesQuery.data()?.[32mresult[37m?.length !== 0">[39m[22m
+[1m[31m          ╵                                               [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'result' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:109:71:[39m[22m
+[1m[31m[37m      109 │ ...egory of categoriesQuery.data().[32mresult[37m; trackBy: trackByPublicId"[39m[22m
+[1m[31m          ╵                                    [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.399 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'result' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:109:88:[39m[22m
+[1m[31m[37m      109 │ ...ery.isSuccess() && categoriesQuery.data()?.[32mresult[37m?.length !== 0">[39m[22m
+[1m[31m          ╵                                               [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'result' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html:110:71:[39m[22m
+[1m[31m[37m      110 │ ...egory of categoriesQuery.data().[32mresult[37m; trackBy: trackByPublicId"[39m[22m
+[1m[31m          ╵                                    [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component CreateProductComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts:31:15:[39m[22m
+[1m[31m[37m      31 │   templateUrl: [32m'./create-product.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m[36m187.93 kB[39m[37m[2m | [22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m76.91 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-GJI23OHK.js[39m[37m      [2m | [22m[2m-[22m                  [2m | [22m  [36m7.44 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m362.52 kB[22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-BJVJJWVX.js[39m[37m      [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.55 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m188.78 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-XZA7NPC7.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-4LWRAYML.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m1.35 kB[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-WM6LU4CN.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.305 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+Error fetching user information: HttpErrorResponse {
+  headers: _HttpHeaders {
+    normalizedNames: Map(12) {
+      [32m'cache-control'[39m => [32m'cache-control'[39m,
+      [32m'connection'[39m => [32m'connection'[39m,
+      [32m'content-length'[39m => [32m'content-length'[39m,
+      [32m'date'[39m => [32m'date'[39m,
+      [32m'expires'[39m => [32m'expires'[39m,
+      [32m'keep-alive'[39m => [32m'keep-alive'[39m,
+      [32m'pragma'[39m => [32m'pragma'[39m,
+      [32m'vary'[39m => [32m'vary'[39m,
+      [32m'www-authenticate'[39m => [32m'www-authenticate'[39m,
+      [32m'x-content-type-options'[39m => [32m'x-content-type-options'[39m,
+      [32m'x-frame-options'[39m => [32m'x-frame-options'[39m,
+      [32m'x-xss-protection'[39m => [32m'x-xss-protection'[39m
+    },
+    lazyUpdate: [1mnull[22m,
+    headers: Map(12) {
+      [32m'cache-control'[39m => [36m[Array][39m,
+      [32m'connection'[39m => [36m[Array][39m,
+      [32m'content-length'[39m => [36m[Array][39m,
+      [32m'date'[39m => [36m[Array][39m,
+      [32m'expires'[39m => [36m[Array][39m,
+      [32m'keep-alive'[39m => [36m[Array][39m,
+      [32m'pragma'[39m => [36m[Array][39m,
+      [32m'vary'[39m => [36m[Array][39m,
+      [32m'www-authenticate'[39m => [36m[Array][39m,
+      [32m'x-content-type-options'[39m => [36m[Array][39m,
+      [32m'x-frame-options'[39m => [36m[Array][39m,
+      [32m'x-xss-protection'[39m => [36m[Array][39m
+    }
+  },
+  status: [33m401[39m,
+  statusText: [32m'Unknown Error'[39m,
+  url: [32m'http://localhost:8080/api/auth/getauthenticateduser'[39m,
+  ok: [33mfalse[39m,
+  name: [32m'HttpErrorResponse'[39m,
+  message: [32m'Http failure response for http://localhost:8080/api/auth/getauthenticateduser: 401 '[39m,
+  error: [1mnull[22m
+}
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m188.31 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m189.16 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.479 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+Error fetching user information: HttpErrorResponse {
+  headers: _HttpHeaders {
+    normalizedNames: Map(12) {
+      [32m'cache-control'[39m => [32m'cache-control'[39m,
+      [32m'connection'[39m => [32m'connection'[39m,
+      [32m'content-length'[39m => [32m'content-length'[39m,
+      [32m'date'[39m => [32m'date'[39m,
+      [32m'expires'[39m => [32m'expires'[39m,
+      [32m'keep-alive'[39m => [32m'keep-alive'[39m,
+      [32m'pragma'[39m => [32m'pragma'[39m,
+      [32m'vary'[39m => [32m'vary'[39m,
+      [32m'www-authenticate'[39m => [32m'www-authenticate'[39m,
+      [32m'x-content-type-options'[39m => [32m'x-content-type-options'[39m,
+      [32m'x-frame-options'[39m => [32m'x-frame-options'[39m,
+      [32m'x-xss-protection'[39m => [32m'x-xss-protection'[39m
+    },
+    lazyUpdate: [1mnull[22m,
+    headers: Map(12) {
+      [32m'cache-control'[39m => [36m[Array][39m,
+      [32m'connection'[39m => [36m[Array][39m,
+      [32m'content-length'[39m => [36m[Array][39m,
+      [32m'date'[39m => [36m[Array][39m,
+      [32m'expires'[39m => [36m[Array][39m,
+      [32m'keep-alive'[39m => [36m[Array][39m,
+      [32m'pragma'[39m => [36m[Array][39m,
+      [32m'vary'[39m => [36m[Array][39m,
+      [32m'www-authenticate'[39m => [36m[Array][39m,
+      [32m'x-content-type-options'[39m => [36m[Array][39m,
+      [32m'x-frame-options'[39m => [36m[Array][39m,
+      [32m'x-xss-protection'[39m => [36m[Array][39m
+    }
+  },
+  status: [33m401[39m,
+  statusText: [32m'Unknown Error'[39m,
+  url: [32m'http://localhost:8080/api/auth/getauthenticateduser'[39m,
+  ok: [33mfalse[39m,
+  name: [32m'HttpErrorResponse'[39m,
+  message: [32m'Http failure response for http://localhost:8080/api/auth/getauthenticateduser: 401 '[39m,
+  error: [1mnull[22m
+}
+q
+[?25h

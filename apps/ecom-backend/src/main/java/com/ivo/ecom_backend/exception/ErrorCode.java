@@ -6,7 +6,9 @@ public enum ErrorCode {
     USER_EXISTED(1003,"This user already exists"),
     USER_NOT_EXISTED(1004,"This user is not existed"),
     UNAUTHENTICATION(1005,"Pass or email not match"),
-    CANT_CREATE_TOKEN(1006,"Can't create token"),;
+    CANT_CREATE_TOKEN(1006,"Can't create token"),
+    CATCH_ERROR(1007,"Catch error"),
+    MUlT_FILE(1008,"Cannot parse multipart file");
     private int code;
     private String message;
 

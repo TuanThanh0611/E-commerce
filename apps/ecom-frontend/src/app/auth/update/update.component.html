@@ -1,61 +1,70 @@
 <div class="container d-flex justify-content-between">
-    <!-- Form cập nhật thông tin người dùng -->
-    <div class="form-container">
-        <h2>Update Information</h2>
-        <form [formGroup]="updateForm" (ngSubmit)="submitForm()">
-            <div class="form-group">
-                <label for="firstname">First Name</label>
-                <input
-                        type="text"
-                        id="firstname"
-                        formControlName="firstname"
-                        placeholder="Enter first name"
-                />
-            </div>
 
-            <div class="form-group">
-                <label for="lastname">Last Name</label>
-                <input
-                        type="text"
-                        id="lastname"
-                        formControlName="lastname"
-                        placeholder="Enter last name"
-                />
-            </div>
+    <div class="container d-flex justify-content-between">
+        <div class="form-container">
+            <h2>Update Information</h2>
+            <form [formGroup]="updateForm" (ngSubmit)="submitForm()">
+                <li>
+                    <button class="link" (click)="oko()">Test</button>
+                </li>
+                <div class="form-group">
+                    <label for="firstname">First Name</label>
+                    <input type="text" id="firstname" formControlName="firstname" placeholder="Enter first name" />
+                </div>
 
-            <div class="form-group">
-                <label for="dob">Date of Birth</label>
-                <input type="date" id="dob" formControlName="dob" />
-            </div>
+                <div class="form-group">
+                    <label for="lastname">Last Name</label>
+                    <input type="text" id="lastname" formControlName="lastname" placeholder="Enter last name" />
+                </div>
 
-            <div class="form-group">
-                <label for="phoneNumber">Phone Number</label>
-                <input
-                        type="tel"
-                        id="phoneNumber"
-                        formControlName="phoneNumber"
-                        placeholder="Enter phone number"
-                />
-            </div>
+                <div class="form-group">
+                    <label for="dob">Date of Birth</label>
+                    <input type="date" id="dob" formControlName="dob" />
+                </div>
 
-            <div class="form-group">
-                <label for="imageUrl">Image URL</label>
-                <input
-                        type="text"
-                        id="imageUrl"
-                        formControlName="imageUrl"
-                        placeholder="Enter image URL"
-                />
-            </div>
+                <div class="form-group">
+                    <label for="phoneNumber">Phone Number</label>
+                    <input type="tel" id="phoneNumber" formControlName="phoneNumber" placeholder="Enter phone number" />
+                </div>
 
-            <button type="submit" class="btn btn-primary" [disabled]="updateForm.invalid">Update</button>
-            <div class="text-center mt-3">
-                <button type="button" class="btn btn-link" (click)="goToChangePassword()">Change Password</button>
-            </div>
-        </form>
+                <div class="form-group">
+                    <label for="imageUpload">Upload Image</label>
+                    <input type="file" id="imageUpload"  />
+                </div>
+                <div formArrayName="addresses" *ngFor="let address of addresses.controls; let i = index">
+                    <div [formGroupName]="i">
+                        <h5>Address {{ i + 1 }}</h5>
+                        <div class="form-group">
+                            <label for="street">Street</label>
+                            <input type="text" id="street" formControlName="street" placeholder="Enter street" />
+                        </div>
+                        <div class="form-group">
+                            <label for="city">City</label>
+                            <input type="text" id="city" formControlName="city" placeholder="Enter city" />
+                        </div>
+                        <div class="form-group">
+                            <label for="state">State</label>
+                            <input type="text" id="state" formControlName="state" placeholder="Enter state" />
+                        </div>
+                        <div class="form-group">
+                            <label for="zipCode">Zip Code</label>
+                            <input type="text" id="zipCode" formControlName="zipCode" placeholder="Enter zip code" />
+                        </div>
+                        <div class="form-group">
+                            <label for="country">Country</label>
+                            <input type="text" id="country" formControlName="country" placeholder="Enter country" />
+                        </div>
+                        <button type="button" class="btn btn-danger" (click)="removeAddress(i)">Remove Address</button>
+                    </div>
+                </div>
+
+                <button type="button" class="btn btn-secondary" (click)="addAddress()">Add Address</button>
+
+                <button type="submit" class="btn btn-primary" [disabled]="updateForm.invalid">Update</button>
+            </form>
+        </div>
     </div>
 
-    <!-- Bảng thông tin người dùng -->
     <div class="info-container">
         <h3>User Information</h3>
         <table class="table table-bordered table-hover">
@@ -71,6 +80,10 @@
             <tr>
                 <th scope="row">Email</th>
                 <td>{{ userInfo?.email }}</td>
+            </tr>
+            <tr>
+                <th scope="row">Phone Number</th>
+                <td>{{ userInfo?.phoneNumber }}</td>
             </tr>
             <tr>
                 <th scope="row">Created Date</th>

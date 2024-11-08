@@ -1,0 +1,19 @@
+{
+  "routes": [
+    "/",
+    "/admin/categories/create",
+    "/admin/categories/list",
+    "/admin/orders/list",
+    "/admin/products/create",
+    "/admin/products/list",
+    "/authenticate",
+    "/cart",
+    "/cart/success",
+    "/change-password",
+    "/products",
+    "/register",
+    "/signin",
+    "/update",
+    "/users/orders"
+  ]
+}

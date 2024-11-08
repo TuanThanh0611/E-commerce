@@ -1,0 +1,591 @@
+[?25l[2m◼[22m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[32m✔[39m Building...
+[2K[1A[2K[G
+🌼   [35mdaisyUI[39m [2m4.12.10[22m
+├─ [32m✔︎[39m 1 theme added[2m		https://daisyui.com/docs/themes[22m
+╰─ [32m❤︎[39m [0mSupport daisyUI project:[0m	[2mhttps://opencollective.com/daisyui[22m
+[?25h[37m[35mBrowser bundles[39m[37m        [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m                [2m | [22m[2mmain[22m               [2m | [22m[36m187.64 kB[39m[37m[2m | [22m[39m
+[37m[32mpolyfills.js[39m[37m           [2m | [22m[2mpolyfills[22m          [2m | [22m [36m90.23 kB[39m[37m[2m | [22m[39m
+[37m[32mstyles.css[39m[37m             [2m | [22m[2mstyles[22m             [2m | [22m [36m76.91 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-GJI23OHK.js[39m[37m      [2m | [22m[2m-[22m                  [2m | [22m  [36m7.44 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                      [2m | [22m[1mInitial total[22m      [2m | [22m[1m362.23 kB[22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-BJVJJWVX.js[39m[37m      [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.55 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m         [39m
+[37m[1mInitial chunk files[22m    [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mpolyfills.server.mjs[39m[37m   [2m | [22m[2mpolyfills.server[22m   [2m | [22m[36m572.95 kB[39m[37m[2m | [22m[39m
+[37m[32mmain.server.mjs[39m[37m        [2m | [22m[2mmain.server[22m        [2m | [22m[36m188.49 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-XZA7NPC7.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m6.22 kB[39m[37m[2m | [22m[39m
+[37m[32mchunk-4LWRAYML.mjs[39m[37m     [2m | [22m[2m-[22m                  [2m | [22m  [36m1.35 kB[39m[37m[2m | [22m[39m
+[37m[32mrender-utils.server.mjs[39m[37m[2m | [22m[2mrender-utils.server[22m[2m | [22m[36m503 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m       [2m | [22m[1mNames[22m              [2m | [22m [1mRaw size[22m[39m
+[37m[32mchunk-WM6LU4CN.mjs[39m[37m     [2m | [22m[2mfeatured-component[22m [2m | [22m  [36m3.61 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [4.081 seconds][39m
+[37m[39m
+[37mWatch mode enabled. Watching for file changes...[39m
+[37mNOTE: Raw file sizes do not reflect development server per-request transformations.[39m
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+Error fetching user information: HttpErrorResponse {
+  headers: _HttpHeaders {
+    normalizedNames: Map(12) {
+      [32m'cache-control'[39m => [32m'cache-control'[39m,
+      [32m'connection'[39m => [32m'connection'[39m,
+      [32m'content-length'[39m => [32m'content-length'[39m,
+      [32m'date'[39m => [32m'date'[39m,
+      [32m'expires'[39m => [32m'expires'[39m,
+      [32m'keep-alive'[39m => [32m'keep-alive'[39m,
+      [32m'pragma'[39m => [32m'pragma'[39m,
+      [32m'vary'[39m => [32m'vary'[39m,
+      [32m'www-authenticate'[39m => [32m'www-authenticate'[39m,
+      [32m'x-content-type-options'[39m => [32m'x-content-type-options'[39m,
+      [32m'x-frame-options'[39m => [32m'x-frame-options'[39m,
+      [32m'x-xss-protection'[39m => [32m'x-xss-protection'[39m
+    },
+    lazyUpdate: [1mnull[22m,
+    headers: Map(12) {
+      [32m'cache-control'[39m => [36m[Array][39m,
+      [32m'connection'[39m => [36m[Array][39m,
+      [32m'content-length'[39m => [36m[Array][39m,
+      [32m'date'[39m => [36m[Array][39m,
+      [32m'expires'[39m => [36m[Array][39m,
+      [32m'keep-alive'[39m => [36m[Array][39m,
+      [32m'pragma'[39m => [36m[Array][39m,
+      [32m'vary'[39m => [36m[Array][39m,
+      [32m'www-authenticate'[39m => [36m[Array][39m,
+      [32m'x-content-type-options'[39m => [36m[Array][39m,
+      [32m'x-frame-options'[39m => [36m[Array][39m,
+      [32m'x-xss-protection'[39m => [36m[Array][39m
+    }
+  },
+  status: [33m401[39m,
+  statusText: [32m'Unknown Error'[39m,
+  url: [32m'http://localhost:8080/api/auth/getauthenticateduser'[39m,
+  ok: [33mfalse[39m,
+  name: [32m'HttpErrorResponse'[39m,
+  message: [32m'Http failure response for http://localhost:8080/api/auth/getauthenticateduser: 401 '[39m,
+  error: [1mnull[22m
+}
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠦[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠧[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠇[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠏[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m187.80 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m188.64 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [1.314 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+Error fetching user information: HttpErrorResponse {
+  headers: _HttpHeaders {
+    normalizedNames: Map(12) {
+      [32m'cache-control'[39m => [32m'cache-control'[39m,
+      [32m'connection'[39m => [32m'connection'[39m,
+      [32m'content-length'[39m => [32m'content-length'[39m,
+      [32m'date'[39m => [32m'date'[39m,
+      [32m'expires'[39m => [32m'expires'[39m,
+      [32m'keep-alive'[39m => [32m'keep-alive'[39m,
+      [32m'pragma'[39m => [32m'pragma'[39m,
+      [32m'vary'[39m => [32m'vary'[39m,
+      [32m'www-authenticate'[39m => [32m'www-authenticate'[39m,
+      [32m'x-content-type-options'[39m => [32m'x-content-type-options'[39m,
+      [32m'x-frame-options'[39m => [32m'x-frame-options'[39m,
+      [32m'x-xss-protection'[39m => [32m'x-xss-protection'[39m
+    },
+    lazyUpdate: [1mnull[22m,
+    headers: Map(12) {
+      [32m'cache-control'[39m => [36m[Array][39m,
+      [32m'connection'[39m => [36m[Array][39m,
+      [32m'content-length'[39m => [36m[Array][39m,
+      [32m'date'[39m => [36m[Array][39m,
+      [32m'expires'[39m => [36m[Array][39m,
+      [32m'keep-alive'[39m => [36m[Array][39m,
+      [32m'pragma'[39m => [36m[Array][39m,
+      [32m'vary'[39m => [36m[Array][39m,
+      [32m'www-authenticate'[39m => [36m[Array][39m,
+      [32m'x-content-type-options'[39m => [36m[Array][39m,
+      [32m'x-frame-options'[39m => [36m[Array][39m,
+      [32m'x-xss-protection'[39m => [36m[Array][39m
+    }
+  },
+  status: [33m401[39m,
+  statusText: [32m'Unknown Error'[39m,
+  url: [32m'http://localhost:8080/api/auth/getauthenticateduser'[39m,
+  ok: [33mfalse[39m,
+  name: [32m'HttpErrorResponse'[39m,
+  message: [32m'Http failure response for http://localhost:8080/api/auth/getauthenticateduser: 401 '[39m,
+  error: [1mnull[22m
+}
+Error fetching user information: HttpErrorResponse {
+  headers: _HttpHeaders {
+    normalizedNames: Map(12) {
+      [32m'cache-control'[39m => [32m'cache-control'[39m,
+      [32m'connection'[39m => [32m'connection'[39m,
+      [32m'content-length'[39m => [32m'content-length'[39m,
+      [32m'date'[39m => [32m'date'[39m,
+      [32m'expires'[39m => [32m'expires'[39m,
+      [32m'keep-alive'[39m => [32m'keep-alive'[39m,
+      [32m'pragma'[39m => [32m'pragma'[39m,
+      [32m'vary'[39m => [32m'vary'[39m,
+      [32m'www-authenticate'[39m => [32m'www-authenticate'[39m,
+      [32m'x-content-type-options'[39m => [32m'x-content-type-options'[39m,
+      [32m'x-frame-options'[39m => [32m'x-frame-options'[39m,
+      [32m'x-xss-protection'[39m => [32m'x-xss-protection'[39m
+    },
+    lazyUpdate: [1mnull[22m,
+    headers: Map(12) {
+      [32m'cache-control'[39m => [36m[Array][39m,
+      [32m'connection'[39m => [36m[Array][39m,
+      [32m'content-length'[39m => [36m[Array][39m,
+      [32m'date'[39m => [36m[Array][39m,
+      [32m'expires'[39m => [36m[Array][39m,
+      [32m'keep-alive'[39m => [36m[Array][39m,
+      [32m'pragma'[39m => [36m[Array][39m,
+      [32m'vary'[39m => [36m[Array][39m,
+      [32m'www-authenticate'[39m => [36m[Array][39m,
+      [32m'x-content-type-options'[39m => [36m[Array][39m,
+      [32m'x-frame-options'[39m => [36m[Array][39m,
+      [32m'x-xss-protection'[39m => [36m[Array][39m
+    }
+  },
+  status: [33m401[39m,
+  statusText: [32m'Unknown Error'[39m,
+  url: [32m'http://localhost:8080/api/auth/getauthenticateduser'[39m,
+  ok: [33mfalse[39m,
+  name: [32m'HttpErrorResponse'[39m,
+  message: [32m'Http failure response for http://localhost:8080/api/auth/getauthenticateduser: 401 '[39m,
+  error: [1mnull[22m
+}
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m187.80 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m188.65 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.246 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[35mBrowser bundles[39m[37m    [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.js[39m[37m            [2m | [22m[2mmain[22m       [2m | [22m[36m187.82 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[39m
+[37m[35mServer bundles[39m[37m     [39m
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m[39m
+[37m[32mmain.server.mjs[39m[37m    [2m | [22m[2mmain.server[22m[2m | [22m[36m188.66 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.191 seconds][39m
+[37m[39m
+[37mPage reload sent to client(s).[39m
+Error fetching user information: HttpErrorResponse {
+  headers: _HttpHeaders {
+    normalizedNames: Map(12) {
+      [32m'cache-control'[39m => [32m'cache-control'[39m,
+      [32m'connection'[39m => [32m'connection'[39m,
+      [32m'content-length'[39m => [32m'content-length'[39m,
+      [32m'date'[39m => [32m'date'[39m,
+      [32m'expires'[39m => [32m'expires'[39m,
+      [32m'keep-alive'[39m => [32m'keep-alive'[39m,
+      [32m'pragma'[39m => [32m'pragma'[39m,
+      [32m'vary'[39m => [32m'vary'[39m,
+      [32m'www-authenticate'[39m => [32m'www-authenticate'[39m,
+      [32m'x-content-type-options'[39m => [32m'x-content-type-options'[39m,
+      [32m'x-frame-options'[39m => [32m'x-frame-options'[39m,
+      [32m'x-xss-protection'[39m => [32m'x-xss-protection'[39m
+    },
+    lazyUpdate: [1mnull[22m,
+    headers: Map(12) {
+      [32m'cache-control'[39m => [36m[Array][39m,
+      [32m'connection'[39m => [36m[Array][39m,
+      [32m'content-length'[39m => [36m[Array][39m,
+      [32m'date'[39m => [36m[Array][39m,
+      [32m'expires'[39m => [36m[Array][39m,
+      [32m'keep-alive'[39m => [36m[Array][39m,
+      [32m'pragma'[39m => [36m[Array][39m,
+      [32m'vary'[39m => [36m[Array][39m,
+      [32m'www-authenticate'[39m => [36m[Array][39m,
+      [32m'x-content-type-options'[39m => [36m[Array][39m,
+      [32m'x-frame-options'[39m => [36m[Array][39m,
+      [32m'x-xss-protection'[39m => [36m[Array][39m
+    }
+  },
+  status: [33m401[39m,
+  statusText: [32m'Unknown Error'[39m,
+  url: [32m'http://localhost:8080/api/auth/getauthenticateduser'[39m,
+  ok: [33mfalse[39m,
+  name: [32m'HttpErrorResponse'[39m,
+  message: [32m'Http failure response for http://localhost:8080/api/auth/getauthenticateduser: 401 '[39m,
+  error: [1mnull[22m
+}
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.215 seconds][39m
+[37m[39m
+Error fetching user information: HttpErrorResponse {
+  headers: _HttpHeaders {
+    normalizedNames: Map(12) {
+      [32m'cache-control'[39m => [32m'cache-control'[39m,
+      [32m'connection'[39m => [32m'connection'[39m,
+      [32m'content-length'[39m => [32m'content-length'[39m,
+      [32m'date'[39m => [32m'date'[39m,
+      [32m'expires'[39m => [32m'expires'[39m,
+      [32m'keep-alive'[39m => [32m'keep-alive'[39m,
+      [32m'pragma'[39m => [32m'pragma'[39m,
+      [32m'vary'[39m => [32m'vary'[39m,
+      [32m'www-authenticate'[39m => [32m'www-authenticate'[39m,
+      [32m'x-content-type-options'[39m => [32m'x-content-type-options'[39m,
+      [32m'x-frame-options'[39m => [32m'x-frame-options'[39m,
+      [32m'x-xss-protection'[39m => [32m'x-xss-protection'[39m
+    },
+    lazyUpdate: [1mnull[22m,
+    headers: Map(12) {
+      [32m'cache-control'[39m => [36m[Array][39m,
+      [32m'connection'[39m => [36m[Array][39m,
+      [32m'content-length'[39m => [36m[Array][39m,
+      [32m'date'[39m => [36m[Array][39m,
+      [32m'expires'[39m => [36m[Array][39m,
+      [32m'keep-alive'[39m => [36m[Array][39m,
+      [32m'pragma'[39m => [36m[Array][39m,
+      [32m'vary'[39m => [36m[Array][39m,
+      [32m'www-authenticate'[39m => [36m[Array][39m,
+      [32m'x-content-type-options'[39m => [36m[Array][39m,
+      [32m'x-frame-options'[39m => [36m[Array][39m,
+      [32m'x-xss-protection'[39m => [36m[Array][39m
+    }
+  },
+  status: [33m401[39m,
+  statusText: [32m'Unknown Error'[39m,
+  url: [32m'http://localhost:8080/api/auth/getauthenticateduser'[39m,
+  ok: [33mfalse[39m,
+  name: [32m'HttpErrorResponse'[39m,
+  message: [32m'Http failure response for http://localhost:8080/api/auth/getauthenticateduser: 401 '[39m,
+  error: [1mnull[22m
+}
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.204 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'Observable<(<Product>() => any)>' is not assignable to type 'Observable<Page<Product>>'.[39m[22m
+[1m[31m  Type '<Product>() => any' is not assignable to type 'Page<Product>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/admin-product.service.ts:75:4:[39m[22m
+[1m[31m[37m      75 │     [32mreturn[37m this.http.get<<Product>>(`http://localhost:8080/api/pro...[39m[22m
+[1m[31m         ╵     [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: '(' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/admin-product.service.ts:75:34:[39m[22m
+[1m[31m[37m      75 │     return this.http.get<<Product>[32m>[37m(`http://localhost:8080/api/pro...[39m[22m
+[1m[31m         ╵                                   [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.230 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2315: Type 'List' is not generic.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/admin-product.service.ts:75:25:[39m[22m
+[1m[31m[37m      75 │     return this.http.get<[32mList<Product>[37m>(`http://localhost:8080/api...[39m[22m
+[1m[31m         ╵                          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠴[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠦[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠧[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠇[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.817 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.html:16:56:[39m[22m
+[1m[31m[37m      16 │ ...Query.isSuccess() && productsQuery.data()!.[32mcontent[37m.length !== 0) {[39m[22m
+[1m[31m         ╵                                               [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminProductsComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.ts:19:15:[39m[22m
+[1m[31m[37m      19 │   templateUrl: [32m'./admin-products.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.html:33:47:[39m[22m
+[1m[31m[37m      33 │ ...ct of productsQuery.data()!.[32mcontent[37m; track product.publicId; le...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminProductsComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.ts:19:15:[39m[22m
+[1m[31m[37m      19 │   templateUrl: [32m'./admin-products.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.html:65:33:[39m[22m
+[1m[31m[37m      65 │ } @else if(productsQuery.data()!.[32mcontent[37m.length === 0) {[39m[22m
+[1m[31m         ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminProductsComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.ts:19:15:[39m[22m
+[1m[31m[37m     [39m[22m[1m[31m 19 │   templateUrl: [32m'./admin-products.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.348 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.html:16:56:[39m[22m
+[1m[31m[37m      16 │ ...Query.isSuccess() && productsQuery.data()!.[32mcontent[37m.length !== 0) {[39m[22m
+[1m[31m         ╵                                               [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminProductsComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.ts:19:15:[39m[22m
+[1m[31m[37m      19 │   templateUrl: [32m'./admin-products.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.html:33:47:[39m[22m
+[1m[31m[37m      33 │ ...ct of productsQuery.data()!.[32mcontent[37m; track product.publicId; le...[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminProductsComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.ts:19:15:[39m[22m
+[1m[31m[37m      19 │   templateUrl: [32m'./admin-products.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'content' does not exist on type 'any[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.html:65:33:[39m[22m
+[1m[31m[37m      65 │ } @else if(productsQuery.data()!.[32mcontent[37m.length === 0) {[39m[22m
+[1m[31m         ╵                                  [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminProductsComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.ts:19:15:[39m[22m
+[1m[31m[37m     [39m[22m[1m[31m 19 │   templateUrl: [32m'./admin-products.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.347 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'products$' does not exist on type 'AdminProductsComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.html:18:12:[39m[22m
+[1m[31m[37m      18 │ <div *ngIf="[32mproducts$[37m | async as products; else loading">[39m[22m
+[1m[31m         ╵             [32m~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminProductsComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.ts:19:15:[39m[22m
+[1m[31m[37m      19 │   templateUrl: [32m'./admin-products.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Object is of type 'unknown'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.html:19:25:[39m[22m
+[1m[31m[37m      19 │     <div *ngIf="products.[32mlength[37m > 0; else noProducts">[39m[22m
+[1m[31m         ╵                          [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminProductsComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.ts:19:15:[39m[22m
+[1m[31m[37m      19 │   templateUrl: [32m'./admin-products.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG2: Type 'unknown' is not assignable to type 'NgIterable<any> | null | undefined'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.html:36:40:[39m[22m
+[1m[31m[37m      36 │ ...       <tr *ngFor="let product [32mof[37m products; index as i" class="...[39m[22m
+[1m[31m         ╵                                   [32m~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminProductsComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.ts:19:15:[39m[22m
+[1m[31m[37m      19 │   templateUrl: [32m'./adm[39m[22m[1m[31min-products.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠼[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.425 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG2: Type 'Signal<any[]>' is not assignable to type 'NgIterable<any> | null | undefined'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.html:34:36:[39m[22m
+[1m[31m[37m      34 │ ...*ngFor="let product [32mof productsQuery.data; [37mindex as i" class="b...[39m[22m
+[1m[31m         ╵                        [32m~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminProductsComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.ts:19:15:[39m[22m
+[1m[31m[37m      19 │   templateUrl: [32m'./admin-products.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠙[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠹[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠸[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25h[37mApplication bundle generation failed. [0.369 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG2: Object is possibly 'undefined'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.html:17:41:[39m[22m
+[1m[31m[37m      17 │ ....isSuccess() && [32mproductsQuery.data()?.length > 0[37m; else noProduc...[39m[22m
+[1m[31m         ╵                    [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AdminProductsComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.ts:19:15:[39m[22m
+[1m[31m[37m      19 │   templateUrl: [32m'./admin-products.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+q
+[?25hfatal error: all goroutines are asleep - deadlock!
+
+goroutine 1 [chan receive]:
+github.com/evanw/esbuild/internal/helpers.(*ThreadSafeWaitGroup).Wait(...)
+	github.com/evanw/esbuild/internal/helpers/waitgroup.go:36
+main.runService.func2()
+	github.com/evanw/esbuild/cmd/esbuild/service.go:114 +0x51
+main.runService(0x1)
+	github.com/evanw/esbuild/cmd/esbuild/service.go:160 +0x517
+main.main()
+	github.com/evanw/esbuild/cmd/esbuild/main.go:241 +0x9d9
+
+goroutine 34 [chan receive]:
+main.runService.func1()
+	github.com/evanw/esbuild/cmd/esbuild/service.go:98 +0x45
+created by main.runService in goroutine 1
+	github.com/evanw/esbuild/cmd/esbuild/service.go:97 +0x1db
+
+goroutine 35 [chan receive]:
+main.(*serviceType).sendRequest(0xc000191ef0, {0x954100, 0xc000f24f90})
+	github.com/evanw/esbuild/cmd/esbuild/service.go:192 +0x12b
+main.runService.func3()
+	github.com/evanw/esbuild/cmd/esbuild/service.go:125 +0x3e
+created by main.runService in goroutine 1
+	github.com/evanw/esbuild/cmd/esbuild/service.go:122 +0x31b

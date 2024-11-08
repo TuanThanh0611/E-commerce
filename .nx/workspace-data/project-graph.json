@@ -13689,6 +13689,11 @@
       },
       {
         "source": "ecom-frontend",
+        "target": "npm:postcss",
+        "type": "static"
+      },
+      {
+        "source": "ecom-frontend",
         "target": "npm:@angular/router",
         "type": "static"
       },
@@ -13700,6 +13705,11 @@
       {
         "source": "ecom-frontend",
         "target": "npm:ngxtension",
+        "type": "static"
+      },
+      {
+        "source": "ecom-frontend",
+        "target": "npm:@fortawesome/free-solid-svg-icons",
         "type": "static"
       },
       {
@@ -13725,11 +13735,6 @@
       {
         "source": "ecom-frontend",
         "target": "npm:ngx-stripe",
-        "type": "static"
-      },
-      {
-        "source": "ecom-frontend",
-        "target": "npm:@fortawesome/free-solid-svg-icons",
         "type": "static"
       },
       {

@@ -1,7 +1,7 @@
 <div class="grid grid-cols-3">
   <div></div>
   <form id="createForm" (ngSubmit)="create()" [formGroup]="createForm">
-    <h1 class="text-lg font-bold">Create a new Product</h1>
+    <h1 class="text-lg font-bold">Create a new Product:)</h1>
     <label class="form-control w-full">
       <div class="label">
         <span class="label-text">Name</span>
@@ -102,15 +102,21 @@
       <div class="label">
         <span class="label-text">Category</span>
       </div>
-      <select class="select select-bordered w-full" formControlName="category">
-        <option disabled selected>Select size</option>
-        @if (categoriesQuery.isSuccess()) {
-          @for (category of categoriesQuery.data()!.content; track category.publicId) {
-            <option value="{{category.publicId}}+{{category.name}}">{{ category.name }}</option>
-          }
-        }
-      </select>
-      <div class="label"></div>
+
+
+        <select class="select select-bordered w-full" formControlName="category">
+            <option disabled selected>Select category</option>
+
+            <!-- Kiểm tra trạng thái thành công và danh sách có dữ liệu -->
+            <ng-container *ngIf="categoriesQuery.isSuccess() && categoriesQuery.data()?.length !== 0">
+                <option *ngFor="let category of categoriesQuery.data(); trackBy: trackByPublicId"
+                        [value]="category.publicId + '+' + category.name">
+                    {{ category.name || 'Unknown Category' }}
+                </option>
+            </ng-container>
+        </select>
+
+        <div class="label"></div>
     </label>
     <label class="form-control w-full">
       <div class="label">

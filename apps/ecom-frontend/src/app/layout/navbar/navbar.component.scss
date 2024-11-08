@@ -1,3 +1,106 @@
-.menu-icon {
-  font-size: 1.8rem;
+.navbar {
+  background: linear-gradient(90deg, #3490dc, #6574cd);
+  color: #fff;
+  padding: 1rem 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .logo {
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #f56565;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.navbar .menu-horizontal li {
+  margin: 0 1rem;
+}
+
+.navbar .menu-horizontal li a,
+.navbar .menu-horizontal li button {
+  color: #ffffff;
+  font-weight: 600;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.navbar .menu-horizontal li a:hover,
+.navbar .menu-horizontal li button:hover {
+  color: #f1f1f1;
+  transform: scale(1.1);
+}
+
+.navbar .menu-horizontal details summary {
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  transition: background-color 0.3s ease;
+}
+
+.navbar .menu-horizontal details summary:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.navbar-end .dropdown .avatar-unknown {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: 2px solid #e53e3e;
+  transition: transform 0.2s ease;
+}
+
+.navbar-end .dropdown .menu-icon {
+  font-size: 1.5rem;
+  color: #ffffff;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.navbar-end .dropdown .menu-icon:hover {
+  color: #ffed4a;
+  transform: scale(1.1);
+}
+
+.indicator .badge-primary {
+  background-color: #e53e3e;
+  color: #ffffff;
+  border-radius: 50%;
+}
+
+/* Hover effect for the cart icon */
+.navbar-end .indicator .menu-icon:hover {
+  color: #f56565;
+}
+
+.dropdown-content {
+  background-color: #ffffff; /* Đặt màu nền trắng */
+  color: #000000; /* Màu chữ đen cho rõ ràng */
+  border-radius: 0.5rem;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.15);
+  margin-top: 0.5rem;
+  padding: 10px; /* Thêm khoảng cách padding để dễ nhìn */
+  z-index: 1000; /* Đảm bảo dropdown luôn nằm trên các phần tử khác */
+}
+
+.dropdown-content li {
+  padding: 8px 12px; /* Tạo khoảng cách trong các mục */
+  background-color: #f1f1f1; /* Đặt màu nền nhẹ cho các mục */
+  color: #333; /* Màu chữ đậm */
+  border-radius: 5px; /* Bo tròn nhẹ */
+}
+
+.dropdown-content li:hover {
+  background-color: #e2e2e2; /* Màu nền khi hover */
+}
+
+/* Đặt màu đen đậm và tăng độ dày của chữ */
+.z-30 a {
+  color: #000000 !important; /* Màu đen đậm và thêm !important để ưu tiên */
+  font-weight: bold; /* Đặt font đậm để chữ nổi bật */
+  text-decoration: none; /* Bỏ gạch chân */
+  transition: color 0.3s ease;
+}
+
+/* Hiệu ứng hover với màu đậm hơn */
+.z-30 a:hover {
+  color: #1d4ed8; /* Màu xanh đậm khi hover */
 }

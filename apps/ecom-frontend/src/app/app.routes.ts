@@ -16,11 +16,18 @@ import { SigninComponent } from './auth/signin/signin.component';
 import { AuthenticateComponent } from './auth/authenticate/authenticate.component';
 import {UpdateComponent} from "./auth/update/update.component";
 import {ChangePasswordComponent} from "./auth/change-password/change-password.component";
+import {RoleGuard} from "./auth/role-guard";
+import {TestComponent} from "./auth/service/test.component";
 export const appRoutes: Route[] = [
   {
     path: 'authenticate',
     component: AuthenticateComponent
+  },
+  {
+    path: 'test',
+    component: TestComponent
   }
+
   ,
   {
     path: 'register',
@@ -41,43 +48,29 @@ export const appRoutes: Route[] = [
   {
     path: 'admin/categories/list',
     component: AdminCategoriesComponent,
-    canActivate: [roleCheckGuard],
-    data: {
-      authorities: ['ROLE_ADMIN'],
-    },
+    canActivate: [RoleGuard],
   },
   {
     path: 'admin/categories/create',
     component: CreateCategoryComponent,
-    canActivate: [roleCheckGuard],
-    data: {
-      authorities: ['ROLE_ADMIN'],
-    },
+    canActivate: [RoleGuard],
+
   },
   {
     path: 'admin/products/create',
     component: CreateProductComponent,
-    canActivate: [roleCheckGuard],
-    data: {
-      authorities: ['ROLE_ADMIN'],
-    },
+    canActivate: [RoleGuard],
   },
   {
     path: 'admin/products/list',
     component: AdminProductsComponent,
-    canActivate: [roleCheckGuard],
-    data: {
-      authorities: ['ROLE_ADMIN'],
-    },
+    canActivate: [RoleGuard],
+
   },
   {
     path: 'admin/orders/list',
     component: AdminOrdersComponent,
-    canActivate: [roleCheckGuard],
-    data: {
-      authorities: ['ROLE_ADMIN'],
-    },
-  },
+    canActivate: [RoleGuard],},
   {
     path: '',
     component: HomeComponent,

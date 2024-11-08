@@ -8,24 +8,35 @@
   </div>
   <div class="navbar-center flex">
     <div class="menu menu-sm sm:menu-lg menu-horizontal px-1">
+        <li>
+            <button class="link" (click)="oko()">Test</button>
+        </li>
       <li><a href="/">Home</a></li>
       <li>
         <details #productsMenu>
           <summary>Products</summary>
-          <ul class="z-30">
-            @if (categoryQuery.isSuccess() && categoryQuery.data()) {
-              @for (category of categoryQuery.data().content; track category.publicId) {
-                <li><a [routerLink]="['products']"
-                       [queryParams]="{category: category.publicId}"
-                       (click)="closeMenu(productsMenu)"
-                       (clickOutside)="closeMenu(productsMenu)">{{ category.name }}</a></li>
-              }
-            }
-          </ul>
+            <ul class="z-30">
+                <!-- Kiểm tra nếu có dữ liệu từ categoryQuery -->
+                <ng-container *ngIf="categoryQuery.isSuccess() && categoryQuery.data(); else noData">
+                    <li *ngFor="let category of categoryQuery.data()">
+                        <a [routerLink]="['/products']"
+                           [queryParams]="{ category: category.publicId }"
+                           (click)="closeMenu(productsMenu)"
+                           (clickOutside)="closeMenu(productsMenu)">
+                            {{ category.name }}
+                        </a>
+                    </li>
+                </ng-container>
+            </ul>
+
+            <!-- Template hiển thị khi không có dữ liệu -->
+            <ng-template #noData>
+                <li><span>No categories available</span></li>
+            </ng-template>
         </details>
       </li>
       @if (connectedUserQuery?.status() === "success"
-      && authService.hasAnyAuthorities(connectedUserQuery?.data()!, "ROLE_ADMIN")) {
+      && authService.hasAnyRoles(connectedUserQuery?.data()!, "ADMIN")) {
         <li>
           <details #adminMenu>
             <summary>Admin</summary>
